@@ -13,14 +13,15 @@ TODO
 
 DONE
 * <done: consider, intent to commit>
-* <done: consider, install Gramps, start to assess it, wip >
+* <done: consider, install Gramps, start to assess it capabilities, evaluating, wip >
 
 ### Libs
 
 Geneaology
-* Gramps, [WP](https://en.wikipedia.org/wiki/Gramps_(software)), assessing.
+* Gramps, [WP](https://en.wikipedia.org/wiki/Gramps_(software)), Python, evaluating, 
+* ...
 
 ## References
 
-Terms
+Termso
 * Genealogy
