@@ -13,7 +13,7 @@ TODO
 DONE
 * <done: consider, intent to commit>
 * <done: consider, install Gramps, start to assess it capabilities, evaluating, wip >
-* <done: consider, fisrt project /wcr Eofo Wacer, Earwaker, pronouced Erriker, watchful as a boar, >
+* <done: consider, fisrt project /wcr Eoforwacer, Earwaker, pronouced Erricker, watchful as a boar, >
 
 ### Libs
 
