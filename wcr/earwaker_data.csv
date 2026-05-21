@@ -1,15 +1,28 @@
 Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0001],,"Middelsex, England, United Kingdom",County,,,,,
 [P0002],,"Newcastle on Tyne, Northumberland, England, United Kingdom",City,,,,,
+[P0003],,"Northumberland, England, United Kingdom",County,,,,,
+[P0004],,"Roxburghshire, Scotland,  United Kingdom",County,,,,,
+[P0005],,"North Riding, England, United Kingdom",County,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0001],,Caroline,,,,Freatherstone,Miss,female,1903-02-19,[P0002],,,,,,,,,,,
+[I0006],,Caroline,,,,Adams,,female,1881,[P0005],,,,,1956,,,,,,
+[I0009],,Charlotte Eleanor,,,,Orpwood,Miss,female,1875,[P0001],,,,,,,,,,,
 [I0000],,Francis Joseph,,Charlie,,Earwaker,Mr,male,1936-07-16,[P0001],,,,,,,,,,,
-[I0002],,Joseph Ernest,,,,Earwaker,Mr,male,1903,,,,,,,,,,,,
+[I0008],,John,,,,Earwaker,Mr,male,1871,[P0001],,,,,,,,,,,
+[I0007],,Joseph,,,,Freatherstone,Mr,male,1872,[P0004],,,,,,,,,,,
+[I0002],,Joseph Ernest,,,,Earwaker,Mr,male,1903,[P0001],,,,,,,,,,,
+[I0005],,Ruth,,,,Earwaker,Mrs,female,1964-06-02,,,,,,,,,,,,
+[I0004],,York,,,,Earwaker,Mr,male,1962-12-17,,,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
-[F0002],[I0002],[I0001],,,,
+[F0002],[I0002],[I0001],1932,,,
+[F0003],[I0007],[I0006],1900,,,
+[F0004],[I0008],[I0009],1893,[P0001],,
 
 Family,Child
 [F0002],[I0000]
+[F0003],[I0001]
+[F0004],[I0002]
 
