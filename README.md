@@ -1,6 +1,6 @@
 # Genealogy gny
 
-Surfs survival sorrow sweat shire sward ... swords and sorcery
+Family history. in the large and in the small.
 
 ## Notes
 

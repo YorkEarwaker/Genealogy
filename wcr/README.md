@@ -1,5 +1,7 @@
 # Eofo Wacer wcr
 
+Surfs survival sorrow sweat shire sward ... swords and sorcery.
+
 A tale of the serfdom in the British Isles of the people named Earwaker.
 
 ## Notes
