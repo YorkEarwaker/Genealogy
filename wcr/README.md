@@ -1,6 +1,6 @@
 # Eofor Wacer wcr
 
-Surfs struggle sorrow sweat shire sward ... sword savagery ... survival.
+Surfs struggle sorrow sweat suffering ... sword savagery ... survival.
 
 A record of the serfdom in the British Isles of the people named Earwaker.
  
