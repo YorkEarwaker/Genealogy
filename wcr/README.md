@@ -23,7 +23,8 @@ TODO
 * <todo: consider, source other etymology for various names in the family group by marriage, >
 * <todo: consider, separate projects for each group by marriage, and the arrising web of relationships, >
 * <todo: consider, not sure about terms; shire sward sorcery . possibly open to misinterpretation? topic mashup issues, >
-* <todo: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? >
+* <todo: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? all three are intersting, others? >
+* <todo: consider, other peoples Earwaker family tree activities, genealogical research of others named Earwaker who have traveled this path, >
 
 DONE
 * <done: consdier, intent to commit>
@@ -36,4 +37,7 @@ DONE
 
 Etymology
 * Origin, popularity and meaning of the last name EARWAKER, [WS](https://en.geneanet.org/surnames/EARWAKER), Geneanet
+* ...
+
+Family trees - 
 * ...

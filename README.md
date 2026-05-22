@@ -28,11 +28,12 @@ DONE
 
 ### Libs
 
-Geneaology
+Genealogy
 * Gramps, [WP](https://en.wikipedia.org/wiki/Gramps_(software)), Python, evaluating, 
 * ...
 
 ## References
 
-Termso
-* Genealogy
+Terms
+* Genealogy, [WP](https://en.wikipedia.org/wiki/Genealogy)
+* Genealogy software, [WP](https://en.wikipedia.org/wiki/Genealogy_software)
