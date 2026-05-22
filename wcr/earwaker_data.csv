@@ -8,23 +8,33 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0007],,"Alexandria, Virginia, USA",City,,,,,
 [P0008],,"Arlington, Virginia, USA",City,,,,,
 [P0009],,"Sydney, New South Wales, Australia",City,,,,,
+[P0010],,"Roscommon, Ireland",County,,,,,
+[P0011],,"Mayo, Ireland",County,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0015],,Angela Eugenia,,,,Alcaine,Mrs,female,1935,[P0006],,,,,2013,,,,,,
+[I0028],,Ann,,,,Robson,Mrs,female,,,,,,,,,,,,,
 [I0011],,Carmen Elena,,Charlie,,Alcaine,Mrs,female,1946,[P0006],,,,,,,,,,,
 [I0001],,Caroline,,,,Freatherstone,Miss,female,1903-02-19,[P0002],,,,,,,,,,,
 [I0006],,Caroline,,,,Adams,,female,1881,[P0005],,,,,1956,,,,,,
 [I0009],,Charlotte Eleanor,,,,Orpwood,Miss,female,1875,[P0001],,,,,,,,,,,
+[I0024],,Charlotte Elizabeth,,,,Flindall,Mrs,female,,,,,,,,,,,,,
 [I0010],,Elizabeth Dorothy,,,,Ash,Mrs,female,1938,,,,,,,,,,,,
-[I0020],,Ethel Doroth,,,,Bradley,Mrs,female,,,,,,,,,,,,,
+[I0020],,Ethel Dorothy,,,,Bradley,Mrs,female,,,,,,,,,,,,,
 [I0017],,Father of Carmen & Eugenia,,,,Alcaine,Snr,male,,,,,,,,,,,,,
 [I0000],,Francis Joseph,,Charlie,,Earwaker,Mr,male,1936-07-16,[P0001],,,,,,,,,,,
+[I0021],,Hannah Sarah,,,,Rose,Mrs,female,1837,[P0001],,,,,,,,,,,
 [I0019],,Henry Herbert,,,,Ash,Mr,male,,,,,,,,,,,,,
+[I0022],,James,,,,Earwaker,Mr,male,1835,[P0001],,,,,,,,,,,
+[I0027],,James Frederick,,,,Adams,Mr,male,,,,,,,,,,,,,
+[I0023],,James Moxey,,,,Orpwood,Mr,male,,,,,,,,,,,,,
 [I0008],,John,,,,Earwaker,Mr,male,1871,[P0001],,,,,,,,,,,
+[I0026],,John,,,,Featherstone,Mr,male,1834,[P0010],,,,,,,,,,,
 [I0007],,Joseph,,,,Freatherstone,Mr,male,1872,[P0004],,,,,,,,,,,
 [I0002],,Joseph Ernest,,,,Earwaker,Mr,male,1903,[P0001],,,,,,,,,,,
 [I0012],,Luis Eduardo,,,,Martinez,Mr,male,,,,,,,,,,,,,
 [I0013],,Margarita Eugenia,,Daisy,,Martinez,Mrs,female,,,,,,,,,,,,,
+[I0025],,Mary,,,,Barrett,Mrs,female,1834,[P0011],,,,,,,,,,,
 [I0018],,Mother of Carmen & Eugenia,,,,?,,female,,,,,,,,,,,,,
 [I0014],,Rene Fransisco,,,,Martinez,Mr,male,,,,,,,,,,,,,
 [I0016],,Ross,,,,Wotherspoon,Mr,male,,,,,,,,,,,,,
@@ -41,6 +51,9 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0008],[I0000],[I0010],1960,,,
 [F0009],[I0017],[I0018],,,,
 [F0010],[I0019],[I0020],,,,
+[F0011],[I0022],[I0021],1859,[P0001],,
+[F0012],[I0023],[I0024],1863,[P0001],,
+[F0013],[I0026],[I0025],1855,[P0004],,
 
 Family,Child
 [F0002],[I0000]
@@ -57,4 +70,7 @@ Family,Child
 [F0009],[I0015]
 [F0009],[I0011]
 [F0010],[I0010]
+[F0011],[I0008]
+[F0012],[I0009]
+[F0013],[I0007]
 

@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 22 MAY 2026
-2 TIME 13:07:45
+2 TIME 19:45:20
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -44,12 +44,13 @@
 2 TYPE Caroline Featherstones BD
 2 DATE 19 FEB 1903
 2 PLAC Newcastle on Tyne, Northumberland, England, United Kingdom
+1 RELI Catholic
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 21 MAY 2026
-3 TIME 22:59:58
+2 DATE 22 MAY 2026
+3 TIME 19:18:55
 0 @I0002@ INDI
 1 NAME Joseph Ernest /Earwaker/
 2 TYPE birth
@@ -135,10 +136,12 @@
 2 TYPE Joseph Featherstone BD
 2 DATE 1872
 2 PLAC Roxburghshire, Scotland,  United Kingdom
+1 FAMC @F0013@
+2 PEDI birth
 1 FAMS @F0003@
 1 CHAN
-2 DATE 21 MAY 2026
-3 TIME 22:56:23
+2 DATE 22 MAY 2026
+3 TIME 15:37:09
 0 @I0008@ INDI
 1 NAME John /Earwaker/
 2 TYPE birth
@@ -150,10 +153,13 @@
 2 TYPE John Earwaker BD
 2 DATE 1871
 2 PLAC Middelsex, England, United Kingdom
+1 OCCU Labourer
+1 FAMC @F0011@
+2 PEDI birth
 1 FAMS @F0004@
 1 CHAN
-2 DATE 21 MAY 2026
-3 TIME 23:35:05
+2 DATE 22 MAY 2026
+3 TIME 15:58:42
 0 @I0009@ INDI
 1 NAME Charlotte Eleanor /Orpwood/
 2 TYPE birth
@@ -165,10 +171,12 @@
 2 TYPE Charlotte Eleanor Orpwood BD
 2 DATE 1875
 2 PLAC Middelsex, England, United Kingdom
+1 FAMC @F0012@
+2 PEDI birth
 1 FAMS @F0004@
 1 CHAN
-2 DATE 21 MAY 2026
-3 TIME 23:33:41
+2 DATE 22 MAY 2026
+3 TIME 15:14:32
 0 @I0010@ INDI
 1 NAME Elizabeth Dorothy /Ash/
 2 TYPE birth
@@ -187,7 +195,7 @@
 1 FAMS @F0008@
 1 CHAN
 2 DATE 22 MAY 2026
-3 TIME 12:52:06
+3 TIME 19:35:11
 0 @I0011@ INDI
 1 NAME Carmen Elena /Alcaine/
 2 TYPE birth
@@ -321,16 +329,121 @@
 2 DATE 22 MAY 2026
 3 TIME 12:32:14
 0 @I0020@ INDI
-1 NAME Ethel Doroth /Bradley/
+1 NAME Ethel Dorothy /Bradley/
 2 TYPE birth
-2 GIVN Ethel Doroth
+2 GIVN Ethel Dorothy
 2 SPFX Bradley
 2 NPFX Mrs
 1 SEX F
 1 FAMS @F0010@
 1 CHAN
 2 DATE 22 MAY 2026
-3 TIME 12:32:14
+3 TIME 19:29:15
+0 @I0021@ INDI
+1 NAME Hannah Sarah /Rose/
+2 TYPE birth
+2 GIVN Hannah Sarah
+2 SPFX Rose
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Hannah Sarah Rose BD
+2 DATE 1837
+2 PLAC Middelsex, England, United Kingdom
+1 RELI Jewish
+1 FAMS @F0011@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 19:22:58
+0 @I0022@ INDI
+1 NAME James /Earwaker/
+2 TYPE birth
+2 GIVN James
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE James Earwaker BD
+2 DATE 1835
+2 PLAC Middelsex, England, United Kingdom
+1 FAMS @F0011@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 14:34:33
+0 @I0023@ INDI
+1 NAME James Moxey /Orpwood/
+2 TYPE birth
+2 GIVN James Moxey
+2 SPFX Orpwood
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0012@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 15:12:19
+0 @I0024@ INDI
+1 NAME Charlotte Elizabeth /Flindall/
+2 TYPE birth
+2 GIVN Charlotte Elizabeth
+2 SPFX Flindall
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0012@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 15:12:19
+0 @I0025@ INDI
+1 NAME Mary /Barrett/
+2 TYPE birth
+2 GIVN Mary
+2 SPFX Barrett
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Mary Barrett BD
+2 DATE 1834
+2 PLAC Mayo, Ireland
+1 RELI Catholic
+1 OCCU Wife
+1 FAMS @F0013@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 19:22:11
+0 @I0026@ INDI
+1 NAME John /Featherstone/
+2 TYPE birth
+2 GIVN John
+2 SPFX Featherstone
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE John Featherstone BD
+2 DATE 1834
+2 PLAC Roscommon, Ireland
+1 FAMS @F0013@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 15:56:14
+0 @I0027@ INDI
+1 NAME James Frederick /Adams/
+2 TYPE birth
+2 GIVN James Frederick
+2 SPFX Adams
+2 NPFX Mr
+1 SEX M
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 16:06:06
+0 @I0028@ INDI
+1 NAME Ann /Robson/
+2 TYPE birth
+2 GIVN Ann
+2 SPFX Robson
+2 NPFX Mrs
+1 SEX F
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 16:07:09
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
@@ -420,8 +533,43 @@
 0 @F0010@ FAM
 1 HUSB @I0019@
 1 WIFE @I0020@
+1 MARR
+2 TYPE Ethel Dorothy Bradley to Henry Herbert Ash
 1 CHIL @I0010@
 1 CHAN
 2 DATE 22 MAY 2026
-3 TIME 12:32:14
+3 TIME 19:35:11
+0 @F0011@ FAM
+1 HUSB @I0022@
+1 WIFE @I0021@
+1 MARR
+2 TYPE Hannah Sarah Rose to James Earwaker
+2 DATE 1859
+2 PLAC Middelsex, England, United Kingdom
+1 CHIL @I0008@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 14:39:30
+0 @F0012@ FAM
+1 HUSB @I0023@
+1 WIFE @I0024@
+1 MARR
+2 TYPE Charlotte Elizabeth Findell to James Moxey Orpwood
+2 DATE 1863
+2 PLAC Middelsex, England, United Kingdom
+1 CHIL @I0009@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 15:14:32
+0 @F0013@ FAM
+1 HUSB @I0026@
+1 WIFE @I0025@
+1 MARR
+2 TYPE Mary Barrett to John Featherstone
+2 DATE 1855
+2 PLAC Roxburghshire, Scotland,  United Kingdom
+1 CHIL @I0007@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 15:37:09
 0 TRLR
