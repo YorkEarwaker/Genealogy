@@ -1,0 +1,427 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS 6.0.8
+2 NAME Gramps
+1 DATE 22 MAY 2026
+2 TIME 13:07:45
+1 SUBM @SUBM@
+1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
+1 COPR Copyright (c) 2026 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+0 @I0000@ INDI
+1 NAME Francis Joseph /Earwaker/
+2 TYPE birth
+2 GIVN Francis Joseph
+2 SPFX Earwaker
+2 NPFX Mr
+2 NICK Charlie
+1 SEX M
+1 BIRT
+2 TYPE Francis Joseph Earwaker BD
+2 DATE 16 JUL 1936
+2 PLAC Middelsex, England, United Kingdom
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0008@
+1 FAMS @F0005@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 12:59:28
+0 @I0001@ INDI
+1 NAME Caroline /Freatherstone/
+2 TYPE birth
+2 GIVN Caroline
+2 SPFX Freatherstone
+2 NPFX Miss
+1 SEX F
+1 BIRT
+2 TYPE Caroline Featherstones BD
+2 DATE 19 FEB 1903
+2 PLAC Newcastle on Tyne, Northumberland, England, United Kingdom
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0002@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 22:59:58
+0 @I0002@ INDI
+1 NAME Joseph Ernest /Earwaker/
+2 TYPE birth
+2 GIVN Joseph Ernest
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Joseph Ernest Earwaker BD
+2 DATE 1903
+2 PLAC Middelsex, England, United Kingdom
+1 FAMC @F0004@
+2 PEDI birth
+1 FAMS @F0002@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 23:17:24
+0 @I0004@ INDI
+1 NAME York /Earwaker/
+2 TYPE birth
+2 GIVN York
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE York Earwaker BD
+2 DATE 17 DEC 1962
+1 FAMC @F0008@
+2 PEDI birth
+1 FAMC @F0005@
+2 _FREL birth
+2 _MREL Step
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 13:04:05
+0 @I0005@ INDI
+1 NAME Ruth /Earwaker/
+2 TYPE birth
+2 GIVN Ruth
+2 SPFX Earwaker
+2 NPFX Mrs
+1 NAME Ruth Marshall //
+2 TYPE aka
+2 GIVN Ruth Marshall
+1 SEX F
+1 BIRT
+2 TYPE Ruth Earwaker BD
+2 DATE 2 JUN 1964
+1 FAMC @F0008@
+2 PEDI birth
+1 FAMC @F0005@
+2 _FREL birth
+2 _MREL Step
+1 FAMS @F0007@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 13:00:54
+0 @I0006@ INDI
+1 NAME Caroline /Adams/
+2 TYPE birth
+2 GIVN Caroline
+2 SPFX Adams
+1 SEX F
+1 BIRT
+2 TYPE Caroline Adams BD
+2 DATE 1881
+2 PLAC North Riding, England, United Kingdom
+1 DEAT
+2 TYPE Caroline Adams DD
+2 DATE 1956
+1 FAMS @F0003@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 22:56:23
+0 @I0007@ INDI
+1 NAME Joseph /Freatherstone/
+2 TYPE birth
+2 GIVN Joseph
+2 SPFX Freatherstone
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Joseph Featherstone BD
+2 DATE 1872
+2 PLAC Roxburghshire, Scotland,  United Kingdom
+1 FAMS @F0003@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 22:56:23
+0 @I0008@ INDI
+1 NAME John /Earwaker/
+2 TYPE birth
+2 GIVN John
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE John Earwaker BD
+2 DATE 1871
+2 PLAC Middelsex, England, United Kingdom
+1 FAMS @F0004@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 23:35:05
+0 @I0009@ INDI
+1 NAME Charlotte Eleanor /Orpwood/
+2 TYPE birth
+2 GIVN Charlotte Eleanor
+2 SPFX Orpwood
+2 NPFX Miss
+1 SEX F
+1 BIRT
+2 TYPE Charlotte Eleanor Orpwood BD
+2 DATE 1875
+2 PLAC Middelsex, England, United Kingdom
+1 FAMS @F0004@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 23:33:41
+0 @I0010@ INDI
+1 NAME Elizabeth Dorothy /Ash/
+2 TYPE birth
+2 GIVN Elizabeth Dorothy
+2 SPFX Ash
+2 NPFX Mrs
+1 NAME Elizabeth Dorothy Earwaker //
+2 TYPE married
+2 GIVN Elizabeth Dorothy Earwaker
+1 SEX F
+1 BIRT
+2 TYPE Elizabeth Dorothy Ash BD
+2 DATE 1938
+1 FAMC @F0010@
+2 PEDI birth
+1 FAMS @F0008@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 12:52:06
+0 @I0011@ INDI
+1 NAME Carmen Elena /Alcaine/
+2 TYPE birth
+2 GIVN Carmen Elena
+2 SPFX Alcaine
+2 NPFX Mrs
+2 NICK Charlie
+1 NAME Carmen Elena Martinez //
+2 TYPE married
+2 GIVN Carmen Elena Martinez
+1 SEX F
+1 BIRT
+2 TYPE Carmen Elena Alcaine BD
+2 DATE 1946
+2 PLAC San Salvador, San Salvador, El Salvador
+1 FAMC @F0009@
+2 PEDI birth
+1 FAMS @F0005@
+1 FAMS @F0006@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:59:14
+0 @I0012@ INDI
+1 NAME Luis Eduardo /Martinez/
+2 TYPE birth
+2 GIVN Luis Eduardo
+2 SPFX Martinez
+2 NPFX Mr
+1 SEX M
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMC @F0005@
+2 _FREL Step
+2 _MREL birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:44:05
+0 @I0013@ INDI
+1 NAME Margarita Eugenia /Martinez/
+2 TYPE birth
+2 GIVN Margarita Eugenia
+2 SPFX Martinez
+2 NPFX Mrs
+2 NICK Daisy
+1 SEX F
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMC @F0005@
+2 _FREL Step
+2 _MREL birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:44:05
+0 @I0014@ INDI
+1 NAME Rene Fransisco /Martinez/
+2 TYPE birth
+2 GIVN Rene Fransisco
+2 SPFX Martinez
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0006@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 09:31:13
+0 @I0015@ INDI
+1 NAME Angela Eugenia /Alcaine/
+2 TYPE birth
+2 GIVN Angela Eugenia
+2 SPFX Alcaine
+2 NPFX Mrs
+1 NAME Eugenia Alcaine Stillman //
+2 TYPE married
+2 GIVN Eugenia Alcaine Stillman
+1 NAME Angela Eugenia Alcaine Stillman //
+2 TYPE married
+2 GIVN Angela Eugenia Alcaine Stillman
+1 SEX F
+1 BIRT
+2 TYPE Angela Eugenia Alcaine BD
+2 DATE 1935
+2 PLAC San Salvador, San Salvador, El Salvador
+1 DEAT
+2 TYPE Angela Eugenia Alcaine DD
+2 DATE 2013
+1 FAMC @F0009@
+2 PEDI birth
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:59:14
+0 @I0016@ INDI
+1 NAME Ross /Wotherspoon/
+2 TYPE birth
+2 GIVN Ross
+2 SPFX Wotherspoon
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0007@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 10:18:27
+0 @I0017@ INDI
+1 NAME Father of Carmen & Eugenia /Alcaine/
+2 TYPE birth
+2 GIVN Father of Carmen & Eugenia
+2 SPFX Alcaine
+2 NPFX Snr
+1 SEX M
+1 FAMS @F0009@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:59:14
+0 @I0018@ INDI
+1 NAME Mother of Carmen & Eugenia /?/
+2 TYPE birth
+2 GIVN Mother of Carmen & Eugenia
+2 SPFX ?
+1 SEX F
+1 FAMS @F0009@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:59:14
+0 @I0019@ INDI
+1 NAME Henry Herbert /Ash/
+2 TYPE birth
+2 GIVN Henry Herbert
+2 SPFX Ash
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0010@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 12:32:14
+0 @I0020@ INDI
+1 NAME Ethel Doroth /Bradley/
+2 TYPE birth
+2 GIVN Ethel Doroth
+2 SPFX Bradley
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0010@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 12:32:14
+0 @F0002@ FAM
+1 HUSB @I0002@
+1 WIFE @I0001@
+1 MARR
+2 TYPE Caroline Feathersone to Joseph Earnest Earwaker
+2 DATE 1932
+1 CHIL @I0000@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 22:54:35
+0 @F0003@ FAM
+1 HUSB @I0007@
+1 WIFE @I0006@
+1 MARR
+2 TYPE Caroline Adams to Joseph Earwaker
+2 DATE 1900
+1 CHIL @I0001@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 22:59:58
+0 @F0004@ FAM
+1 HUSB @I0008@
+1 WIFE @I0009@
+1 MARR
+2 TYPE Charlotte Eleanor Orpwood to John Earwaker
+2 DATE 1893
+2 PLAC Middelsex, England, United Kingdom
+1 CHIL @I0002@
+1 CHAN
+2 DATE 21 MAY 2026
+3 TIME 23:17:24
+0 @F0005@ FAM
+1 HUSB @I0000@
+1 WIFE @I0011@
+1 MARR
+2 TYPE Carmen Elena Martinez to Francis Joseph Earwaker
+2 DATE 1980
+2 PLAC Alexandria, Virginia, USA
+1 CHIL @I0004@
+1 CHIL @I0005@
+1 CHIL @I0013@
+1 CHIL @I0012@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:44:05
+0 @F0006@ FAM
+1 HUSB @I0014@
+1 WIFE @I0011@
+1 MARR
+2 TYPE Carmen Elena Alcaine to Rene Fransisco Martinez
+2 DATE 1960
+2 PLAC Arlington, Virginia, USA
+1 CHIL @I0013@
+1 CHIL @I0012@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 09:33:51
+0 @F0007@ FAM
+1 HUSB @I0016@
+1 WIFE @I0005@
+1 MARR
+2 TYPE Ruth Marshall to Ross Wotherspoon
+2 DATE 1990
+2 PLAC Sydney, New South Wales, Australia
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 10:21:30
+0 @F0008@ FAM
+1 HUSB @I0000@
+1 WIFE @I0010@
+1 MARR
+2 TYPE Elizabeth Dorothy Ash to Francis Joseph Earwaker
+2 DATE 1960
+1 CHIL @I0004@
+1 CHIL @I0005@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:45:04
+0 @F0009@ FAM
+1 HUSB @I0017@
+1 WIFE @I0018@
+1 CHIL @I0015@
+1 CHIL @I0011@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 11:59:14
+0 @F0010@ FAM
+1 HUSB @I0019@
+1 WIFE @I0020@
+1 CHIL @I0010@
+1 CHAN
+2 DATE 22 MAY 2026
+3 TIME 12:32:14
+0 TRLR
