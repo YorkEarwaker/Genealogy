@@ -15,7 +15,6 @@ Etymology
 
 Goals
 * Learn about genealogy
-* What connection to make with the AGW project? Likely many.
 * Emergency Rescue Response and Recovery, extreme weather events and aftermath on people?
 * Epidemiology, disease management and control in populations? 
 * Medicine, disease susceptibility risk? Cancer, cycle cell, heart, ... . 
@@ -30,12 +29,15 @@ TODO
 * <todo: consider, find sources for Anglo Saxon historical role, of those so named, >
 * <todo: consider, source other etymology for various names in the family group by marriage, >
 * <todo: consider, separate projects for each group by marriage, and the arrising web of relationships, >
-* <todo: consider, not sure about terms; shire sward sorcery . possibly open to misinterpretation, also family documentary vs AGW use? side with AGW? >
+* <todo: consider, not sure about terms; shire sward sorcery . possibly open to misinterpretation? topic mashup issues, >
+* <todo: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? >
+* <todo: consider, move the AGW related content up to the top level Genealogy README.md page for similar tool usage scenarios/use cases >
 
 DONE
 * <done: consdier, intent to commit>
 * <done: consider, GEDCOM model, Gramps generated? others, wip >
 * <done: consider, find sources for etymology of name, wip >
+* <done: consider, what connection to make with the AGW project? Likely many. wip>
 
 ## References
 
