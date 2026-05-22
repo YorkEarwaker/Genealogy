@@ -1,8 +1,8 @@
 # Eofor Wacer wcr
 
-Surfs struggle sorrow sweat suffering ... sword savagery ... survival.
-
 A record of the serfdom in the British Isles of the people named Earwaker.
+
+Surfs struggle sorrow sweat suffering ... suppression slaughter ... survival.
  
 ## Notes
 
@@ -22,7 +22,7 @@ TODO
 * <todo: consider, find sources for Anglo Saxon historical role, of those so named, >
 * <todo: consider, source other etymology for various names in the family group by marriage, >
 * <todo: consider, separate projects for each group by marriage, and the arrising web of relationships, >
-* <todo: consider, not sure about terms; shire sward sorcery . possibly open to misinterpretation? topic mashup issues, >
+* <todo: consider, not sure about terms; shire sward sorcery sword savagery . possibly open to misinterpretation? topic mashup issues, >
 * <todo: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? all three are intersting, others? >
 * <todo: consider, other peoples Earwaker family tree activities, genealogical research of others named Earwaker who have traveled this path, >
 
