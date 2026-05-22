@@ -2,7 +2,7 @@
 
 A record of the serfdom in the British Isles of the people named Earwaker.
 
-Surfs struggle sorrow sweat suffering ... suppression slaughter ... survival.
+Surfs slaughter suppression struggle sorrow sweat suffering ... survival.
  
 ## Notes
 
@@ -37,6 +37,7 @@ DONE
 
 Etymology
 * Origin, popularity and meaning of the last name EARWAKER, [WS](https://en.geneanet.org/surnames/EARWAKER), Geneanet
+* Earwaker Surname Meaning, [WS](https://www.ancestry.co.uk/last-name-meaning/earwaker), Ancestriy
 * ...
 
 Family trees - 
