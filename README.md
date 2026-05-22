@@ -1,10 +1,21 @@
 # Genealogy gny
 
-Family history. in the large and in the small.
+Family history. In the small and in the large.
 
 ## Notes
 
 Getting to that age when this is interesting. 
+
+Goals
+* Applications for the AGW project?
+* Emergency Rescue Response and Recovery, extreme weather events and aftermath on people?
+* Epidemiology, disease management and control in populations? 
+* Medicine, disease susceptibility risk? Cancer, cycle cell, heart, ... . 
+* Climate refugee camp management, trace relatives of climate refugees? log refugee numbers over time?
+* Mapping the worlds web of human interaction? 
+* Links in the chain of human evolution?
+* Data, linked data, semantic web, ?
+* Policy, anthropology, history, sociology, ... ?
 
 ## Status
 TODO

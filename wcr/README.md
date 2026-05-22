@@ -2,7 +2,7 @@
 
 Surfs struggle sorrow sweat shire sward ... sword savagery ... survival.
 
-A tale of the serfdom in the British Isles of the people named Earwaker.
+A record of the serfdom in the British Isles of the people named Earwaker.
  
 ## Notes
 
@@ -15,14 +15,7 @@ Etymology
 
 Goals
 * Learn about genealogy
-* Emergency Rescue Response and Recovery, extreme weather events and aftermath on people?
-* Epidemiology, disease management and control in populations? 
-* Medicine, disease susceptibility risk? Cancer, cycle cell, heart, ... . 
-* Climate refugee camp management, trace relatives of climate refugees? log refugee numbers over time?
-* Mapping the worlds web of human interaction? 
-* Links in the chain of human evolution?
-* Data, linked data, semantic web, ?
-* Policy, anthropology, history, sociology, ... ?
+* learn about the Earwaker and extended family history
 
 ## Status
 TODO
@@ -31,13 +24,13 @@ TODO
 * <todo: consider, separate projects for each group by marriage, and the arrising web of relationships, >
 * <todo: consider, not sure about terms; shire sward sorcery . possibly open to misinterpretation? topic mashup issues, >
 * <todo: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? >
-* <todo: consider, move the AGW related content up to the top level Genealogy README.md page for similar tool usage scenarios/use cases >
 
 DONE
 * <done: consdier, intent to commit>
 * <done: consider, GEDCOM model, Gramps generated? others, wip >
 * <done: consider, find sources for etymology of name, wip >
 * <done: consider, what connection to make with the AGW project? Likely many. wip>
+* <done: consider, move the AGW related content up to the top level Genealogy README.md page for similar tool usage scenarios/use cases >
 
 ## References
 
