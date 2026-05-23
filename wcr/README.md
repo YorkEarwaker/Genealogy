@@ -14,9 +14,9 @@ Etymology
 * Anglo Saxon origins
 
 Emancipation from Serfdom of the people of the British Isles - source Wikipedia article
-* England, Ireland, Wales, 1574
-* Scotland, 1799
-* Abolition of hereditary peerage, 2026
+* 1574, England, Ireland, Wales, 
+* 1799, Scotland, 
+* 2026, Abolition of hereditary peerage, 
 
 Suffrage in the British Isles
 * 1430, Forty Shilling Freeholder rule,   - tiny proportion of population, restricted to male ownership of land worth 40 shillings annually
