@@ -43,7 +43,6 @@ TODO
 * <todo: consider, what were the pre Anglo Saxon origins of this name? >
 * <todo: consider, source other etymology for various names in the family group by marriage, >
 * <todo: consider, separate projects for each group by marriage, and the arrising web of relationships, >
-* <todo: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, others tbd, IE? commonwealth records, boars led by swine? too harsh? too true?, >
 * <todo: consider, include Burma and Mexico? re, family history and nationality of, current GF's of Kiran and Matthew repectively, >
 * <todo: consider, find sources for emancipation and suffrage in the British Isles, >
 
@@ -56,6 +55,7 @@ DONE
 * <done: consider, other peoples Earwaker family tree activities, genealogical research of others named Earwaker who have traveled this path, wip>
 * <done: consider, not sure about terms; shire sward sorcery sword savagery . possibly open to misinterpretation? topic mashup issues, keep word usage under review, wip>
 * <done: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? all three are intersting, others? in the first instance family history/documentary, in the second instance as a grounding for fantasy fiction to be written elsewhere, in the third instance experience with the Genealogy tools for AGW project use cases, >
+* <done: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, others tbd, IE? commonwealth records, boars led by swine? too harsh? too true?, earwaker_ms_data wip >
 
 ## References
 

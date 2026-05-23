@@ -1,0 +1,55 @@
+Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
+[P0000],,"Hornchurch, Essex, England, United Kingdom",City,,,,,
+[P0001],,"Chelmsford, Essex, England, United Kingdom",City,,,,,
+[P0002],,New Zealand,Country,,,,,
+[P0003],,"Tokanui, Southland, New Zealand",City,,,,,
+[P0004],,"Timaru, Canterbury, New Zealand",Unknown,,,,,
+[P0005],,"Christchurch, Canterbury, New Zealand",Unknown,,,,,
+[P0006],,"Saint Albans, Christchurch, Canterbury, New Zealand",Unknown,,,,,
+[P0008],,"Hainaut, Belgium",County,,,,,
+[P0009],,"Ellisfield, Basingstoke, Hampshire, England",Unknown,,,,,
+[P0010],,"West-Vlaanderen, Belgium",County,,,,,
+[P0011],,Dadizeele New British Cemetery,Building,50.84918,3.08774,,[P0010],
+[P0012],,Hornchurch Cemetary,Building,51.56038,0.227,,[P0000],
+[P0013],,United Kingdom,Unknown,,,,,
+[P0014],,"Chichester, Sussex, England, United Kingdom",Unknown,,,,,
+[P0015],,"Hampshire, England, United Kingdom",Unknown,,,,,
+[P0016],,Portsmouth Naval Memorial,Unknown,50.78242,-1.09599,,[P0015],
+[P0007],,Ploegsteert Memorial,Building,50.7378,2.88228,,[P0008],
+
+Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
+[I0010],,Charles,,,,Earwaker,Mr,male,,,,,,,1918-04-11,,,,[P0007],,
+[I0008],,David Sams,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0004],,E,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0002],,Edgar Charles,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0018],,Emily Kate,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0013],,Ethel,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0003],,George,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0001],,George Herbert,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0016],,Henry Gordon,,,,Earwaker,Mr,male,,,,,,,1940-05-28,,,,[P0016],,
+[I0011],,John Bennison,,,,Earwaker,Mr,male,,,,,,,1918-10-16,,,,[P0011],,
+[I0006],,Lily Harris,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0005],,P. S.,,,,Spence,Mrs,female,,,,,,,,,,,,,
+[I0009],,S.E.,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0000],,Samuel David,,,,Earwaker,Mr,male,1916-12-25,[P0002],,,,,1943-01-24,[P0001],,1943,[P0012],,
+[I0012],,William,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0017],,William Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0007],,William Samuel,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+
+Marriage,Husband,Wife,Date,Place,Source,Note
+[F0000],[I0003],,,,,
+[F0001],[I0004],,,,,
+[F0002],[I0000],[I0005],,[P0002],,
+[F0003],[I0007],[I0006],,[P0002],,
+[F0004],,[I0009],,,,
+[F0005],[I0012],[I0013],,,,
+[F0007],[I0017],[I0018],,,,
+
+Family,Child
+[F0000],[I0001]
+[F0001],[I0002]
+[F0003],[I0000]
+[F0004],[I0008]
+[F0005],[I0011]
+[F0007],[I0016]
+
