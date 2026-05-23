@@ -18,14 +18,14 @@ Emancipation from Serfdom of the people of the British Isles - source Wikipedia 
 * Scotland, 1799
 
 Suffrage in the British Isles
-* 1430, Forty Shilling Freeholder rule, tiny proportion of population, male ownership of land worth 40 shillings annually
-* 1700's, Rotten boroughs, only 2.7% population can vote
-* 1832, Great Reform Act, circa 1 in 5 adult men, men owning or renting property worth £10
-* 1867, Second Reform Act, circa 2 in 5 adult men? included most urban working class men, but no agricultural labourers or women
-* 1884, Third Reform Act, circa 60% adult men
-* 1918, Representation of the People Act, men over 21, women over 30
-* 1928, Equal Franchise Act, men and women over 21
-* 1969, Representation of the People Act, men and women over 18
+* 1430, Forty Shilling Freeholder rule,   - tiny proportion of population, restricted to male ownership of land worth 40 shillings annually
+* 1700's, Rotten boroughs,                - circa 2.7% of population can vote
+* 1832, Great Reform Act,                 - circa 20% of adult men, circa 1 in 5 adult men, enfranchise men owning or renting property worth £10
+* 1867, Second Reform Act,                - circa 40% of adult men, circa 2 in 5 adult men, enfranchise most urban working class men, but no agricultural labourers and no women
+* 1884, Third Reform Act,                 - circa 60% of adult men, circa 3 in 5 adult men, enfranchise rural laborers
+* 1918, Representation of the People Act, - enfranchise men over 21 and women over 30
+* 1928, Equal Franchise Act,              - enfranchise men and women over 21
+* 1969, Representation of the People Act, - enfranchise men and women over 18
 
 Goals
 * Learn about genealogy
