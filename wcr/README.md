@@ -13,6 +13,10 @@ Etymology
 * Watchful as a boar
 * Anglo Saxon origins
 
+Emancipation from Serfdom of the people of the British Isles - source Wikipedia article
+* England, Ireland, Wales, 1574
+* Scotland, 1799
+
 Goals
 * Learn about genealogy
 * learn about the Earwaker and extended family history
