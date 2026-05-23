@@ -39,6 +39,9 @@ DONE
 
 ## References
 
+Terms
+* Serfdom [WP](https://en.wikipedia.org/wiki/Serfdom)
+
 Etymology
 * Origin, popularity and meaning of the last name EARWAKER, [WS](https://en.geneanet.org/surnames/EARWAKER), Geneanet
 * Earwaker Surname Meaning, [WS](https://www.ancestry.co.uk/last-name-meaning/earwaker), Ancestriy
