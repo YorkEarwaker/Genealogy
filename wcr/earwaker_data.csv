@@ -10,10 +10,16 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0009],,"Sydney, New South Wales, Australia",City,,,,,
 [P0010],,"Roscommon, Ireland",County,,,,,
 [P0011],,"Mayo, Ireland",County,,,,,
+[P0012],,"Washington, District of Columbia, USA",City,,,,,
+[P0013],,"Calcutta, West Bengal, India",City,,,,,
+[P0014],,"London, England, United Kingdom",City,,,,,
+[P0015],,"Glasgow, Lanarkshire, Scotland",City,,,,,
+[P0016],,"?, ?, Pakistan",City,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0015],,Angela Eugenia,,,,Alcaine,Mrs,female,1935,[P0006],,,,,2013,,,,,,
 [I0028],,Ann,,,,Robson,Mrs,female,,,,,,,,,,,,,
+[I0041],,Arif,,,,Khan,Mr,male,,,,,,,,,,,,,
 [I0011],,Carmen Elena,,Charlie,,Alcaine,Mrs,female,1946,[P0006],,,,,,,,,,,
 [I0001],,Caroline,,,,Freatherstone,Miss,female,1903-02-19,[P0002],,,,,,,,,,,
 [I0006],,Caroline,,,,Adams,,female,1881,[P0005],,,,,1956,,,,,,
@@ -21,9 +27,11 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0024],,Charlotte Elizabeth,,,,Flindall,Mrs,female,,,,,,,,,,,,,
 [I0010],,Elizabeth Dorothy,,,,Ash,Mrs,female,1938,,,,,,,,,,,,
 [I0020],,Ethel Dorothy,,,,Bradley,Mrs,female,,,,,,,,,,,,,
+[I0029],,Eva,,,,Sicka,Mrs,female,1964-06-06,[P0013],,,,,,,,,,,
 [I0017],,Father of Carmen & Eugenia,,,,Alcaine,Snr,male,,,,,,,,,,,,,
 [I0000],,Francis Joseph,,Charlie,,Earwaker,Mr,male,1936-07-16,[P0001],,,,,,,,,,,
 [I0021],,Hannah Sarah,,,,Rose,Mrs,female,1837,[P0001],,,,,,,,,,,
+[I0034],,Helen,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0019],,Henry Herbert,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0022],,James,,,,Earwaker,Mr,male,1835,[P0001],,,,,,,,,,,
 [I0027],,James Frederick,,,,Adams,Mr,male,,,,,,,,,,,,,
@@ -32,14 +40,25 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0026],,John,,,,Featherstone,Mr,male,1834,[P0010],,,,,,,,,,,
 [I0007],,Joseph,,,,Freatherstone,Mr,male,1872,[P0004],,,,,,,,,,,
 [I0002],,Joseph Ernest,,,,Earwaker,Mr,male,1903,[P0001],,,,,,,,,,,
+[I0037],,Justin,,,,Sicka,,male,,,,,,,,,,,,,
+[I0030],,Kiran York,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0039],,Laura,,,,Marshall,Mrs,female,,,,,,,,,,,,,
+[I0032],,Louise Rani,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0012],,Luis Eduardo,,,,Martinez,Mr,male,,,,,,,,,,,,,
+[I0035],,Mahendra,,,,Sicka,Mr,male,,,,,,,,,,,,,
 [I0013],,Margarita Eugenia,,Daisy,,Martinez,Mrs,female,,,,,,,,,,,,,
 [I0025],,Mary,,,,Barrett,Mrs,female,1834,[P0011],,,,,,,,,,,
-[I0018],,Mother of Carmen & Eugenia,,,,?,,female,,,,,,,,,,,,,
+[I0031],,Matthew Harry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0038],,Michelle,,,,Sicka,,female,,,,,,,,,,,,,
+[I0018],,Mother of Carmen & Eugenia,,,,Caceres,,female,,,,,,,,,,,,,
+[I0033],,Natasha Jasmin,,,,Earwaker,,female,,,,,,,,,,,,,
+[I0040],,Nicola,,,,Marshall,Mrs,female,,,,,,,,,,,,,
 [I0014],,Rene Fransisco,,,,Martinez,Mr,male,,,,,,,,,,,,,
-[I0016],,Ross,,,,Wotherspoon,Mr,male,,,,,,,,,,,,,
-[I0005],,Ruth,,,,Earwaker,Mrs,female,1964-06-02,,,,,,,,,,,,
-[I0004],,York,,,,Earwaker,Mr,male,1962-12-17,,,,,,,,,,,,
+[I0016],,Ross,,,,Wotherspoon,Mr,male,,[P0015],,,,,,,,,,,
+[I0005],,Ruth,,,,Earwaker,Mrs,female,1964-06-02,[P0014],,,,,,,,,,,
+[I0042],,Sami,,,,Khan,Mr,male,,,,,,,,,,,,,
+[I0036],,Sanjay,,,,Sicka,,male,,,,,,,,,,,,,
+[I0004],,York,,,,Earwaker,Mr,male,1962-12-17,[P0014],,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
 [F0002],[I0002],[I0001],1932,,,
@@ -54,6 +73,9 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0011],[I0022],[I0021],1859,[P0001],,
 [F0012],[I0023],[I0024],1863,[P0001],,
 [F0013],[I0026],[I0025],1855,[P0004],,
+[F0014],[I0004],[I0029],,[P0014],,
+[F0015],[I0035],[I0034],,,,
+[F0016],[I0041],[I0033],,,,
 
 Family,Child
 [F0002],[I0000]
@@ -65,6 +87,8 @@ Family,Child
 [F0005],[I0012]
 [F0006],[I0013]
 [F0006],[I0012]
+[F0007],[I0040]
+[F0007],[I0039]
 [F0008],[I0004]
 [F0008],[I0005]
 [F0009],[I0015]
@@ -73,4 +97,13 @@ Family,Child
 [F0011],[I0008]
 [F0012],[I0009]
 [F0013],[I0007]
+[F0014],[I0030]
+[F0014],[I0032]
+[F0014],[I0031]
+[F0014],[I0033]
+[F0015],[I0029]
+[F0015],[I0038]
+[F0015],[I0036]
+[F0015],[I0037]
+[F0016],[I0042]
 
