@@ -6,9 +6,11 @@ Surfs slaughter suppression struggle sorrow sweat suffering ... survival.
  
 ## Notes
 
+Most of the people called Earwaker in the British Isles were reduced to work role of labourer or similar. Due to serfdom or indentured servitude of one type or another.
+
 Etymology
 * Earwaker pronounced Erricker. 
-* Ear, Eofor boar
+* Ear, Eofor, boar
 * Waker, Wacer watcher or watchful
 * Watchful as a boar
 * Anglo Saxon origins
@@ -18,15 +20,15 @@ Emancipation from Serfdom of the people of the British Isles - source Wikipedia 
 * 1799, Scotland, 
 * 2026, Abolition of hereditary peerage, 
 
-Suffrage in the British Isles
-* 1430, Forty Shilling Freeholder rule,   - tiny proportion of population, restricted to male ownership of land worth 40 shillings annually
+Suffrage in the British Isles - from serfdom to universal suffrage
+* 1430, Forty Shilling Freeholder rule,   - tiny proportion of population, franchise is restricted to males with ownership of land worth 40 shillings annually
 * 1700's, Rotten boroughs,                - circa 2.7% of population can vote
-* 1832, Great Reform Act,                 - circa 20% of adult men, circa 1 in 5 adult men, enfranchise men owning or renting property worth £10
-* 1867, Second Reform Act,                - circa 40% of adult men, circa 2 in 5 adult men, enfranchise most urban working class men, but no agricultural labourers and no women
-* 1884, Third Reform Act,                 - circa 60% of adult men, circa 3 in 5 adult men, enfranchise rural laborers
-* 1918, Representation of the People Act, - enfranchise men over 21 and women over 30
-* 1928, Equal Franchise Act,              - enfranchise men and women over 21
-* 1969, Representation of the People Act, - enfranchise men and women over 18
+* 1832, Great Reform Act,                 - circa 20% of adult men, circa 1 in 5 adult men, enfranchisement of men owning or renting property worth £10
+* 1867, Second Reform Act,                - circa 40% of adult men, circa 2 in 5 adult men, enfranchisement of most urban working class men, but no agricultural labourers and no women
+* 1884, Third Reform Act,                 - circa 60% of adult men, circa 3 in 5 adult men, enfranchisement of rural labourers
+* 1918, Representation of the People Act, - enfranchisement of men over 21 and women over 30
+* 1928, Equal Franchise Act,              - enfranchisement of men and women over 21, universal suffrage
+* 1969, Representation of the People Act, - enfranchisement of men and women over 18, universal suffrage
 
 Goals
 * Learn about genealogy
@@ -38,9 +40,12 @@ To self - and others who might witness this account
 ## Status
 TODO
 * <todo: consider, find sources for Anglo Saxon historical role, of those so named, >
+* <todo: consider, what were the pre Anglo Saxon origins of this name? >
 * <todo: consider, source other etymology for various names in the family group by marriage, >
 * <todo: consider, separate projects for each group by marriage, and the arrising web of relationships, >
 * <todo: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, others tbd, IE? commonwealth records, boars led by swine? too harsh? too true?, >
+* <todo: consider, include Burma and Mexico? re, family history and nationality of, current GF's of Kiran and Matthew repectively, >
+* <todo: consider, find sources for emancipation and suffrage in the British Isles, >
 
 DONE
 * <done: consdier, intent to commit>
