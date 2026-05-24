@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 24 MAY 2026
-2 TIME 01:02:02
+2 TIME 16:37:35
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -60,12 +60,16 @@
 2 DATE JAN 1917
 2 PLAC New Zealand
 2 NOTE @N0004@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
 1 FAMC @F0000@
 2 PEDI birth
 1 NOTE @N0001@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 16:09:21
+2 DATE 24 MAY 2026
+3 TIME 15:58:15
 0 @I0002@ INDI
 1 NAME Edgar Charles /Earwaker/
 2 TYPE birth
@@ -105,7 +109,7 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Next of kin on Embarcation
+2 TYPE Next of kin on embarcation
 2 PLAC Christchurch, Canterbury, New Zealand
 2 NOTE @N0006@
 1 RESI
@@ -166,11 +170,15 @@
 2 TYPE David Sams Earwaker MS
 2 PLAC New Zealand
 2 NOTE @N0011@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
 1 FAMC @F0004@
 2 PEDI birth
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 17:01:16
+2 DATE 24 MAY 2026
+3 TIME 13:38:00
 0 @I0009@ INDI
 1 NAME S.E. /?/
 2 TYPE birth
@@ -208,6 +216,7 @@
 3 NOTE @N0013@
 1 _MILT
 2 TYPE Charles Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0012@
 1 CHAN
 2 DATE 23 MAY 2026
@@ -335,14 +344,15 @@
 2 DATE 24 MAY 2026
 3 TIME 00:01:09
 0 @I0020@ INDI
-1 NAME T /Earwaker/
+1 NAME Thomas /Earwaker/
 2 TYPE birth
-2 GIVN T
+2 GIVN Thomas
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
 2 TYPE T Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0018@
 1 _MILT
 2 TYPE World War I
@@ -350,7 +360,7 @@
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
-3 TIME 00:00:23
+3 TIME 15:55:16
 0 @I0021@ INDI
 1 NAME Robert Thomas /Earwaker/
 2 TYPE birth
@@ -360,6 +370,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Robert Thomas Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0019@
 1 _MILT
 2 TYPE World War I
@@ -377,6 +388,7 @@
 1 SEX M
 1 _MILT
 2 TYPE G. Earwaker CO
+2 PLAC United Kingdom
 2 NOTE @N0020@
 1 _MILT
 2 TYPE World War I
@@ -394,6 +406,7 @@
 1 SEX M
 1 _MILT
 2 TYPE George W Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0021@
 1 _MILT
 2 TYPE World War I
@@ -411,6 +424,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Graham Parsons Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0022@
 1 _MILT
 2 TYPE World War I
@@ -432,6 +446,7 @@
 2 NOTE @N0023@
 1 _MILT
 2 TYPE Joseph Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0024@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -445,6 +460,7 @@
 1 SEX M
 1 _MILT
 2 TYPE R N D'o Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0025@
 1 _MILT
 2 TYPE World War I
@@ -462,6 +478,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Frederick Richard Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0026@
 1 _MILT
 2 TYPE World War I
@@ -479,6 +496,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Walter S Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0028@
 1 _MILT
 2 TYPE World War I
@@ -496,6 +514,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Henry J Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0029@
 1 _MILT
 2 TYPE World War I
@@ -513,6 +532,7 @@
 1 SEX M
 1 _MILT
 2 TYPE William Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0030@
 1 _MILT
 2 TYPE World War I
@@ -530,6 +550,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Harry Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0031@
 1 _MILT
 2 TYPE World War I
@@ -547,6 +568,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Walter W Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0032@
 1 _MILT
 2 TYPE World War I
@@ -564,6 +586,7 @@
 1 SEX M
 1 _MILT
 2 TYPE Oliver Charles Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0033@
 1 _MILT
 2 TYPE World War I
@@ -581,6 +604,7 @@
 1 SEX M
 1 _MILT
 2 TYPE William Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0034@
 1 _MILT
 2 TYPE World War I
@@ -598,6 +622,7 @@
 1 SEX M
 1 _MILT
 2 TYPE James Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0035@
 1 _MILT
 2 TYPE World War I
@@ -606,6 +631,462 @@
 1 CHAN
 2 DATE 24 MAY 2026
 3 TIME 01:00:11
+0 @I0036@ INDI
+1 NAME Frederick /Earwaker/
+2 TYPE birth
+2 GIVN Frederick
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Frederick Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0037@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 11:07:32
+0 @I0037@ INDI
+1 NAME William H /Earwaker/
+2 TYPE birth
+2 GIVN William H
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE William H Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0036@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 11:11:56
+0 @I0038@ INDI
+1 NAME Charles /Earwaker/
+2 TYPE birth
+2 GIVN Charles
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Charles Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0038@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 11:20:29
+0 @I0039@ INDI
+1 NAME Richard T /Earwaker/
+2 TYPE birth
+2 GIVN Richard T
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Richard T Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0039@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 13:23:05
+0 @I0040@ INDI
+1 NAME William H /Earwaker/
+2 TYPE birth
+2 GIVN William H
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE William H Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0040@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 13:31:59
+0 @I0041@ INDI
+1 NAME George D /Earwaker/
+2 TYPE birth
+2 GIVN George D
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE George D Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0041@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 13:35:57
+0 @I0042@ INDI
+1 NAME Alfred /Earwaker/
+2 TYPE birth
+2 GIVN Alfred
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Alfred Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0042@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 13:42:25
+0 @I0043@ INDI
+1 NAME Thomas J /Earwaker/
+2 TYPE birth
+2 GIVN Thomas J
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Thomas J Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0043@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 14:00:45
+0 @I0044@ INDI
+1 NAME Juliet /Earwaker/
+2 TYPE birth
+2 GIVN Juliet
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 _MILT
+2 TYPE Juliet Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0044@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 14:06:50
+0 @I0045@ INDI
+1 NAME John W /Earwaker/
+2 TYPE birth
+2 GIVN John W
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE John W Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0045@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 14:10:59
+0 @I0046@ INDI
+1 NAME Frederick G /Earwaker/
+2 TYPE birth
+2 GIVN Frederick G
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Frederick G Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0046@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 14:14:47
+0 @I0047@ INDI
+1 NAME Harry G /Earwaker/
+2 TYPE birth
+2 GIVN Harry G
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Harry G Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0047@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:11:26
+0 @I0048@ INDI
+1 NAME Alfred H /Earwaker/
+2 TYPE birth
+2 GIVN Alfred H
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Alfred H Earwaker
+2 PLAC United Kingdom
+2 NOTE @N0048@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:14:40
+0 @I0049@ INDI
+1 NAME Ralph Parsons /Earwaker/
+2 TYPE birth
+2 GIVN Ralph Parsons
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Ralph Parsons Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0049@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:20:23
+0 @I0050@ INDI
+1 NAME Edmond Charles /Earwaker/
+2 TYPE birth
+2 GIVN Edmond Charles
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Edmond Charles Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0050@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:25:33
+0 @I0051@ INDI
+1 NAME Robert /Earwaker/
+2 TYPE birth
+2 GIVN Robert
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Robert Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0051@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:29:11
+0 @I0052@ INDI
+1 NAME Frederick /Earwaker/
+2 TYPE birth
+2 GIVN Frederick
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Frederick Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0052@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:37:45
+0 @I0053@ INDI
+1 NAME Albert E /Earwaker/
+2 TYPE birth
+2 GIVN Albert E
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Albert E Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0053@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:42:51
+0 @I0054@ INDI
+1 NAME Frank /Earwaker/
+2 TYPE birth
+2 GIVN Frank
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Frank Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0054@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 15:45:35
+0 @I0055@ INDI
+1 NAME Edward Reginald /Earwaker/
+2 TYPE birth
+2 GIVN Edward Reginald
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Edward Reginald Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0055@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 16:02:55
+0 @I0056@ INDI
+1 NAME Frederick H /Earwaker/
+2 TYPE birth
+2 GIVN Frederick H
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Frederick H Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0056@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 16:06:45
+0 @I0057@ INDI
+1 NAME A /Earwaker/
+2 TYPE birth
+2 GIVN A
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE A Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0057@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 16:10:28
+0 @I0058@ INDI
+1 NAME Arthur G /Earwaker/
+2 TYPE birth
+2 GIVN Arthur G
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Arthur G Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0058@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 16:13:24
+0 @I0059@ INDI
+1 NAME Robert Norman Doyly /Earwaker/
+2 TYPE birth
+2 GIVN Robert Norman Doyly
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Robert Norman Doyly Earwaker BD
+2 DATE 6 APR 1885
+1 _MILT
+2 TYPE Robert Norman Doyly Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0059@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 16:27:43
+0 @I0060@ INDI
+1 NAME John Henry /Earwaker/
+2 TYPE birth
+2 GIVN John Henry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE John Henry Earwaker BD
+2 DATE 21 MAR 1879
+1 _MILT
+2 TYPE John Henry Earwaker MS
+2 PLAC Canada
+2 NOTE @N0060@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 CHAN
+2 DATE 24 MAY 2026
+3 TIME 16:34:35
 0 @F0000@ FAM
 1 HUSB @I0003@
 1 CHIL @I0001@
@@ -672,6 +1153,8 @@
 1 CONT 
 0 @N0004@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
 1 CONC C84728
+1 CONT https://livesofthefirstworldwar.iwm.org.uk/lifestory/7236874
+1 CONT 
 0 @N0005@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
 1 CONC 99468
 0 @N0006@ NOTE WW2 Mr. E. Earwaker, c/o Para Rubber Coy., Christchurch (f)
@@ -682,6 +1165,7 @@
 1 CONC urch, New Zealand 
 0 @N0011@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
 1 CONC C81540
+1 CONT https://livesofthefirstworldwar.iwm.org.uk/lifestory/7233692
 0 @N0012@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/87
 1 CONC 2393/charles-earwaker/
 0 @N0013@ NOTE https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-de
@@ -694,7 +1178,13 @@
 1 CONC 69216/henry-gordon-earwaker/
 0 @N0017@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418511
 0 @N0018@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/5201715
+1 CONT https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418503
+1 CONT 
 0 @N0019@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/5201714
+1 CONT https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418501
+1 CONT 
+1 CONT 
+1 CONT 
 0 @N0020@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/7648254
 0 @N0021@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418486
 0 @N0022@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418485
@@ -711,4 +1201,33 @@
 0 @N0033@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418496
 0 @N0034@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418507
 0 @N0035@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418490
+0 @N0036@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418513
+0 @N0037@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418478
+0 @N0038@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418468
+0 @N0039@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418500
+0 @N0040@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418512
+0 @N0041@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418484
+0 @N0042@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418464
+1 CONT 
+0 @N0043@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418504
+0 @N0044@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/4951139
+0 @N0045@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418495
+1 CONT 
+0 @N0046@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418479
+0 @N0047@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418488
+0 @N0048@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418467
+0 @N0049@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418499
+0 @N0050@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418473
+0 @N0051@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418497
+0 @N0052@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418477
+0 @N0053@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418465
+0 @N0054@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418476
+0 @N0055@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418474
+0 @N0056@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418481
+0 @N0057@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/5201713
+1 CONT 
+0 @N0058@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418466
+1 CONT 
+0 @N0059@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/6845935
+0 @N0060@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/5849808
 0 TRLR
