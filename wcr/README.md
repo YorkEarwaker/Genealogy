@@ -47,7 +47,7 @@ TODO
 * <todo: consider, include Burma and Mexico? re, family history and nationality of, current GF's of Kiran and Matthew repectively, >
 * <todo: consider, find sources for emancipation and suffrage in the British Isles, >
 * <todo: consider, a phrase or two that surfdom and poverty drove some of them to seek better lives elsewhere in the world. find sources on what they did on emigrating, mostly farming? being agricultural laboourers at home in Hampshire? find evidence for Earwaker emigration, where to, to do what? at the moment speculation? >
-* <todo: consider, a phare of two that surfdom and poverty drove some to penury and poor economic conditions and some forced to vagrancy made easy prey for the press gangs and once forcably enlisted there was no easy way to leave, and as many lived near Portsmouth the press was to the navy, forced conscription of those 'with seafearing habits' and some landsmen. find evidence for Earwaker impressment? at the moment spceculation? navy records of Earwakers, pressed, impressed, crimped, shanghaied, kidnapped? find evidence for Wikipedia statement 'impressment remained legal until the early 1900s, and the various laws authorising impressment have never been repealed.' is this true? find; Ships' Muster Rolls (ADM 36, 37, 38), Anthony Rolls (1540), Medal Rolls (ADM 171), Impressment Certificates, >
+* <todo: consider, a phare of two that surfdom and poverty drove some to penury and poor economic conditions and some forced to vagrancy made easy prey for the press gangs and once forcably enlisted there was no easy way to leave, and as many lived near Portsmouth the press was to the navy, forced conscription of those 'with seafearing habits' and some landsmen. find evidence for Earwaker impressment? at the moment spceculation? navy records of Earwakers, pressed, impressed, crimped, shanghaied, kidnapped? find evidence for Wikipedia statement 'impressment remained legal until the early 1900s, and the various laws authorising impressment have never been repealed.' is this true? find Earwaker likely Ratings (pressed or 'volunteers'); Ships' Muster Rolls (ADM 36, 37, 38), Anthony Rolls (1540), Medal Rolls (ADM 171), Impressment Certificates, >
 * <todo: consider, where there ever intances of Earwaker yeomen or gentlemen? What was the class/cast hierarchy spread? were most agricultural labourers? >
 
 DONE
@@ -60,6 +60,44 @@ DONE
 * <done: consider, not sure about terms; shire sward sorcery sword savagery . possibly open to misinterpretation? topic mashup issues, keep word usage under review, In terms of shire Hampshire was/is the locale with most eofor wacer, wip>
 * <done: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? all three are intersting, others? in the first instance family history/documentary, in the second instance as a grounding for fantasy fiction to be written elsewhere, in the third instance experience with the Genealogy tools for AGW project use cases, >
 * <done: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, commonwealth records, others tbd, IE? eofor led by swine? too harsh? too true?, earwaker_ms_data wip >
+
+## Data
+
+### Sources
+
+Sources - official records
+* Military service records, URL's links to same where possible in models, the Imperial War Museum is very good on this for the UK, other too, 
+* National Archives, 
+* <todo: consider, other to be reliable, Ellis Island records for example? >
+
+Sources - unofficial, family trees
+* Ancestry[.]com, very useful for research and finding connections, no need to join the search facility is excellent if limited to non subscribers, 
+* 
+
+### Models
+
+earwaker_data
+* memory of living family relations, needs documentation sources links
+* members of family today and ancestors to two or three degrees
+* many separate family tree lines coalescing here
+* <todo: consider, rectictify, currently contains errors re some birth dates and marriage dates? as part of learning curve for Gramps, first steps, >
+
+earwaker_ms_data
+* military service records, online
+* this will likely require reconciliation, possibly not minor, unknown unclear how much but some very likely necessary
+* distinct military record archive entries need cross checks, people may have been entered multiple times from different sources
+* unique keys have not been sourced for many entries. service numbers, birth dates, death dates, burial sites, family members mentioned in records, locales, others tbc
+* service numbers may be recorded in different formats, unclear, also showing ignorance on the users part, 
+
+earwaker_N+0_data
+* likely one relating to in the large earwaker 'complete' family tree
+* including those listed in other models
+
+earwaker_N+1_data
+* likely one relating to speculative arc deep history
+* possibly as basis for use for fictional account or fantasy fiction
+
+Other models are likely to be distinct family trees and separate projects
 
 ## References
 
@@ -75,3 +113,7 @@ Etymology
 Family trees - 
 * Earwaker Earwicker Erricker, [WS](http://www.earwaker.co.uk/), Alan Earwaker, genealogy research
 * ...
+
+Military service records - army, navy, 
+* Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), Imperial War Museum, 
+* Tracing a British Seaman in the Royal Navy before 1853, [WS](https://genealogyjude.com/2022/09/17/tracing-a-british-seamen-in-the-royal-navy-before-1853/), 2022, blog
