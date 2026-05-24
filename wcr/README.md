@@ -2,7 +2,7 @@
 
 A record of the serfdom in the British Isles of the people named Earwaker.
 
-Surfs slaughter suppression struggle sorrow sweat suffering ... survival.
+Surfs slaughter suppression struggle sorrow sweat suffering suffrage ... survival.
  
 ## Notes
 
@@ -11,7 +11,7 @@ Most of the people called Earwaker in the British Isles were reduced to work rol
 Etymology
 * Earwaker pronounced Erricker. 
 * Ear, Eofor, boar
-* Waker, Wacer watcher or watchful
+* Waker, Wacer, watcher or watchful
 * Watchful as a boar
 * Anglo Saxon origins
 
@@ -55,7 +55,7 @@ DONE
 * <done: consider, other peoples Earwaker family tree activities, genealogical research of others named Earwaker who have traveled this path, wip>
 * <done: consider, not sure about terms; shire sward sorcery sword savagery . possibly open to misinterpretation? topic mashup issues, keep word usage under review, wip>
 * <done: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? all three are intersting, others? in the first instance family history/documentary, in the second instance as a grounding for fantasy fiction to be written elsewhere, in the third instance experience with the Genealogy tools for AGW project use cases, >
-* <done: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, others tbd, IE? commonwealth records, boars led by swine? too harsh? too true?, earwaker_ms_data wip >
+* <done: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, commonwealth records, others tbd, IE? eofor led by swine? too harsh? too true?, earwaker_ms_data wip >
 
 ## References
 
