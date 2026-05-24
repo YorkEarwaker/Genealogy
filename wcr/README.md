@@ -6,7 +6,7 @@ Surfs slaughter suppression struggle sorrow sweat suffering suffrage ... surviva
  
 ## Notes
 
-Most of the people called Earwaker in the British Isles were reduced to work role of labourer or similar. Due to serfdom or indentured servitude of one type or another. 
+Most of the people called Earwaker in the British Isles were reduced to work role of labourer or similar. Due to serfdom or indentured servitude of one type or another. Slavery in the British Isles dates at least as far back as the Roman Empire A.D. 49 . And quite likely earlier. 
 
 Etymology
 * Earwaker pronounced Erricker. 
@@ -21,7 +21,7 @@ Emancipation from Serfdom of the people of the British Isles - source Wikipedia 
 * 1799, Scotland, 
 * 2026, Abolition of hereditary peerage, 
 
-Suffrage in the British Isles - from serfdom to universal suffrage
+Suffrage and enfranchisement of the people of the British Isles - from serfdom to universal suffrage
 * 1430, Forty Shilling Freeholder rule,   - tiny proportion of population, franchise is restricted to males with ownership of land worth 40 shillings annually
 * 1700's, Rotten boroughs,                - circa 2.7% of population can vote
 * 1832, Great Reform Act,                 - circa 20% of adult men, circa 1 in 5 adult men, enfranchisement of men owning or renting property worth £10
@@ -48,7 +48,7 @@ TODO
 * <todo: consider, find sources for emancipation and suffrage in the British Isles, >
 * <todo: consider, a phrase or two that surfdom and poverty drove some of them to seek better lives elsewhere in the world. find sources on what they did on emigrating, mostly farming? being agricultural laboourers at home in Hampshire? find evidence for Earwaker emigration, where to, to do what? at the moment speculation? >
 * <todo: consider, a phare of two that surfdom and poverty drove some to penury and poor economic conditions and some forced to vagrancy made easy prey for the press gangs and once forcably enlisted there was no easy way to leave, and as many lived near Portsmouth the press was to the navy, forced conscription of those 'with seafearing habits' and some landsmen. find evidence for Earwaker impressment? at the moment spceculation? navy records of Earwakers, pressed, impressed, crimped, shanghaied, kidnapped? find evidence for Wikipedia statement 'impressment remained legal until the early 1900s, and the various laws authorising impressment have never been repealed.' is this true? find Earwaker likely Ratings (pressed or 'volunteers'); Ships' Muster Rolls (ADM 36, 37, 38), Anthony Rolls (1540), Medal Rolls (ADM 171), Impressment Certificates, >
-* <todo: consider, where there ever intances of Earwaker yeomen or gentlemen? What was the class/cast hierarchy spread? were most agricultural labourers? >
+* <todo: consider, where there ever intances of Earwaker yeomen or gentlemen? What was the class/cast hierarchy spread? likely most were agricultural labourers? >
 
 DONE
 * <done: consdier, intent to commit>
@@ -70,9 +70,9 @@ Sources - official records
 * National Archives, 
 * <todo: consider, other to be reliable, Ellis Island records for example? >
 
-Sources - unofficial, family trees
+Sources - unofficial, public published family trees
 * Ancestry[.]com, very useful for research and finding connections, no need to join the search facility is excellent if limited to non subscribers, 
-* 
+* others tbd
 
 ### Models
 
@@ -84,10 +84,13 @@ earwaker_data
 
 earwaker_ms_data
 * military service records, online
+* model contains those with military service records named Earwaker
+* model contains some of their immediate family, father, mother, wife, listed as next of kin
 * this will likely require reconciliation, possibly not minor, unknown unclear how much but some very likely necessary
 * distinct military record archive entries need cross checks, people may have been entered multiple times from different sources
 * unique keys have not been sourced for many entries. service numbers, birth dates, death dates, burial sites, family members mentioned in records, locales, others tbc
 * service numbers may be recorded in different formats, unclear, also showing ignorance on the users part, 
+* <todo: consider, data reconcilliation, e.g. see Charles Earwaker entries in model very likely duplicate, Many William Earwakers, >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
@@ -99,6 +102,16 @@ earwaker_N+1_data
 
 Other models are likely to be distinct family trees and separate projects
 
+### Heuristics
+
+* Research and model building
+* different genealogical activities board search for candidates for inclusion in models, 
+
+Heuristics
+* - don't lose anyone, rule include rather than not
+* - reconcile people who share same name or very similar name, rule create one record of the truth
+* - create families, rule don't make up data for marriages and so on
+
 ## References
 
 Terms
@@ -107,7 +120,7 @@ Terms
 
 Etymology
 * Origin, popularity and meaning of the last name EARWAKER, [WS](https://en.geneanet.org/surnames/EARWAKER), Geneanet
-* Earwaker Surname Meaning, [WS](https://www.ancestry.co.uk/last-name-meaning/earwaker), Ancestriy
+* Earwaker Surname Meaning, [WS](https://www.ancestry.co.uk/last-name-meaning/earwaker), Ancestry
 * ...
 
 Family trees - 
