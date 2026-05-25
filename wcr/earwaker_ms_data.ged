@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 25 MAY 2026
-2 TIME 01:08:06
+2 TIME 11:36:12
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -41,13 +41,16 @@
 2 TYPE Samual David Earwaker MS
 2 PLAC New Zealand
 2 NOTE @N0003@
+1 _MILT
+2 TYPE World War II
+2 DATE FROM 1939 TO 1945
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0002@
 1 NOTE @N0000@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 17:50:54
+2 DATE 25 MAY 2026
+3 TIME 10:15:14
 0 @I0001@ INDI
 1 NAME George Herbert /Earwaker/
 2 TYPE birth
@@ -109,7 +112,7 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Next of kin on embarcation
+2 TYPE Next of kin on embarkation
 2 PLAC Christchurch, Canterbury, New Zealand
 2 NOTE @N0006@
 1 RESI
@@ -124,6 +127,9 @@
 2 GIVN P. S.
 2 SPFX Spence
 2 NPFX Mrs
+1 NAME P. S. Earwaker //
+2 TYPE married
+2 GIVN P. S. Earwaker
 1 SEX F
 1 RESI
 2 TYPE Next of kin on embarkation
@@ -131,8 +137,8 @@
 2 NOTE @N0008@
 1 FAMS @F0002@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 16:40:48
+2 DATE 25 MAY 2026
+3 TIME 10:16:53
 0 @I0006@ INDI
 1 NAME Lily Harris /?/
 2 TYPE birth
@@ -190,7 +196,7 @@
 2 GIVN S. E. Earwaker
 1 SEX F
 1 RESI
-2 TYPE Next of kin on embarkation
+2 TYPE Res, ?, S. E. - 49 Dover Street
 2 PLAC Saint Albans, Christchurch, Canterbury, New Zealand
 2 NOTE @N0010@
 1 FAMS @F0004@
@@ -242,6 +248,7 @@
 2 NOTE @N0069@
 1 _MILT
 2 TYPE John Bennison Earwaker MS
+2 PLAC United Kingdom
 2 NOTE @N0069@
 1 FAMC @F0005@
 2 PEDI birth
@@ -256,7 +263,7 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Next of kin at time of burial
+2 TYPE Res, Earwaker, William and Ethel - ?
 2 PLAC Ellisfield, Basingstoke, Hampshire, England
 1 FAMS @F0005@
 1 CHAN
@@ -273,7 +280,7 @@
 2 GIVN Ethel Earwaker
 1 SEX F
 1 RESI
-2 TYPE Next of kin at time of burial
+2 TYPE Res, Earwaker, William and Ethel - ?
 2 PLAC Ellisfield, Basingstoke, Hampshire, England
 1 FAMS @F0005@
 1 CHAN
@@ -289,21 +296,26 @@
 1 DEAT
 2 TYPE Henry Gordon Earwaker DD
 2 DATE 28 MAY 1940
+2 NOTE @N0016@
 1 BURI
 2 TYPE Henry Gordon Earwaker Brl
 2 PLAC Portsmouth Naval Memorial, Hampshire, England, United Kingdom
 3 MAP
 4 LATI N50.78242
 4 LONG W1.09599
+2 NOTE @N0016@
 1 _MILT
 2 TYPE Henry Gordon Earwaker MS
 2 PLAC United Kingdom
 2 NOTE @N0016@
+1 _MILT
+2 TYPE World War II
+2 DATE FROM 1939 TO 1945
 1 FAMC @F0007@
 2 PEDI birth
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 23:15:23
+2 DATE 25 MAY 2026
+3 TIME 11:04:07
 0 @I0017@ INDI
 1 NAME William Henry /Earwaker/
 2 TYPE birth
@@ -312,7 +324,9 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
+2 TYPE Res, Earwaker, William and Emily Kate - ?
 2 PLAC Chichester, Sussex, England, United Kingdom
+2 NOTE @N0016@
 1 FAMS @F0007@
 1 CHAN
 2 DATE 23 MAY 2026
@@ -328,7 +342,9 @@
 2 GIVN Emily Kate Earwaker
 1 SEX F
 1 RESI
+2 TYPE Res, Earwaker, William and Emily Kate - ?
 2 PLAC Chichester, Sussex, England, United Kingdom
+2 NOTE @N0016@
 1 FAMS @F0007@
 1 CHAN
 2 DATE 23 MAY 2026
@@ -856,9 +872,19 @@
 2 TYPE World War I
 2 DATE FROM 1914 TO 1917
 2 NOTE @N0023@
+1 BURI
+2 TYPE Harry George Earwaker BrlD
+2 PLAC Ypres (Menin Gate) Memorial, West-Vlaanderen, Belgium
+3 MAP
+4 LATI N50.8521
+4 LONG E2.89138
+3 NOTE @N0070@
+1 FAMC @F0012@
+2 PEDI birth
+1 FAMS @F0013@
 1 CHAN
 2 DATE 25 MAY 2026
-3 TIME 01:05:47
+3 TIME 08:25:22
 0 @I0048@ INDI
 1 NAME Alfred H /Earwaker/
 2 TYPE birth
@@ -1191,10 +1217,13 @@
 2 TYPE married
 2 GIVN Winifred Dorothy Earwaker
 1 SEX F
+1 RESI
+2 TYPE Res, Earwaker, Winifred Dorothy - ?
+2 PLAC Redhill, Surrey, England, United Kingdom
 1 FAMS @F0009@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 23:46:50
+2 DATE 25 MAY 2026
+3 TIME 08:13:47
 0 @I0066@ INDI
 1 NAME F C /Earwaker/
 2 TYPE birth
@@ -1290,13 +1319,253 @@
 2 GIVN Annie Jame Earwaker
 1 SEX F
 1 RESI
-2 TYPE 43, Elm Rd., Mile End, Portsmouth
+2 TYPE Res, Earwaker, Annie Jane - 43, Elm Rd.
 2 PLAC Mile End, Portsmouth, Hampshire, England, United Kingdom
 2 NOTE @N0067@
 1 FAMS @F0011@
 1 CHAN
 2 DATE 25 MAY 2026
 3 TIME 00:41:33
+0 @I0071@ INDI
+1 NAME Benjamin /Earwaker/
+2 TYPE birth
+2 GIVN Benjamin
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 RESI
+2 TYPE Res , Earwaker, Benjamin and Esther - ?
+2 PLAC Hambledon, Hampshire, England, United Kingdom
+1 FAMS @F0012@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 07:08:45
+0 @I0072@ INDI
+1 NAME Esther /?/
+2 TYPE birth
+2 GIVN Esther
+2 SPFX ?
+2 NPFX Mrs
+1 NAME Esther Earwaker //
+2 TYPE married
+2 GIVN Esther Earwaker
+1 SEX F
+1 RESI
+2 TYPE Res , Earwaker, Benjamin and Esther - ?
+2 PLAC Hambledon, Hampshire, England, United Kingdom
+1 FAMS @F0012@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 07:08:27
+0 @I0073@ INDI
+1 NAME Eleanor Marie /?/
+2 TYPE birth
+2 GIVN Eleanor Marie
+2 SPFX ?
+2 NPFX Mrs
+1 NAME Eleanor Marie Earwaker //
+2 TYPE married
+2 GIVN Eleanor Marie Earwaker
+1 SEX F
+1 RESI
+2 TYPE Res, Earwaker, Eleanor Marie - Ivy Cottage
+2 PLAC Godstone, Surrey, England, United Kingdom
+1 FAMS @F0013@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 08:06:03
+0 @I0074@ INDI
+1 NAME William James /Earwaker/
+2 TYPE birth
+2 GIVN William James
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 DEAT
+2 TYPE William James Earwaker DD
+2 DATE 31 JUL 1917
+2 NOTE @N0071@
+1 _MILT
+2 TYPE William James
+2 PLAC United Kingdom
+2 NOTE @N0071@
+1 BURI
+2 TYPE William James Earwaker BrlD
+2 PLAC Ypres (Menin Gate) Memorial, West-Vlaanderen, Belgium
+3 MAP
+4 LATI N50.8521
+4 LONG E2.89138
+3 NOTE @N0070@
+1 _MILT
+2 TYPE World War I
+2 DATE FROM 1914 TO 1917
+2 NOTE @N0023@
+1 FAMC @F0014@
+2 PEDI birth
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 09:33:19
+0 @I0075@ INDI
+1 NAME William /Earwaker/
+2 TYPE birth
+2 GIVN William
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 RESI
+2 TYPE Res, Earwaker, William and Ellen - 7, Day's Lane
+2 PLAC Sidcup, Kent, England, United Kingdom
+2 NOTE @N0071@
+1 FAMS @F0014@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 09:39:10
+0 @I0076@ INDI
+1 NAME Ellen /?/
+2 TYPE birth
+2 GIVN Ellen
+2 SPFX ?
+2 NPFX Mrs
+1 NAME Ellen Earwaker //
+2 TYPE birth
+2 GIVN Ellen Earwaker
+1 SEX F
+1 RESI
+2 TYPE Res, Earwaker, William and Ellen - 7, Day's Lane
+2 PLAC Sidcup, Kent, England, United Kingdom
+2 NOTE @N0071@
+1 FAMS @F0014@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 09:39:51
+0 @I0077@ INDI
+1 NAME Robert Roy /Earwaker/
+2 TYPE birth
+2 GIVN Robert Roy
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 DEAT
+2 TYPE Robert Roy DD
+2 DATE 28 OCT 1942
+1 _MILT
+2 TYPE Robert Roy
+2 PLAC United Kingdom
+2 NOTE @N0072@
+1 BURI
+2 TYPE Robert Roy BrlD
+2 PLAC El Alamein War Cemetery, El Alamein, Egypt
+3 MAP
+4 LATI N30.83819
+4 LONG E28.94707
+3 NOTE @N0073@
+2 NOTE @N0072@
+1 FAMC @F0015@
+2 PEDI birth
+1 FAMS @F0016@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 10:46:38
+0 @I0078@ INDI
+1 NAME Robert /Earwaker/
+2 TYPE birth
+2 GIVN Robert
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 RESI
+2 TYPE Res, Earwaker, Robert and Edith - ?
+2 PLAC Earlsfield, London, England, United Kingdom
+2 NOTE @N0072@
+1 FAMS @F0015@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 11:24:00
+0 @I0079@ INDI
+1 NAME Edith /?/
+2 TYPE birth
+2 GIVN Edith
+2 SPFX ?
+2 NPFX Mrs
+1 NAME Edith Earwaker //
+2 TYPE married
+2 GIVN Edith Earwaker
+1 SEX F
+1 RESI
+2 TYPE Res, Earwaker, Robert and Edith - ?
+2 PLAC Earlsfield, London, England, United Kingdom
+2 NOTE @N0072@
+1 FAMS @F0015@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 11:23:20
+0 @I0080@ INDI
+1 NAME May B. /?/
+2 TYPE birth
+2 GIVN May B.
+2 SPFX ?
+2 NPFX Mrs
+1 NAME May B. Earwaker //
+2 TYPE married
+2 GIVN May B. Earwaker
+1 SEX F
+1 RESI
+2 TYPE Res, Earwaker, Mary B. - ?
+2 PLAC Earlsfield, London, England, United Kingdom
+2 NOTE @N0072@
+1 FAMS @F0016@
+1 NOTE @N0072@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 11:28:07
+0 @I0081@ INDI
+1 NAME Ernest Robert Henry /Earwaker/
+2 TYPE birth
+2 GIVN Ernest Robert Henry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE Ernest Robert Henry MS
+2 PLAC United Kingdom
+2 NOTE @N0074@
+1 FAMC @F0017@
+2 PEDI birth
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 11:18:50
+0 @I0082@ INDI
+1 NAME R. T. /Earwaker/
+2 TYPE birth
+2 GIVN R. T.
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 RESI
+2 TYPE Res, Earwaker, R. T. and jame - ?
+2 PLAC Millwall, London, England, United Kingdom
+2 NOTE @N0074@
+1 FAMS @F0017@
+1 NOTE @N0074@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 11:21:00
+0 @I0083@ INDI
+1 NAME Jane /?/
+2 TYPE birth
+2 GIVN Jane
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 RESI
+2 TYPE Res, Earwaker, R. T. and jame - ?
+2 PLAC Millwall, London, England, United Kingdom
+2 NOTE @N0074@
+1 FAMS @F0017@
+1 NOTE @N0074@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 11:21:45
 0 @F0000@ FAM
 1 HUSB @I0003@
 1 CHIL @I0001@
@@ -1345,9 +1614,10 @@
 1 HUSB @I0017@
 1 WIFE @I0018@
 1 CHIL @I0016@
+1 NOTE @N0016@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 18:14:30
+2 DATE 25 MAY 2026
+3 TIME 11:04:07
 0 @F0008@ FAM
 1 HUSB @I0062@
 1 WIFE @I0063@
@@ -1381,6 +1651,53 @@
 1 CHAN
 2 DATE 25 MAY 2026
 3 TIME 00:37:22
+0 @F0012@ FAM
+1 HUSB @I0071@
+1 WIFE @I0072@
+1 MARR
+2 TYPE Esther ? to Benjamin Earwaker
+1 CHIL @I0047@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 07:03:29
+0 @F0013@ FAM
+1 HUSB @I0047@
+1 WIFE @I0073@
+1 MARR
+2 TYPE ? Eleanor Marie to Harry George Earwaker
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 07:53:44
+0 @F0014@ FAM
+1 HUSB @I0075@
+1 WIFE @I0076@
+1 CHIL @I0074@
+1 NOTE @N0071@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 09:33:19
+0 @F0015@ FAM
+1 HUSB @I0078@
+1 WIFE @I0079@
+1 CHIL @I0077@
+1 NOTE @N0072@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 10:40:35
+0 @F0016@ FAM
+1 HUSB @I0077@
+1 WIFE @I0080@
+1 NOTE @N0072@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 10:46:38
+0 @F0017@ FAM
+1 HUSB @I0082@
+1 WIFE @I0083@
+1 CHIL @I0081@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 11:18:50
 0 @N0000@ NOTE https://www.cwgc.org/our-work/blog/local-history-with-a-global-focu
 1 CONC s-the-war-graves-of-hornchurch/
 0 @N0001@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
@@ -1457,9 +1774,10 @@
 0 @N0045@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418495
 1 CONT 
 0 @N0046@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418479
-0 @N0047@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418488
-1 CONT https://www.cwgc.org/find-records/find-war-dead/casualty-details/1611043
-1 CONC /harry-george-earwaker/
+0 @N0047@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/16
+1 CONC 11043/harry-george-earwaker/
+1 CONT https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418488
+1 CONT 
 0 @N0048@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418467
 0 @N0049@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418499
 0 @N0050@ NOTE https://livesofthefirstworldwar.iwm.org.uk/lifestory/2418473
@@ -1493,4 +1811,17 @@
 1 CONC tails/39101/portsmouth-kingston-cemetery/
 0 @N0069@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/16
 1 CONC 2845/john-bennison-earwaker/
+0 @N0070@ NOTE https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-de
+1 CONC tails/91800/ypres-menin-gate-memorial/
+0 @N0071@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/16
+1 CONC 11044/william-james-earwaker/
+1 CONT 
+0 @N0072@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/20
+1 CONC 93594/robert-roy-earwaker/
+0 @N0073@ NOTE https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-de
+1 CONC tails/2019000/el-alamein-war-cemetery/
+0 @N0074@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/39
+1 CONC 8459/ernest-robert-henry-earwaker/
+0 @N0075@ NOTE https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-de
+1 CONC tails/44400/brookwood-military-cemetery/
 0 TRLR

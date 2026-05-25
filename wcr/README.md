@@ -95,6 +95,7 @@ earwaker_ms_data
 * <todo: consider, data reconcilliation, e.g. see Charles Earwaker entries in model very likely duplicate, Many William Earwakers, >
 * <todo: consider, data reconcilliation, may have wrongly set many people to have been WWI, must be part of reconcilliation effort >
 * <todo: consider, data reconcilliation, residences, in accordance with heuristic, >
+* <todo: consider, data reconcilliation, some people sources as parents may also have military service records, e.g. son served WWII, father served WWI, e.g. father/mother multiple children in conflict, how to identify >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
