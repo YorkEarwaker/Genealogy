@@ -14,16 +14,29 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0013],,United Kingdom,Country,,,,,
 [P0014],,"Chichester, Sussex, England, United Kingdom",City,,,,,
 [P0015],,"Hampshire, England, United Kingdom",County,,,,,
-[P0016],,Portsmouth Naval Memorial,Unknown,50.78242,-1.09599,,[P0015],
+[P0016],,Portsmouth Naval Memorial,Building,50.78242,-1.09599,,[P0015],
 [P0018],,Canada,Country,,,,,
+[P0019],,"Tel el Kebir, Egypt",City,,,,,
+[P0020],,Tel El Kebir War Memorial Cemetery,Building,30.56146,31.78723,,[P0019],
+[P0021],,"Redhill, Surrey, England, United Kingdom",City,,,,,
+[P0022],,"Limburg, Netherlands",County,,,,,
+[P0023],,Mook War Cemetery,Building,51.75376,5.88593,,[P0022],
+[P0024],,"Poplar, London, England, United Kingdom",Borough,,,,,
+[P0025],,"Cambridgeshire, England, United Kingdom",County,,,,,
+[P0026],,Cambridge City Cemetery,Building,52.21231,0.1665,,[P0025],
+[P0027],,"Mile End, Portsmouth, Hampshire, England, United Kingdom",Borough,,,,,
+[P0028],,Portsmouth (Kingston) Cemetery,Building,50.80315,-1.06833,,[P0015],
 [P0007],,Ploegsteert Memorial,Building,50.7378,2.88228,,[P0008],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0057],,A,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0053],,Albert E,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0064],,Albert George,,,,Earwaker,Mr,male,,,,,,,1944-10-12,,,,[P0023],,
 [I0042],,Alfred,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0048],,Alfred H,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0070],,Annie Jane,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0058],,Arthur G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0061],,Cecil,,,,Earwaker,Mr,male,,,,,,,1946-05-24,,,,[P0020],,
 [I0010],,Charles,,,,Earwaker,Mr,male,,,,,,,1918-04-11,,,,[P0007],,
 [I0038],,Charles,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0008],,David Sams,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -32,7 +45,8 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0050],,Edmond Charles,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0055],,Edward Reginald,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0018],,Emily Kate,,,,?,Mrs,female,,,,,,,,,,,,,
-[I0013],,Ethel,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0013],,Ethel,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0066],,F C,,,,Earwaker,Mr,male,,[P0024],,,,,1919-01-02,,,,[P0026],,
 [I0054],,Frank,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0036],,Frederick,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0052],,Frederick,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -46,7 +60,9 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0023],,George W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0024],,Graham Parsons,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0031],,Harry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
-[I0047],,Harry G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0047],,Harry George,,,,Earwaker,Mr,male,,,,,,,1917-08-05,,,,,,
+[I0063],,Henrietta Sophie,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0069],,Henry Charles,,,,Earwaker,Mr,male,,,,,,,1919-03-19,,,,[P0028],,
 [I0016],,Henry Gordon,,,,Earwaker,Mr,male,,,,,,,1940-05-28,,,,[P0016],,
 [I0029],,Henry J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0035],,James,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -56,12 +72,15 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0025],,Joseph,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0044],,Juliet,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0006],,Lily Harris,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0068],,Mary Ann,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0033],,Oliver Charles,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0005],,P. S.,,,,Spence,Mrs,female,,,,,,,,,,,,,
 [I0026],,R N D'o,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0049],,Ralph Parsons,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0062],,Richard,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0039],,Richard T,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0051],,Robert,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0067],,Robert,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0059],,Robert Norman Doyly,,,,Earwaker,Mr,male,1885-04-06,,,,,,,,,,,,
 [I0021],,Robert Thomas,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0009],,S.E.,,,,?,Mrs,female,,,,,,,,,,,,,
@@ -78,6 +97,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0040],,William H,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0017],,William Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0007],,William Samuel,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0065],,Winifred Dorothy,,,,?,Mrs,female,,,,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
 [F0000],[I0003],,,,,
@@ -87,6 +107,10 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0004],,[I0009],,,,
 [F0005],[I0012],[I0013],,,,
 [F0007],[I0017],[I0018],,,,
+[F0008],[I0062],[I0063],,,,
+[F0009],[I0064],[I0065],,,,
+[F0010],[I0067],[I0068],,,,
+[F0011],[I0069],[I0070],,,,
 
 Family,Child
 [F0000],[I0001]
@@ -95,4 +119,6 @@ Family,Child
 [F0004],[I0008]
 [F0005],[I0011]
 [F0007],[I0016]
+[F0008],[I0061]
+[F0010],[I0066]
 

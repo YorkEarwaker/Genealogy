@@ -3,7 +3,7 @@
 A record of the serfdom in the British Isles of the people named Earwaker.
 
 Surfs slaughter suppression struggle sorrow sweat suffering suffrage ... survival.
- 
+
 ## Notes
 
 Most of the people called Earwaker in the British Isles were reduced to work role of labourer or similar. Due to serfdom or indentured servitude of one type or another. Slavery in the British Isles dates at least as far back as the Roman Empire A.D. 49 . And quite likely earlier. 
@@ -91,6 +91,7 @@ earwaker_ms_data
 * unique keys have not been sourced for many entries. service numbers, birth dates, death dates, burial sites, family members mentioned in records, locales, others tbc
 * service numbers may be recorded in different formats, unclear, also showing ignorance on the users part, 
 * <todo: consider, data reconcilliation, e.g. see Charles Earwaker entries in model very likely duplicate, Many William Earwakers, >
+* <todo: consider, may have wrongly set many people to have been WWI, must be part of reconcilliation effort >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
@@ -131,4 +132,4 @@ Military service records - army, navy,
 * Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), Imperial War Museum, 
 * Tracing a British Seaman in the Royal Navy before 1853, [WS](https://genealogyjude.com/2022/09/17/tracing-a-british-seamen-in-the-royal-navy-before-1853/), 2022, blog
 * Tracing your Family History, [WS](https://www.iwm.org.uk/research/tracing-your-family-history) Imperial War Museum 
-* [WS](https://www.cwgc.org/)
+* Commonwealth War Graves, [WS](https://www.cwgc.org/)
