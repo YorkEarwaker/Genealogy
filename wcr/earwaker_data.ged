@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 23 MAY 2026
-2 TIME 13:16:24
+1 DATE 25 MAY 2026
+2 TIME 18:23:47
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -26,15 +26,18 @@
 2 TYPE Francis Joseph Earwaker BD
 2 DATE 16 JUL 1936
 2 PLAC Middelsex, England, United Kingdom
-1 OCCU World Bank FJE
+1 DEAT
+2 TYPE Francis Joseph Earwaker DD
+2 PLAC Firenze, Firenze, Toscana, Italy
+1 OCCU Emp, Francis Joseph Earwaker - World Bank
 2 PLAC Washington, District of Columbia, USA
 1 FAMC @F0002@
 2 PEDI birth
 1 FAMS @F0008@
 1 FAMS @F0005@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 11:11:39
+2 DATE 25 MAY 2026
+3 TIME 16:42:14
 0 @I0001@ INDI
 1 NAME Caroline /Freatherstone/
 2 TYPE birth
@@ -46,7 +49,7 @@
 2 TYPE Caroline Featherstones BD
 2 DATE 19 FEB 1903
 2 PLAC Newcastle on Tyne, Northumberland, England, United Kingdom
-1 RELI Catholic
+1 RELI Catholicism
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0002@
@@ -199,12 +202,16 @@
 1 BIRT
 2 TYPE Elizabeth Dorothy Ash BD
 2 DATE 1938
+2 PLAC United Kingdom
+1 DEAT
+2 TYPE Elizabeth Dorothy Ash DD
+2 PLAC La Serena, Coquimbo, Chile
 1 FAMC @F0010@
 2 PEDI birth
 1 FAMS @F0008@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 19:35:11
+2 DATE 25 MAY 2026
+3 TIME 16:52:44
 0 @I0011@ INDI
 1 NAME Carmen Elena /Alcaine/
 2 TYPE birth
@@ -218,9 +225,8 @@
 1 SEX F
 1 BIRT
 2 TYPE Carmen Elena Alcaine BD
-2 DATE 1946
 2 PLAC San Salvador, San Salvador, El Salvador
-1 OCCU World Bank CEA
+1 OCCU Emp, Carmen Elena Alcaine - World Bank
 2 PLAC Washington, District of Columbia, USA
 1 FAMC @F0009@
 2 PEDI birth
@@ -243,9 +249,10 @@
 1 FAMC @F0005@
 2 _FREL Step
 2 _MREL birth
+1 FAMS @F0018@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 11:18:04
+2 DATE 25 MAY 2026
+3 TIME 16:34:59
 0 @I0013@ INDI
 1 NAME Margarita Eugenia /Martinez/
 2 TYPE birth
@@ -290,7 +297,6 @@
 1 SEX F
 1 BIRT
 2 TYPE Angela Eugenia Alcaine BD
-2 DATE 1935
 2 PLAC San Salvador, San Salvador, El Salvador
 1 DEAT
 2 TYPE Angela Eugenia Alcaine DD
@@ -368,7 +374,7 @@
 2 TYPE Hannah Sarah Rose BD
 2 DATE 1837
 2 PLAC Middelsex, England, United Kingdom
-1 RELI Jewish
+1 RELI Judaism
 1 FAMS @F0011@
 1 CHAN
 2 DATE 22 MAY 2026
@@ -421,7 +427,7 @@
 2 TYPE Mary Barrett BD
 2 DATE 1834
 2 PLAC Mayo, Ireland
-1 RELI Catholic
+1 RELI Catholicism
 1 OCCU Wife
 1 FAMS @F0013@
 1 CHAN
@@ -622,14 +628,19 @@
 2 SPFX Khan
 2 NPFX Mr
 1 SEX M
+1 BIRT
+2 TYPE Arif Khan BD
+2 PLAC ?, ?, Pakistan
 1 RELI Islam
 1 EVEN Natasha Jasmin Earwaker to Arif Khan
 2 TYPE Marriage
 2 PLAC London, England, United Kingdom
+1 FAMC @F0017@
+2 PEDI birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 12:56:25
+2 DATE 25 MAY 2026
+3 TIME 16:28:46
 0 @I0042@ INDI
 1 NAME Sami /Khan/
 2 TYPE birth
@@ -642,6 +653,39 @@
 1 CHAN
 2 DATE 23 MAY 2026
 3 TIME 12:48:13
+0 @I0043@ INDI
+1 NAME Father of Arif /Khan/
+2 TYPE birth
+2 GIVN Father of Arif
+2 SPFX Khan
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0017@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 16:30:12
+0 @I0044@ INDI
+1 NAME Mother of Arif /?/
+2 TYPE birth
+2 GIVN Mother of Arif
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0017@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 16:30:28
+0 @I0045@ INDI
+1 NAME Kieran /O'Conner/
+2 TYPE birth
+2 GIVN Kieran
+2 SPFX O'Conner
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0018@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 16:34:59
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
@@ -678,7 +722,6 @@
 1 WIFE @I0011@
 1 MARR
 2 TYPE Carmen Elena Martinez to Francis Joseph Earwaker
-2 DATE 1980
 2 PLAC Alexandria, Virginia, USA
 1 CHIL @I0004@
 1 CHIL @I0005@
@@ -692,7 +735,6 @@
 1 WIFE @I0011@
 1 MARR
 2 TYPE Carmen Elena Alcaine to Rene Fransisco Martinez
-2 DATE 1960
 2 PLAC Arlington, Virginia, USA
 1 CHIL @I0013@
 1 CHIL @I0012@
@@ -704,7 +746,6 @@
 1 WIFE @I0005@
 1 MARR
 2 TYPE Ruth Marshall to Ross Wotherspoon
-2 DATE 1990
 2 PLAC Sydney, New South Wales, Australia
 1 CHIL @I0040@
 1 CHIL @I0039@
@@ -716,7 +757,6 @@
 1 WIFE @I0010@
 1 MARR
 2 TYPE Elizabeth Dorothy Ash to Francis Joseph Earwaker
-2 DATE 1960
 1 CHIL @I0004@
 1 CHIL @I0005@
 1 CHAN
@@ -802,4 +842,17 @@
 1 CHAN
 2 DATE 23 MAY 2026
 3 TIME 12:48:13
+0 @F0017@ FAM
+1 HUSB @I0043@
+1 WIFE @I0044@
+1 CHIL @I0041@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 16:28:46
+0 @F0018@ FAM
+1 HUSB @I0012@
+1 WIFE @I0045@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 16:34:59
 0 TRLR
