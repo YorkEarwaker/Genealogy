@@ -37,6 +37,7 @@ Goals
 
 To self - and others who might witness this account
 * <info: This is a work in progress and is liable to contain errors.>
+* <info: Errors arrising from learning genealogy dicipline and Gramps app, >
 
 ## Status
 TODO
@@ -60,6 +61,7 @@ DONE
 * <done: consider, not sure about terms; shire sward sorcery sword savagery . possibly open to misinterpretation? topic mashup issues, keep word usage under review, In terms of shire Hampshire was/is the locale with most eofor wacer, wip>
 * <done: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? all three are intersting, others? in the first instance family history/documentary, in the second instance as a grounding for fantasy fiction to be written elsewhere, in the third instance experience with the Genealogy tools for AGW project use cases, >
 * <done: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, commonwealth records, others tbd, IE? eofor led by swine? too harsh? too true?, earwaker_ms_data wip >
+* <done: consider, residence event naming convention confusion, next of kin at embarkment/burial/etc, need general heuristic for naming, tbd, and other residence naming conventions?, wip>
 
 ## Data
 
@@ -91,7 +93,8 @@ earwaker_ms_data
 * unique keys have not been sourced for many entries. service numbers, birth dates, death dates, burial sites, family members mentioned in records, locales, others tbc
 * service numbers may be recorded in different formats, unclear, also showing ignorance on the users part, 
 * <todo: consider, data reconcilliation, e.g. see Charles Earwaker entries in model very likely duplicate, Many William Earwakers, >
-* <todo: consider, may have wrongly set many people to have been WWI, must be part of reconcilliation effort >
+* <todo: consider, data reconcilliation, may have wrongly set many people to have been WWI, must be part of reconcilliation effort >
+* <todo: consider, data reconcilliation, residences, in accordance with heuristic, >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
@@ -111,7 +114,9 @@ Other models are likely to be distinct family trees and separate projects
 Heuristics
 * - don't lose anyone, rule include rather than not
 * - reconcile people who share same name or very similar name, rule create one record of the truth
-* - create families, rule don't make up data for marriages and so on
+* - create families, rule don't make up data for marriages and so on, 
+* - - marriage events, assume if record state son of x y < some-last-name > implies marriage, in official record
+* - residence, Res, Surname, First Name(s) - House Number Street/Road
 
 ## References
 
