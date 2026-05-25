@@ -15,13 +15,17 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0014],,"London, England, United Kingdom",City,,,,,
 [P0015],,"Glasgow, Lanarkshire, Scotland",City,,,,,
 [P0016],,"?, ?, Pakistan",City,,,,,
-[P0017],,"Firenze, Firenze, Toscana, Italy",Unknown,,,,,
-[P0018],,"La Serena, Coquimbo, Chile",Unknown,,,,,
+[P0017],,"Firenze, Firenze, Toscana, Italy",City,,,,,
+[P0018],,"La Serena, Coquimbo, Chile",City,,,,,
 [P0019],,United Kingdom,Country,,,,,
-[P0020],,Australia,Unknown,,,,,
+[P0020],,Australia,Country,,,,,
 [P0021],,United States,Country,,,,,
 [P0022],,El Salvador,Country,,,,,
-[P0023],,Ireland,Unknown,,,,,
+[P0023],,Ireland,Country,,,,,
+[P0024],,India,Country,,,,,
+[P0025],,Scotland,Country,,,,,
+[P0026],,Pakistan,Country,,,,,
+[P0027],,England,Country,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0015],,Angela Eugenia,,,,Alcaine,Mrs,female,,[P0006],,,,,2013,,,,,,
@@ -40,6 +44,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0000],,Francis Joseph,,Charlie,,Earwaker,Mr,male,1936-07-16,[P0001],,,,,,[P0017],,,,,
 [I0021],,Hannah Sarah,,,,Rose,Mrs,female,1837,[P0001],,,,,,,,,,,
 [I0034],,Helen,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0046],,Helen,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0019],,Henry Herbert,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0022],,James,,,,Earwaker,Mr,male,1835,[P0001],,,,,,,,,,,
 [I0027],,James Frederick,,,,Adams,Mr,male,,,,,,,,,,,,,
@@ -88,6 +93,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0016],[I0041],[I0033],,,,
 [F0017],[I0043],[I0044],,,,
 [F0018],[I0012],[I0045],,,,
+[F0019],,[I0046],,,,
 
 Family,Child
 [F0002],[I0000]
@@ -119,4 +125,5 @@ Family,Child
 [F0015],[I0037]
 [F0016],[I0042]
 [F0017],[I0041]
+[F0019],[I0034]
 
