@@ -63,6 +63,7 @@ DONE
 * <done: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, commonwealth records, others tbd, IE? eofor led by swine? too harsh? too true?, earwaker_ms_data wip >
 * <done: consider, residence event naming convention confusion, next of kin at embarkment/burial/etc, need general heuristic for naming, tbd, and other residence naming conventions?, wip>
 * <done: consider, refactor Residence entities, new naming convention for embarkation Res, NOK-Emb for burials Res, NOK-Brl, for the next of kin cited in source material >
+* <done: consider, different data sets with different focus relate to different concerns and viewpoints, rationale for differents sets a survey of candidates for linking members of each respecive data set, wip >
 
 ## Data
 

@@ -13,7 +13,7 @@ Goals
 * Medicine, disease susceptibility risk, link with patient records, NHS? Cancer, cycle cell, heart, glaucoma, ... . 
 * Law enforcement, risk register? families at risk? 
 * Law matters, case records? people and relations? 
-* Climate refugee camp management, trace relatives of climate refugees? log refugee numbers over time? millions possibly billions will die; log burial site lon lat geo data, or last communicated position, death date and cause; starvation, dehydration, flood drowning, urban/wild fire burning, land/sea cyclone, disease, ...
+* Climate refugee camp management, trace relatives of climate refugees? log refugee numbers over time? millions possibly billions will die; log burial site lon lat geo data, or last communicated position, death date and cause; starvation, heat dehydration, heat wet bulb organ failure, flood drowning, urban/wild fire burning smoke suffocation, land/sea cyclone, disease, ...
 * Mapping the worlds web of human interaction? 
 * Links in the chain of human evolution?
 * Data, linked data, semantic web, ?
