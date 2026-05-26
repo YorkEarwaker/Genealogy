@@ -84,6 +84,8 @@ earwaker_data
 * members of family today and ancestors to two or three degrees
 * many separate family tree lines coalescing here, circa 2026
 * <todo: consider, rectictify, currently contains errors re some birth dates and marriage dates? as part of learning curve for Gramps, first steps, >
+* <todo: consider, attempt to find one link from decendants of this list earwaker_data and service records earwaker_ms_data which is extant, other data sets as and when>
+* <todo: consider, attempt to find one link from decendants of this list earwaker_data and civic records earwaker_cv_data which is yet to be created, other data sets as and when>
 
 earwaker_ms_data
 * <info: non military civilian relatives people are tagged Next of Kin (NOK), which shows light blue in the Gramps people list display, >
@@ -100,13 +102,14 @@ earwaker_ms_data
 * <todo: consider, data reconcilliation, some people sources as parents may also have military service records, e.g. son served WWII, father served WWI, e.g. father/mother multiple children in conflict, how to identify >
 
 earwaker_cv_data
-* civic records, online, AU, CA, NZ, UK, ... IN,  other commonwealth nations with online records service
+* civic records, online, AU, CA, NZ, UK, ... IN, PK, other commonwealth nations with online records service
 * Census, Birth, Marriages, Deaths, Immigration Citizenship, Religious baptism etc, 
 * <todo: consider, other than _cv_ , but what? or leave as is, >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
 * including those listed in other models
+* <todo: consider, rationale to start this model to go to sufficient depth far back in time so that decendents of one or more members of this list, name tbd, have a match to members in other data sets earwaker_data earwaker_ms_data earwaker_cv_data and so on, find comonalities, find ties, find webs, find networks, find interesting stuff, great if this could be achieve but looks like medium to long term project, >
 
 earwaker_N+1_data
 * likely one relating to speculative arc deep history
