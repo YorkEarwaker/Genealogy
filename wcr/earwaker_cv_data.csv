@@ -1,0 +1,14 @@
+Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
+
+Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
+[I0002],,Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0000],,Mary,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0001],,Rose,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+
+Marriage,Husband,Wife,Date,Place,Source,Note
+[F0000],[I0002],,,,,
+
+Family,Child
+[F0000],[I0000]
+[F0000],[I0001]
+

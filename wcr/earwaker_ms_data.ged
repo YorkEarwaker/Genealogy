@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 26 MAY 2026
-2 TIME 14:24:05
+2 TIME 20:10:58
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -1702,6 +1702,7 @@
 2 GIVN Augustis
 2 SPFX Earwaker
 2 NPFX Mr
+2 NICK Gus
 1 SEX M
 1 BIRT
 2 TYPE Augustus Earwaker BD
@@ -1739,7 +1740,7 @@
 1 NOTE @N0083@
 1 CHAN
 2 DATE 26 MAY 2026
-3 TIME 07:32:23
+3 TIME 19:57:44
 0 @I0091@ INDI
 1 NAME Augustus /Earwaker/
 2 TYPE birth
@@ -1776,7 +1777,7 @@
 2 DATE 27 AUG 1912
 1 DEAT
 2 TYPE William Henry Earwaker DD
-2 DATE 1965
+2 DATE 17 OCT 1965
 1 _MILT
 2 TYPE William Henry Earwaker MS
 2 DATE 9 OCT 1941
@@ -1808,7 +1809,7 @@
 1 NOTE @N0084@
 1 CHAN
 2 DATE 26 MAY 2026
-3 TIME 07:32:23
+3 TIME 19:57:44
 0 @I0093@ INDI
 1 NAME John George /Earwaker/
 2 TYPE birth
@@ -1943,6 +1944,92 @@
 1 CHAN
 2 DATE 26 MAY 2026
 3 TIME 13:56:03
+0 @I0098@ INDI
+1 NAME R William /Earwaker/
+2 TYPE birth
+2 GIVN R William
+2 SPFX Earwaker
+2 NPFX Mr
+1 NAME R W Earwaker //
+2 TYPE birth
+2 GIVN R W Earwaker
+1 NAME R Earwaker //
+2 TYPE birth
+2 GIVN R Earwaker
+1 SEX M
+1 BIRT
+2 TYPE R William Earwaker BD
+2 DATE 1942
+2 PLAC Australia
+1 DSCR Nephew of QX22335 pvt. William Henry Earwaker
+1 DSCR Nephew of QX22335 pvt. Augustis Earwaker
+1 DSCR female relative, of QX22335 William Henry Earwaker, Marjore Earwaker? si
+2 CONC gned on 10/3/1942, number a 41330, stamp 25 Feb 1942 . R/8725  . I
+2 CONC s M E one of the sisters?
+1 DSCR 4 brothers at least 2 sisters for William Henry Earwaker or which August
+2 CONC is Earwaker was one
+1 RESI
+2 DATE 10 OCT 2000
+2 ADDR 95 Phonix Parade
+3 CONT Kiriwan
+3 CONT Queensland
+3 CONT 4817
+3 CONT Australia
+3 ADR1 95 Phonix Parade
+3 CITY Kiriwan
+3 STAE Queensland
+3 POST 4817
+3 CTRY Australia
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 19:16:02
+0 @I0099@ INDI
+1 NAME Marjorie /Earwaker/
+2 TYPE birth
+2 GIVN Marjorie
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 DSCR female relative, of QX22335 William Henry Earwaker & QX22334 Augustis Ea
+2 CONC rwaker
+1 DSCR Is M E one of the sisters? at least two sisters?
+1 DSCR Marjorie Earwaker, signed on 10/3/1942, number a 41330, stamp 25 Feb 194
+2 CONC 2 . R/8725  .
+1 DSCR M E relative also? of R William Earwaker, nephew to WHE AE?
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 19:15:27
+0 @I0100@ INDI
+1 NAME Leslie Thomas /Earwaker/
+2 TYPE birth
+2 GIVN Leslie Thomas
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Leslie Thomas Earwaker BD
+2 DATE 23 JAN 1924
+2 PLAC Townsville, Queensland, Australia
+1 DEAT
+2 TYPE Leslie Thomas Earwaker DD
+2 DATE 13 NOV 1992
+2 PLAC Townsville, Queensland, Australia
+1 _MILT
+2 TYPE Leslie Thomas Earwaker MS
+2 DATE 25 FEB 1942
+1 BURI
+2 TYPE Leslie Thomas Earwaker BrlD
+2 PLAC Woongarra Crematorium, Townsville, Queensland, Australia
+3 MAP
+4 LATI S19.26639
+4 LONG E146.8057
+3 NOTE @N0090@
+1 FAMC @F0019@
+2 PEDI birth
+1 NOTE @N0089@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 19:57:44
 0 @F0000@ FAM
 1 HUSB @I0003@
 1 CHIL @I0001@
@@ -2086,9 +2173,10 @@
 1 HUSB @I0091@
 1 CHIL @I0090@
 1 CHIL @I0092@
+1 CHIL @I0100@
 1 CHAN
 2 DATE 26 MAY 2026
-3 TIME 07:32:23
+3 TIME 19:57:44
 0 @F0020@ FAM
 1 HUSB @I0094@
 1 CHIL @I0093@
@@ -2249,6 +2337,7 @@
 0 @N0084@ NOTE https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsRe
 1 CONC ports/ItemDetail.aspx?Barcode=4499030&isAv=N
 1 CONT https://www.awm.gov.au/collection/R1452168
+1 CONT https://vwma.org.au/explore/people/687574
 1 CONT 
 0 @N0085@ NOTE https://www.awm.gov.au/collection/R1878317
 1 CONT https://www.awm.gov.au/collection/R2320198
@@ -2265,4 +2354,6 @@
 1 CONT https://www.awm.gov.au/collection/C1101238
 1 CONT 
 0 @N0088@ NOTE https://www.awm.gov.au/collection/C45641
+0 @N0089@ NOTE https://vwma.org.au/explore/people/687571
+0 @N0090@ NOTE https://vwma.org.au/explore/cemeteries/3062
 0 TRLR

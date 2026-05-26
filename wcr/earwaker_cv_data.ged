@@ -1,0 +1,71 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS 6.0.8
+2 NAME Gramps
+1 DATE 26 MAY 2026
+2 TIME 20:26:21
+1 SUBM @SUBM@
+1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_cv_data.ged
+1 COPR Copyright (c) 2026 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+0 @I0000@ INDI
+1 NAME Mary /Earwaker/
+2 TYPE birth
+2 GIVN Mary
+2 SPFX Earwaker
+2 NPFX Mrs
+1 NAME Mary Purvis //
+2 TYPE married
+2 GIVN Mary Purvis
+1 SEX F
+1 FAMC @F0000@
+2 PEDI birth
+1 NOTE @N0000@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 20:22:34
+0 @I0001@ INDI
+1 NAME Rose /Earwaker/
+2 TYPE birth
+2 GIVN Rose
+2 SPFX Earwaker
+2 NPFX Mrs
+1 NAME Rose Spencer //
+2 TYPE married
+2 GIVN Rose Spencer
+1 SEX F
+1 FAMC @F0000@
+2 PEDI birth
+1 NOTE @N0001@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 20:22:34
+0 @I0002@ INDI
+1 NAME Henry /Earwaker/
+2 TYPE birth
+2 GIVN Henry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0000@
+1 NOTE @N0002@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 20:22:34
+0 @F0000@ FAM
+1 HUSB @I0002@
+1 CHIL @I0000@
+1 CHIL @I0001@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 20:22:34
+0 @N0000@ NOTE https://www.wikitree.com/wiki/Earwaker-31
+0 @N0001@ NOTE https://www.wikitree.com/wiki/Earwaker-29
+0 @N0002@ NOTE https://www.wikitree.com/wiki/Earwaker-27
+0 TRLR

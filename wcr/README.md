@@ -101,6 +101,7 @@ earwaker_ms_data
 * <todo: consider, data reconcilliation, may have wrongly set many people to have been WWI, must be part of reconcilliation effort >
 * <todo: consider, data reconcilliation, residences, in accordance with heuristic, >
 * <todo: consider, data reconcilliation, some people sources as parents may also have military service records, e.g. son served WWII, father served WWI, e.g. father/mother multiple children in conflict, how to identify >
+* <todo: consider, search for ERRICKER EARWICKER and simlar, have seen similar in au virtual war memorial, once Earwaker search is exhausted, >
 
 earwaker_cv_data
 * civic records, online, AU, CA, NZ, UK, ... IN, PK, other commonwealth nations with online records service
@@ -154,6 +155,7 @@ Service Records - service, army, navy,
 * Tracing your Family History, [WS](https://www.iwm.org.uk/research/tracing-your-family-history), UK, Imperial War Museum 
 * Commonwealth War Graves Commission, [WS](https://www.cwgc.org/), 
 * Australian War Memorial, [WS](https://www.awm.gov.au/advanced-search/people), AU
+* Virtual War Memorial, [WS](https://vwma.org.au/), AU
 * Service Records, [WS](https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/service-records.html), CA
 * Military, general links, [WS](https://nzhistory.govt.nz/handsonhistory/military-general-links), NZ
 

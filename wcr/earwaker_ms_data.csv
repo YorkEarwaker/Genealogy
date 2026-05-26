@@ -40,9 +40,10 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0040],,Plymouth Naval Memorial,Building,50.36573,-4.14223,,[P0039],
 [P0041],,"Winnipeg Centre, Manitoba, Quebec, Canada",Unknown,,,,,
 [P0042],,Australia,Country,,,,,
-[P0043],,"Townsville, Queensland, Australia",Unknown,,,,,
+[P0043],,"Townsville, Queensland, Australia",City,,,,,
 [P0044],,Singapore,Country,,,,,
 [P0045],,Korea,Country,,,,,
+[P0046],,Woongarra Crematorium,Unknown,S19.26639,E146.8057,,[P0043],
 [P0007],,Ploegsteert Memorial,Building,50.7378,2.88228,,[P0008],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
@@ -103,12 +104,15 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0045],,John W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0025],,Joseph,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0044],,Juliet,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0100],,Leslie Thomas,,,,Earwaker,Mr,male,1924-01-23,[P0043],,,,,1992-11-13,[P0043],,,[P0046],,
 [I0006],,Lily Harris,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0099],,Marjorie,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0068],,Mary Ann,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0080],,May B.,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0033],,Oliver Charles,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0005],,P. S.,,,,Spence,Mrs,female,,,,,,,,,,,,,
 [I0026],,R N D'o,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0098],,R William,,,,Earwaker,Mr,male,1942,[P0042],,,,,,,,,,,
 [I0082],,R. T.,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0086],,Rachel,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0049],,Ralph Parsons,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -136,7 +140,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0040],,William H,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0017],,William Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0085],,William Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
-[I0092],,William Henry,,,,Earwaker,Mr,male,1912-08-27,,,,,,1965,,,,,,
+[I0092],,William Henry,,,,Earwaker,Mr,male,1912-08-27,,,,,,1965-10-17,,,,,,
 [I0074],,William James,,,,Earwaker,Mr,male,,,,,,,1917-07-31,,,,[P0031],,
 [I0007],,William Samuel,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0065],,Winifred Dorothy,,,,?,Mrs,female,,,,,,,,,,,,,
@@ -180,5 +184,6 @@ Family,Child
 [F0018],[I0084]
 [F0019],[I0090]
 [F0019],[I0092]
+[F0019],[I0100]
 [F0020],[I0093]
 
