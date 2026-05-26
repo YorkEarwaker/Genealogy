@@ -42,6 +42,7 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0042],,Australia,Country,,,,,
 [P0043],,"Townsville, Queensland, Australia",Unknown,,,,,
 [P0044],,Singapore,Country,,,,,
+[P0045],,Korea,Country,,,,,
 [P0007],,Ploegsteert Memorial,Building,50.7378,2.88228,,[P0008],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
@@ -67,6 +68,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0050],,Edmond Charles,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0055],,Edward Reginald,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0073],,Eleanor Marie,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0096],,Elizabeth,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0076],,Ellen,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0018],,Emily Kate,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0081],,Ernest Robert Henry,,,,Earwaker,Mr,male,,,,,,,1918-09-06,,,,[P0038],,
@@ -95,6 +97,8 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0035],,James,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0083],,Jane,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0011],,John Bennison,,,,Earwaker,Mr,male,,,,,,,1918-10-16,,,,[P0011],,
+[I0094],,John Ewen,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0093],,John George,,,,Earwaker,Mr,male,,,,,,,1963,,,,,,
 [I0060],,John Henry,,,,Earwaker,Mr,male,1879-03-21,,,,,,,,,,,,
 [I0045],,John W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0025],,Joseph,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -120,6 +124,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0000],,Samuel David,,,,Earwaker,Mr,male,1916-12-25,[P0002],,,,,1943-01-24,[P0001],,1943,[P0012],,
 [I0020],,Thomas,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0043],,Thomas J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0095],,W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0028],,Walter S,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0032],,Walter W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0012],,William,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -135,6 +140,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0074],,William James,,,,Earwaker,Mr,male,,,,,,,1917-07-31,,,,[P0031],,
 [I0007],,William Samuel,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0065],,Winifred Dorothy,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0097],,Wlliam,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
 [F0000],[I0003],,,,,
@@ -156,6 +162,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0017],[I0082],[I0083],,,,
 [F0018],[I0085],[I0086],,,,
 [F0019],[I0091],,,,,
+[F0020],[I0094],,,,,
 
 Family,Child
 [F0000],[I0001]
@@ -173,4 +180,5 @@ Family,Child
 [F0018],[I0084]
 [F0019],[I0090]
 [F0019],[I0092]
+[F0020],[I0093]
 

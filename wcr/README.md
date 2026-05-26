@@ -82,7 +82,7 @@ Sources - unofficial, public published family trees
 earwaker_data
 * memory of living family relations, needs documentation sources links
 * members of family today and ancestors to two or three degrees
-* many separate family tree lines coalescing here
+* many separate family tree lines coalescing here, circa 2026
 * <todo: consider, rectictify, currently contains errors re some birth dates and marriage dates? as part of learning curve for Gramps, first steps, >
 
 earwaker_ms_data
@@ -98,6 +98,11 @@ earwaker_ms_data
 * <todo: consider, data reconcilliation, may have wrongly set many people to have been WWI, must be part of reconcilliation effort >
 * <todo: consider, data reconcilliation, residences, in accordance with heuristic, >
 * <todo: consider, data reconcilliation, some people sources as parents may also have military service records, e.g. son served WWII, father served WWI, e.g. father/mother multiple children in conflict, how to identify >
+
+earwaker_cv_data
+* civic records, online, AU, CA, NZ, UK, ... IN,  other commonwealth nations with online records service
+* Census, Birth, Marriages, Deaths, Immigration Citizenship, Religious baptism etc, 
+* <todo: consider, other than _cv_ , but what? or leave as is, >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
@@ -133,19 +138,21 @@ Etymology
 * Earwaker Surname Meaning, [WS](https://www.ancestry.co.uk/last-name-meaning/earwaker), Ancestry
 * ...
 
-Family trees - 
-* Earwaker Earwicker Erricker, [WS](http://www.earwaker.co.uk/), Alan Earwaker, genealogy research
-* ...
-
-National Archives
+National Archives - civilian & service
 * Australian National Archives, [WS](https://www.naa.gov.au/), [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), AU, Records Search, good quality, some records first search on earwaker
 * Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), CA, good quality, lots or records, immigration, marriages, of people named earwaker, 
 * Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), DigitalNZ, [WS](https://digitalnz.org/), Collections Search [WS](https://collections.archives.govt.nz/web/arena#/), Family Search [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/search), National Library [WS](https://natlib.govt.nz/), NZ
 * UK
 
-Military service records - army, navy, 
-* Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), Imperial War Museum, 
+Service Records - service, army, navy, 
+* Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), UK, Imperial War Museum, 
 * Tracing a British Seaman in the Royal Navy before 1853, [WS](https://genealogyjude.com/2022/09/17/tracing-a-british-seamen-in-the-royal-navy-before-1853/), 2022, blog
-* Tracing your Family History, [WS](https://www.iwm.org.uk/research/tracing-your-family-history) Imperial War Museum 
+* Tracing your Family History, [WS](https://www.iwm.org.uk/research/tracing-your-family-history), UK, Imperial War Museum 
 * Commonwealth War Graves Commission, [WS](https://www.cwgc.org/), 
+* Australian War Memorial, [WS](https://www.awm.gov.au/advanced-search/people), AU
+* Service Records, [WS](https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/service-records.html), CA
+* Military, general links, [WS](https://nzhistory.govt.nz/handsonhistory/military-general-links), NZ
 
+Family trees - extant, lists of family trees from people who share the name Earwaker, likely non related family branches
+* Earwaker Earwicker Erricker, [WS](http://www.earwaker.co.uk/), Alan Earwaker, genealogy research, this site has been an inspiration for a while
+* ...

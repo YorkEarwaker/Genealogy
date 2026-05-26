@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 26 MAY 2026
-2 TIME 09:48:57
+2 TIME 14:24:05
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -42,7 +42,7 @@
 2 PLAC New Zealand
 2 NOTE @N0003@
 1 _MILT
-2 TYPE World War II
+2 TYPE Con, World War II
 2 DATE FROM 1939 TO 1945
 2 NOTE @N0077@
 1 FAMC @F0003@
@@ -65,8 +65,8 @@
 2 PLAC New Zealand
 2 NOTE @N0004@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 FAMC @F0000@
 2 PEDI birth
@@ -85,11 +85,18 @@
 2 TYPE Edgar Charles Earwaker MS
 2 PLAC New Zealand
 2 NOTE @N0005@
+1 RESI
+2 TYPE Res, Before-Enl, Earwaker, Edgar Charles - 10 Sefton St,
+2 PLAC Timaru, Canterbury, New Zealand
+1 _MILT
+2 TYPE Con, World War II
+2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
 1 FAMC @F0001@
 2 PEDI birth
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 16:32:16
+2 DATE 26 MAY 2026
+3 TIME 11:16:49
 0 @I0003@ INDI
 1 NAME George /Earwaker/
 2 TYPE birth
@@ -175,8 +182,8 @@
 2 PLAC New Zealand
 2 NOTE @N0011@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 FAMC @F0004@
 2 PEDI birth
@@ -307,7 +314,7 @@
 2 PLAC United Kingdom
 2 NOTE @N0016@
 1 _MILT
-2 TYPE World War II
+2 TYPE Con, World War II
 2 DATE FROM 1939 TO 1945
 2 NOTE @N0077@
 1 FAMC @F0007@
@@ -360,8 +367,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0017@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -378,8 +385,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0018@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -396,8 +403,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0019@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 23 MAY 2026
@@ -414,8 +421,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0020@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 23 MAY 2026
@@ -432,8 +439,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0021@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 23 MAY 2026
@@ -450,8 +457,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0022@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 23 MAY 2026
@@ -464,8 +471,8 @@
 2 NPFX Mr
 1 SEX M
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 _MILT
 2 TYPE Joseph Earwaker MS
@@ -486,8 +493,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0025@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 NOTE @N0076@
 1 CHAN
@@ -505,8 +512,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0026@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -523,8 +530,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0028@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -541,8 +548,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0029@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -559,8 +566,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0030@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -577,8 +584,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0031@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -595,8 +602,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0032@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -613,8 +620,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0033@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -631,8 +638,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0034@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -649,8 +656,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0035@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -667,8 +674,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0037@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -685,8 +692,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0036@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -703,8 +710,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0038@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -721,8 +728,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0039@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -739,8 +746,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0040@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -757,8 +764,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0041@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -775,8 +782,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0042@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -793,8 +800,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0043@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -811,8 +818,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0044@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -829,8 +836,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0045@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -847,8 +854,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0046@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -869,8 +876,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0047@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 BURI
 2 TYPE Harry George Earwaker BrlD
@@ -897,8 +904,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0048@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -915,8 +922,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0049@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -933,8 +940,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0050@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -951,8 +958,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0051@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -969,8 +976,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0052@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -987,8 +994,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0053@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -1005,8 +1012,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0054@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -1023,8 +1030,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0055@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -1041,8 +1048,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0056@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -1059,8 +1066,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0057@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -1077,8 +1084,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0058@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -1098,8 +1105,8 @@
 2 PLAC United Kingdom
 2 NOTE @N0059@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
 2 DATE 24 MAY 2026
@@ -1122,8 +1129,8 @@
 2 NOTE @N0060@
 2 NOTE @N0082@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 NOTE @N0082@
 1 NOTE @N0060@
@@ -1146,7 +1153,7 @@
 2 PLAC United Kingdom
 2 NOTE @N0061@
 1 _MILT
-2 TYPE World War II
+2 TYPE Con, World War II
 2 DATE FROM 1939 TO 1945
 2 NOTE @N0077@
 1 BURI
@@ -1199,7 +1206,7 @@
 2 PLAC United Kingdom
 2 NOTE @N0063@
 1 _MILT
-2 TYPE World War II
+2 TYPE Con, World War II
 2 DATE FROM 1939 TO 1945
 2 NOTE @N0077@
 1 BURI
@@ -1404,8 +1411,8 @@
 4 LONG E2.89138
 3 NOTE @N0070@
 1 _MILT
-2 TYPE World War I
-2 DATE FROM 1914 TO 1917
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 FAMC @F0014@
 2 PEDI birth
@@ -1598,7 +1605,7 @@
 2 DATE 1 AUG 1940
 2 NOTE @N0077@
 1 _MILT
-2 TYPE World War II
+2 TYPE Con, World War II
 2 DATE FROM 1939 TO 1945
 2 NOTE @N0077@
 1 _MILT
@@ -1711,7 +1718,7 @@
 2 DATE 15 FEB 1942
 2 PLAC Singapore
 1 _MILT
-2 TYPE World War II
+2 TYPE Con, World War II
 2 DATE FROM 1939 TO 1945
 2 NOTE @N0077@
 1 RELI Presbytarian
@@ -1780,7 +1787,7 @@
 2 DATE 15 FEB 1942
 2 PLAC Singapore
 1 _MILT
-2 TYPE World War II
+2 TYPE Con, World War II
 2 DATE FROM 1939 TO 1945
 2 NOTE @N0077@
 1 RELI Presbytarian
@@ -1802,6 +1809,140 @@
 1 CHAN
 2 DATE 26 MAY 2026
 3 TIME 07:32:23
+0 @I0093@ INDI
+1 NAME John George /Earwaker/
+2 TYPE birth
+2 GIVN John George
+2 SPFX Earwaker
+2 NPFX Mr
+2 NICK Jack
+1 SEX M
+1 DEAT
+2 TYPE John George Earwaker DD
+2 DATE 1963
+2 NOTE @N0085@
+1 _MILT
+2 TYPE John George Earwaker MS
+2 DATE 27 JUN 1915
+2 PLAC Australia
+2 NOTE @N0085@
+1 _MILT
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
+2 NOTE @N0023@
+1 RELI Church of England CoE
+1 OCCU Clerk
+1 FAMC @F0020@
+2 PEDI birth
+1 RESI
+2 ADDR Brocklesby, Legeyt Street,
+3 CONT Windsor
+3 CONT Brisbain
+3 CONT Queensland
+3 CONT Australia
+3 ADR1 Brocklesby, Legeyt Street,
+3 ADR2 Windsor
+3 CITY Brisbain
+3 STAE Queensland
+3 CTRY Australia
+1 NOTE @N0085@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 13:02:53
+0 @I0094@ INDI
+1 NAME John Ewen /Earwaker/
+2 TYPE birth
+2 GIVN John Ewen
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 NATI Australia
+1 FAMS @F0020@
+1 RESI
+2 ADDR Brocklesby, Legeyt Street,
+3 CONT Windsor
+3 CONT Brisbaine
+3 CONT Queensland
+3 CONT Australia
+3 ADR1 Brocklesby, Legeyt Street,
+3 ADR2 Windsor
+3 CITY Brisbaine
+3 STAE Queensland
+3 CTRY Australia
+1 NOTE @N0085@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 12:19:17
+0 @I0095@ INDI
+1 NAME W /Earwaker/
+2 TYPE birth
+2 GIVN W
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE W Earwaker MS
+2 PLAC Australia
+2 NOTE @N0086@
+1 _MILT
+2 TYPE Con, World War II
+2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
+1 RESI
+2 ADDR Braybrook
+3 CONT Victoria
+3 CONT Australia
+3 ADR2 Braybrook
+3 STAE Victoria
+3 CTRY Australia
+2 NOTE @N0086@
+1 NOTE @N0086@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 13:29:50
+0 @I0096@ INDI
+1 NAME Elizabeth /Earwaker/
+2 TYPE birth
+2 GIVN Elizabeth
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 _MILT
+2 PLAC Australia
+2 NOTE @N0087@
+1 _MILT
+2 TYPE Con, Korea
+2 DATE FROM 1950 TO 1953
+1 RESI
+2 ADDR Clayfield
+3 CONT Queensland
+3 CONT Australia
+3 CITY Clayfield
+3 STAE Queensland
+3 CTRY Australia
+1 NOTE @N0087@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 14:03:07
+0 @I0097@ INDI
+1 NAME Wlliam /Earwaker/
+2 TYPE birth
+2 GIVN Wlliam
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 _MILT
+2 TYPE William Earwaker MS
+2 PLAC Australia
+2 NOTE @N0088@
+1 _MILT
+2 TYPE Con, World War II
+2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
+1 NOTE @N0088@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 13:56:03
 0 @F0000@ FAM
 1 HUSB @I0003@
 1 CHIL @I0001@
@@ -1948,6 +2089,13 @@
 1 CHAN
 2 DATE 26 MAY 2026
 3 TIME 07:32:23
+0 @F0020@ FAM
+1 HUSB @I0094@
+1 CHIL @I0093@
+1 NOTE @N0085@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 12:17:02
 0 @N0000@ NOTE https://www.cwgc.org/our-work/blog/local-history-with-a-global-focu
 1 CONC s-the-war-graves-of-hornchurch/
 0 @N0001@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
@@ -1976,6 +2124,7 @@
 0 @N0011@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
 1 CONC C81540
 1 CONT https://livesofthefirstworldwar.iwm.org.uk/lifestory/7233692
+1 CONT 
 0 @N0012@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/87
 1 CONC 2393/charles-earwaker/
 0 @N0013@ NOTE https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-de
@@ -2095,8 +2244,25 @@
 1 CONC /ItemDetail.aspx?Barcode=31022015&isAv=N
 1 CONT https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports
 1 CONC /ItemDetail.aspx?Barcode=4499031&isAv=N
+1 CONT https://www.awm.gov.au/collection/R1452167
 1 CONT 
 0 @N0084@ NOTE https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsRe
 1 CONC ports/ItemDetail.aspx?Barcode=4499030&isAv=N
+1 CONT https://www.awm.gov.au/collection/R1452168
 1 CONT 
+0 @N0085@ NOTE https://www.awm.gov.au/collection/R1878317
+1 CONT https://www.awm.gov.au/collection/R2320198
+1 CONT https://www.awm.gov.au/collection/R1550742
+1 CONT https://www.awm.gov.au/collection/R1602451
+1 CONT https://www.awm.gov.au/collection/P10205771
+1 CONT https://www.awm.gov.au/collection/P10154073
+1 CONT https://www.awm.gov.au/collection/P10481592
+1 CONT https://www.awm.gov.au/collection/P10857236
+1 CONT https://www.awm.gov.au/collection/C270934
+1 CONT 
+0 @N0086@ NOTE https://www.awm.gov.au/collection/C219982
+0 @N0087@ NOTE https://www.awm.gov.au/collection/C301838
+1 CONT https://www.awm.gov.au/collection/C1101238
+1 CONT 
+0 @N0088@ NOTE https://www.awm.gov.au/collection/C45641
 0 TRLR
