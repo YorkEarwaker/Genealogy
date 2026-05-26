@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 26 MAY 2026
-2 TIME 07:38:52
+2 TIME 09:48:57
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -98,13 +98,13 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Next of kin on embarkation
+2 TYPE Res, NOK-Emb, Earwaker, George -
 2 PLAC Tokanui, Southland, New Zealand
 2 NOTE @N0007@
 1 FAMS @F0000@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 16:13:16
+2 DATE 26 MAY 2026
+3 TIME 09:23:32
 0 @I0004@ INDI
 1 NAME E /Earwaker/
 2 TYPE birth
@@ -113,15 +113,12 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Next of kin on embarkation
+2 TYPE Res, NOK-Emb, Earwaker, E. - c/o Para Rubber Coy.
 2 PLAC Christchurch, Canterbury, New Zealand
-2 NOTE @N0006@
-1 RESI
-2 TYPE WW2 Mr. E. Earwaker, c/o Para Rubber Coy., Christchurch (f)
 1 FAMS @F0001@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 18:02:50
+2 DATE 26 MAY 2026
+3 TIME 09:22:05
 0 @I0005@ INDI
 1 NAME P. S. /Spence/
 2 TYPE birth
@@ -133,13 +130,13 @@
 2 GIVN P. S. Earwaker
 1 SEX F
 1 RESI
-2 TYPE Next of kin on embarkation
+2 TYPE Res, NOK-Emb, Spence, P. S.  -
 2 PLAC Christchurch, Canterbury, New Zealand
 2 NOTE @N0008@
 1 FAMS @F0002@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 10:16:53
+2 DATE 26 MAY 2026
+3 TIME 09:18:13
 0 @I0006@ INDI
 1 NAME Lily Harris /?/
 2 TYPE birth
@@ -152,8 +149,8 @@
 1 SEX F
 1 FAMS @F0003@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 17:52:46
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0007@ INDI
 1 NAME William Samuel /Earwaker/
 2 TYPE birth
@@ -164,8 +161,8 @@
 1 FAMS @F0003@
 1 NOTE @N0009@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 17:52:13
+2 DATE 26 MAY 2026
+3 TIME 09:17:48
 0 @I0008@ INDI
 1 NAME David Sams /Earwaker/
 2 TYPE birth
@@ -197,13 +194,13 @@
 2 GIVN S. E. Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, ?, S. E. - 49 Dover Street
+2 TYPE Res, NOK-Brl, ?, S. E. - 49 Dover Street
 2 PLAC Saint Albans, Christchurch, Canterbury, New Zealand
 2 NOTE @N0010@
 1 FAMS @F0004@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 17:01:16
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0010@ INDI
 1 NAME Charles /Earwaker/
 2 TYPE birth
@@ -264,12 +261,12 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Res, Earwaker, William and Ethel - ?
+2 TYPE Res, NOK-Brl, Earwaker, William and Ethel - ?
 2 PLAC Ellisfield, Basingstoke, Hampshire, England
 1 FAMS @F0005@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 17:31:17
+2 DATE 26 MAY 2026
+3 TIME 09:17:11
 0 @I0013@ INDI
 1 NAME Ethel /?/
 2 TYPE birth
@@ -281,12 +278,12 @@
 2 GIVN Ethel Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, William and Ethel - ?
+2 TYPE Res, NOK-Brl, Earwaker, William and Ethel - ?
 2 PLAC Ellisfield, Basingstoke, Hampshire, England
 1 FAMS @F0005@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 00:57:28
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0016@ INDI
 1 NAME Henry Gordon /Earwaker/
 2 TYPE birth
@@ -326,13 +323,13 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Res, Earwaker, William and Emily Kate - ?
+2 TYPE Res, NOK-Brl, Earwaker, William and Emily Kate - ?
 2 PLAC Chichester, Sussex, England, United Kingdom
 2 NOTE @N0016@
 1 FAMS @F0007@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 18:18:46
+2 DATE 26 MAY 2026
+3 TIME 09:16:52
 0 @I0018@ INDI
 1 NAME Emily Kate /?/
 2 TYPE birth
@@ -344,13 +341,13 @@
 2 GIVN Emily Kate Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, William and Emily Kate - ?
+2 TYPE Res, NOK-Brl, Earwaker, William and Emily Kate - ?
 2 PLAC Chichester, Sussex, England, United Kingdom
 2 NOTE @N0016@
 1 FAMS @F0007@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 18:17:06
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0019@ INDI
 1 NAME William /Earwaker/
 2 TYPE birth
@@ -1173,8 +1170,8 @@
 1 SEX M
 1 FAMS @F0008@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 22:42:27
+2 DATE 26 MAY 2026
+3 TIME 09:16:36
 0 @I0063@ INDI
 1 NAME Henrietta Sophie /?/
 2 TYPE birth
@@ -1184,8 +1181,8 @@
 1 SEX F
 1 FAMS @F0008@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 22:42:27
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0064@ INDI
 1 NAME Albert George /Earwaker/
 2 TYPE birth
@@ -1228,12 +1225,12 @@
 2 GIVN Winifred Dorothy Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, Winifred Dorothy - ?
+2 TYPE Res, NOK-Brl, Earwaker, Winifred Dorothy - ?
 2 PLAC Redhill, Surrey, England, United Kingdom
 1 FAMS @F0009@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 08:13:47
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0066@ INDI
 1 NAME F C /Earwaker/
 2 TYPE birth
@@ -1275,8 +1272,8 @@
 1 SEX M
 1 FAMS @F0010@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 00:13:39
+2 DATE 26 MAY 2026
+3 TIME 09:14:14
 0 @I0068@ INDI
 1 NAME Mary Ann /?/
 2 TYPE birth
@@ -1289,8 +1286,8 @@
 1 SEX F
 1 FAMS @F0010@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 00:22:44
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0069@ INDI
 1 NAME Henry Charles /Earwaker/
 2 TYPE birth
@@ -1329,13 +1326,13 @@
 2 GIVN Annie Jame Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, Annie Jane - 43, Elm Rd.
+2 TYPE Res, NOK-Brl, Earwaker, Annie Jane - 43, Elm Rd.
 2 PLAC Mile End, Portsmouth, Hampshire, England, United Kingdom
 2 NOTE @N0067@
 1 FAMS @F0011@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 00:41:33
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0071@ INDI
 1 NAME Benjamin /Earwaker/
 2 TYPE birth
@@ -1344,12 +1341,12 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Res , Earwaker, Benjamin and Esther - ?
+2 TYPE Res, NOK-Brl, Earwaker, Benjamin and Esther - ?
 2 PLAC Hambledon, Hampshire, England, United Kingdom
 1 FAMS @F0012@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 07:08:45
+2 DATE 26 MAY 2026
+3 TIME 09:13:42
 0 @I0072@ INDI
 1 NAME Esther /?/
 2 TYPE birth
@@ -1361,12 +1358,12 @@
 2 GIVN Esther Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res , Earwaker, Benjamin and Esther - ?
+2 TYPE Res, NOK-Brl, Earwaker, Benjamin and Esther - ?
 2 PLAC Hambledon, Hampshire, England, United Kingdom
 1 FAMS @F0012@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 07:08:27
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0073@ INDI
 1 NAME Eleanor Marie /?/
 2 TYPE birth
@@ -1378,12 +1375,12 @@
 2 GIVN Eleanor Marie Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, Eleanor Marie - Ivy Cottage
+2 TYPE Res, NOK-Brl, Earwaker, Eleanor Marie - Ivy Cottage
 2 PLAC Godstone, Surrey, England, United Kingdom
 1 FAMS @F0013@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 08:06:03
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0074@ INDI
 1 NAME William James /Earwaker/
 2 TYPE birth
@@ -1423,13 +1420,13 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Res, Earwaker, William and Ellen - 7, Day's Lane
+2 TYPE Res, NOK-Brl, Earwaker, William and Ellen - 7, Day's Lane
 2 PLAC Sidcup, Kent, England, United Kingdom
 2 NOTE @N0071@
 1 FAMS @F0014@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 09:39:10
+2 DATE 26 MAY 2026
+3 TIME 09:12:20
 0 @I0076@ INDI
 1 NAME Ellen /?/
 2 TYPE birth
@@ -1441,13 +1438,13 @@
 2 GIVN Ellen Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, William and Ellen - 7, Day's Lane
+2 TYPE Res, NOK-Brl, Earwaker, William and Ellen - 7, Day's Lane
 2 PLAC Sidcup, Kent, England, United Kingdom
 2 NOTE @N0071@
 1 FAMS @F0014@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 09:39:51
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0077@ INDI
 1 NAME Robert Roy /Earwaker/
 2 TYPE birth
@@ -1484,13 +1481,13 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Res, Earwaker, Robert and Edith - ?
+2 TYPE Res, NOK-Brl, Earwaker, Robert and Edith - ?
 2 PLAC Earlsfield, London, England, United Kingdom
 2 NOTE @N0072@
 1 FAMS @F0015@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 11:24:00
+2 DATE 26 MAY 2026
+3 TIME 09:11:26
 0 @I0079@ INDI
 1 NAME Edith /?/
 2 TYPE birth
@@ -1502,13 +1499,13 @@
 2 GIVN Edith Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, Robert and Edith - ?
+2 TYPE Res, NOK-Brl, Earwaker, Robert and Edith - ?
 2 PLAC Earlsfield, London, England, United Kingdom
 2 NOTE @N0072@
 1 FAMS @F0015@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 11:23:20
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0080@ INDI
 1 NAME May B. /?/
 2 TYPE birth
@@ -1520,14 +1517,14 @@
 2 GIVN May B. Earwaker
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, Mary B. - ?
+2 TYPE Res, NOK-Brl, Earwaker, Mary B. - ?
 2 PLAC Earlsfield, London, England, United Kingdom
 2 NOTE @N0072@
 1 FAMS @F0016@
 1 NOTE @N0072@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 11:28:07
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0081@ INDI
 1 NAME Ernest Robert Henry /Earwaker/
 2 TYPE birth
@@ -1565,14 +1562,14 @@
 2 NPFX Mr
 1 SEX M
 1 RESI
-2 TYPE Res, Earwaker, R. T. and jame - ?
+2 TYPE Res, NOK-Brl, Earwaker, R. T. and Jane - ?
 2 PLAC Millwall, London, England, United Kingdom
 2 NOTE @N0074@
 1 FAMS @F0017@
 1 NOTE @N0074@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 11:21:00
+2 DATE 26 MAY 2026
+3 TIME 09:10:40
 0 @I0083@ INDI
 1 NAME Jane /?/
 2 TYPE birth
@@ -1581,14 +1578,14 @@
 2 NPFX Mrs
 1 SEX F
 1 RESI
-2 TYPE Res, Earwaker, R. T. and jame - ?
+2 TYPE Res, NOK-Brl, Earwaker, R. T. and Jane - ?
 2 PLAC Millwall, London, England, United Kingdom
 2 NOTE @N0074@
 1 FAMS @F0017@
 1 NOTE @N0074@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 11:21:45
+2 DATE 26 MAY 2026
+3 TIME 09:06:08
 0 @I0084@ INDI
 1 NAME Alec Edmund Green /Earwaker/
 2 TYPE birth
@@ -1629,10 +1626,13 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 RESI
+2 TYPE Res, NOK-Brl, Eawaker, William Henry and Rachel
+2 PLAC Plymouth, Devon, England
 1 FAMS @F0018@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 23:35:53
+2 DATE 26 MAY 2026
+3 TIME 09:28:54
 0 @I0086@ INDI
 1 NAME Rachel /?/
 2 TYPE birth
@@ -1643,10 +1643,13 @@
 2 TYPE married
 2 GIVN Rachel Earwaker
 1 SEX F
+1 RESI
+2 TYPE Res, NOK-Brl, Eawaker, William Henry and Rachel
+2 PLAC Plymouth, Devon, England
 1 FAMS @F0018@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 23:35:53
+2 DATE 26 MAY 2026
+3 TIME 09:29:19
 0 @I0087@ INDI
 1 NAME Albert /Earwaker/
 2 TYPE birth
@@ -1752,7 +1755,7 @@
 1 NOTE @N0083@
 1 CHAN
 2 DATE 26 MAY 2026
-3 TIME 06:49:17
+3 TIME 09:08:51
 0 @I0092@ INDI
 1 NAME William Henry /Earwaker/
 2 TYPE birth
@@ -1866,8 +1869,8 @@
 2 NOTE @N0063@
 1 NOTE @N0063@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 23:46:21
+2 DATE 26 MAY 2026
+3 TIME 09:16:18
 0 @F0010@ FAM
 1 HUSB @I0067@
 1 WIFE @I0068@

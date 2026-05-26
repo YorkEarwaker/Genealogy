@@ -62,6 +62,7 @@ DONE
 * <done: consider, research rationale; family documentary vs fantasy fiction vs AGW use? side with AGW? all three are intersting, others? in the first instance family history/documentary, in the second instance as a grounding for fantasy fiction to be written elsewhere, in the third instance experience with the Genealogy tools for AGW project use cases, >
 * <done: consider, separate datatbase with war dead with the name earwaker, AU, CA, NZ, UK, US, commonwealth records, others tbd, IE? eofor led by swine? too harsh? too true?, earwaker_ms_data wip >
 * <done: consider, residence event naming convention confusion, next of kin at embarkment/burial/etc, need general heuristic for naming, tbd, and other residence naming conventions?, wip>
+* <done: consider, refactor Residence entities, new naming convention for embarkation Res, NOK-Emb for burials Res, NOK-Brl, for the next of kin cited in source material >
 
 ## Data
 
@@ -118,6 +119,7 @@ Heuristics
 * - create families, rule don't make up data for marriages and so on, 
 * - - marriage events, assume if record state son of x y < some-last-name > implies marriage, in official record
 * - residence, Res, Surname, First Name(s) - House Number Street/Road
+* - <todo: consider, how to handle non related family branches for people who share the same last name but no recent ancestor, in this instance is it possible they might never have, >
 
 ## References
 
