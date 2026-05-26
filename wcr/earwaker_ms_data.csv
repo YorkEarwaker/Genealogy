@@ -36,16 +36,26 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0036],,"Millwall, London, England, United Kingdom",Unknown,,,,,
 [P0037],,"Brookwood, Surrey, England, United Kingdom",Unknown,,,,,
 [P0038],,Brookwood Military Cemetery,Building,51.2991,-0.64521,,[P0037],
+[P0039],,"Plymouth, Devon, England",City,,,,,
+[P0040],,Plymouth Naval Memorial,Building,50.36573,-4.14223,,[P0039],
+[P0041],,"Winnipeg Centre, Manitoba, Quebec, Canada",Unknown,,,,,
+[P0042],,Australia,Country,,,,,
+[P0043],,"Townsville, Queensland, Australia",Unknown,,,,,
+[P0044],,Singapore,Country,,,,,
 [P0007],,Ploegsteert Memorial,Building,50.7378,2.88228,,[P0008],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0057],,A,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0087],,Albert,,,,Earwaker,Mr,male,1890-10-26,[P0018],,,,,,,,,,,
 [I0053],,Albert E,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0064],,Albert George,,,,Earwaker,Mr,male,,,,,,,1944-10-12,,,,[P0023],,
+[I0084],,Alec Edmund Green,,,,Earwaker,Mr,male,,,,,,,1940-08-01,,,,[P0040],,
 [I0042],,Alfred,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0048],,Alfred H,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0070],,Annie Jane,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0058],,Arthur G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0090],,Augustis,,,,Earwaker,Mr,male,1915-11-08,[P0043],,,,,,,,,,,
+[I0091],,Augustus,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0071],,Benjamin,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0061],,Cecil,,,,Earwaker,Mr,male,,,,,,,1946-05-24,,,,[P0020],,
 [I0010],,Charles,,,,Earwaker,Mr,male,,,,,,,1918-04-11,,,,[P0007],,
@@ -59,11 +69,12 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0073],,Eleanor Marie,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0076],,Ellen,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0018],,Emily Kate,,,,?,Mrs,female,,,,,,,,,,,,,
-[I0081],,Ernest Robert Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0081],,Ernest Robert Henry,,,,Earwaker,Mr,male,,,,,,,1918-09-06,,,,[P0038],,
 [I0072],,Esther,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0013],,Ethel,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0066],,F C,,,,Earwaker,Mr,male,,[P0024],,,,,1919-01-02,,,,[P0026],,
 [I0054],,Frank,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0088],,Frank Edward,,,,Earwaker,Mr,male,1894-09-10,[P0041],,,,,,,,,,,
 [I0036],,Frederick,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0052],,Frederick,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0046],,Frederick G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -95,6 +106,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0005],,P. S.,,,,Spence,Mrs,female,,,,,,,,,,,,,
 [I0026],,R N D'o,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0082],,R. T.,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0086],,Rachel,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0049],,Ralph Parsons,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0062],,Richard,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0039],,Richard T,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -118,6 +130,8 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0037],,William H,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0040],,William H,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0017],,William Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0085],,William Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0092],,William Henry,,,,Earwaker,Mr,male,1912-08-27,,,,,,1965,,,,,,
 [I0074],,William James,,,,Earwaker,Mr,male,,,,,,,1917-07-31,,,,[P0031],,
 [I0007],,William Samuel,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0065],,Winifred Dorothy,,,,?,Mrs,female,,,,,,,,,,,,,
@@ -140,6 +154,8 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0015],[I0078],[I0079],,,,
 [F0016],[I0077],[I0080],,,,
 [F0017],[I0082],[I0083],,,,
+[F0018],[I0085],[I0086],,,,
+[F0019],[I0091],,,,,
 
 Family,Child
 [F0000],[I0001]
@@ -154,4 +170,7 @@ Family,Child
 [F0014],[I0074]
 [F0015],[I0077]
 [F0017],[I0081]
+[F0018],[I0084]
+[F0019],[I0090]
+[F0019],[I0092]
 

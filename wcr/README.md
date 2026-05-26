@@ -134,8 +134,13 @@ Family trees -
 * Earwaker Earwicker Erricker, [WS](http://www.earwaker.co.uk/), Alan Earwaker, genealogy research
 * ...
 
+National Archives
+* Australian National Archives, [WS](https://www.naa.gov.au/), [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), Records Search, good quality, some records first search on earwaker
+* Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), Canadian archives, good quality, lots or records, immigration, marriages, of people named earwaker, 
+
 Military service records - army, navy, 
 * Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), Imperial War Museum, 
 * Tracing a British Seaman in the Royal Navy before 1853, [WS](https://genealogyjude.com/2022/09/17/tracing-a-british-seamen-in-the-royal-navy-before-1853/), 2022, blog
 * Tracing your Family History, [WS](https://www.iwm.org.uk/research/tracing-your-family-history) Imperial War Museum 
-* Commonwealth War Graves, [WS](https://www.cwgc.org/)
+* Commonwealth War Graves Commission, [WS](https://www.cwgc.org/)
+

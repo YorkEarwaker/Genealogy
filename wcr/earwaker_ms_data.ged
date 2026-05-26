@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 25 MAY 2026
-2 TIME 11:36:12
+1 DATE 26 MAY 2026
+2 TIME 07:38:52
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -44,6 +44,7 @@
 1 _MILT
 2 TYPE World War II
 2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
 1 FAMC @F0003@
 2 PEDI birth
 1 FAMS @F0002@
@@ -311,6 +312,7 @@
 1 _MILT
 2 TYPE World War II
 2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
 1 FAMC @F0007@
 2 PEDI birth
 1 CHAN
@@ -490,9 +492,10 @@
 2 TYPE World War I
 2 DATE FROM 1914 TO 1917
 2 NOTE @N0023@
+1 NOTE @N0076@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:09:21
+2 DATE 25 MAY 2026
+3 TIME 23:16:29
 0 @I0027@ INDI
 1 NAME Frederick Richard /Earwaker/
 2 TYPE birth
@@ -1114,17 +1117,22 @@
 1 BIRT
 2 TYPE John Henry Earwaker BD
 2 DATE 21 MAR 1879
+2 NOTE @N0082@
+2 NOTE @N0060@
 1 _MILT
 2 TYPE John Henry Earwaker MS
 2 PLAC Canada
 2 NOTE @N0060@
+2 NOTE @N0082@
 1 _MILT
 2 TYPE World War I
 2 DATE FROM 1914 TO 1917
 2 NOTE @N0023@
+1 NOTE @N0082@
+1 NOTE @N0060@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 16:34:35
+2 DATE 26 MAY 2026
+3 TIME 04:55:06
 0 @I0061@ INDI
 1 NAME Cecil /Earwaker/
 2 TYPE birth
@@ -1143,6 +1151,7 @@
 1 _MILT
 2 TYPE World War II
 2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
 1 BURI
 2 TYPE Cecil Earwaker BrlD
 2 PLAC Tel El Kebir War Memorial Cemetery, Tel el Kebir, Egypt
@@ -1185,16 +1194,17 @@
 2 NPFX Mr
 1 SEX M
 1 DEAT
-2 TYPE Albert George DD
+2 TYPE Albert George Earwaker DD
 2 DATE 12 OCT 1944
 2 NOTE @N0063@
 1 _MILT
-2 TYPE Albert George MS
+2 TYPE Albert George Earwaker MS
 2 PLAC United Kingdom
 2 NOTE @N0063@
 1 _MILT
 2 TYPE World War II
 2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
 1 BURI
 2 TYPE Albert George BrlD
 2 PLAC Mook War Cemetery, Limburg, Netherlands
@@ -1232,19 +1242,19 @@
 2 NPFX Mr
 1 SEX M
 1 BIRT
-2 TYPE F C BD
+2 TYPE F C Earwaker BD
 2 PLAC Poplar, London, England, United Kingdom
 2 NOTE @N0065@
 1 DEAT
-2 TYPE F C DD
+2 TYPE F C Earwaker DD
 2 DATE 2 JAN 1919
 2 NOTE @N0065@
 1 _MILT
-2 TYPE F C MS
+2 TYPE F C Earwaker MS
 2 PLAC United Kingdom
 2 NOTE @N0065@
 1 BURI
-2 TYPE F C BrlD
+2 TYPE F C Earwaker BrlD
 2 PLAC Cambridge City Cemetery, Cambridgeshire, England, United Kingdom
 3 MAP
 4 LATI N52.21231
@@ -1289,7 +1299,7 @@
 2 NPFX Mr
 1 SEX M
 1 DEAT
-2 TYPE Henry Charles DD
+2 TYPE Henry Charles Earwaker DD
 2 DATE 19 MAR 1919
 2 NOTE @N0067@
 1 _MILT
@@ -1386,7 +1396,7 @@
 2 DATE 31 JUL 1917
 2 NOTE @N0071@
 1 _MILT
-2 TYPE William James
+2 TYPE William James Earwaker MS
 2 PLAC United Kingdom
 2 NOTE @N0071@
 1 BURI
@@ -1446,10 +1456,10 @@
 2 NPFX Mr
 1 SEX M
 1 DEAT
-2 TYPE Robert Roy DD
+2 TYPE Robert Roy Earwaker DD
 2 DATE 28 OCT 1942
 1 _MILT
-2 TYPE Robert Roy
+2 TYPE Robert Roy Earwaker MS
 2 PLAC United Kingdom
 2 NOTE @N0072@
 1 BURI
@@ -1525,15 +1535,28 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 DEAT
+2 TYPE Ernest Robert Henry DD
+2 DATE 6 SEP 1918
+2 NOTE @N0074@
 1 _MILT
 2 TYPE Ernest Robert Henry MS
 2 PLAC United Kingdom
 2 NOTE @N0074@
+1 BURI
+2 TYPE Ernest Robert Henry BrlD
+2 PLAC Brookwood Military Cemetery, Brookwood, Surrey, England, United Kingdom
+3 MAP
+4 LATI N51.2991
+4 LONG W0.64521
+3 NOTE @N0075@
+2 NOTE @N0074@
 1 FAMC @F0017@
 2 PEDI birth
+1 NOTE @N0074@
 1 CHAN
 2 DATE 25 MAY 2026
-3 TIME 11:18:50
+3 TIME 23:12:24
 0 @I0082@ INDI
 1 NAME R. T. /Earwaker/
 2 TYPE birth
@@ -1566,6 +1589,216 @@
 1 CHAN
 2 DATE 25 MAY 2026
 3 TIME 11:21:45
+0 @I0084@ INDI
+1 NAME Alec Edmund Green /Earwaker/
+2 TYPE birth
+2 GIVN Alec Edmund Green
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 DEAT
+2 TYPE Alec Edmund Green Earwaker DD
+2 DATE 1 AUG 1940
+2 NOTE @N0077@
+1 _MILT
+2 TYPE World War II
+2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
+1 _MILT
+2 TYPE Alec Edmund Green Earwaker MS
+2 PLAC United Kingdom
+2 NOTE @N0077@
+1 BURI
+2 TYPE Alec Edumund Green Earwaker BrlD
+2 PLAC Plymouth Naval Memorial, Plymouth, Devon, England
+3 MAP
+4 LATI N50.36573
+4 LONG W4.14223
+3 NOTE @N0078@
+2 NOTE @N0077@
+1 FAMC @F0018@
+2 PEDI birth
+1 NOTE @N0077@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 23:35:53
+0 @I0085@ INDI
+1 NAME William Henry /Earwaker/
+2 TYPE birth
+2 GIVN William Henry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0018@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 23:35:53
+0 @I0086@ INDI
+1 NAME Rachel /?/
+2 TYPE birth
+2 GIVN Rachel
+2 SPFX ?
+2 NPFX Mrs
+1 NAME Rachel Earwaker //
+2 TYPE married
+2 GIVN Rachel Earwaker
+1 SEX F
+1 FAMS @F0018@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 23:35:53
+0 @I0087@ INDI
+1 NAME Albert /Earwaker/
+2 TYPE birth
+2 GIVN Albert
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Albert Earwaker BD
+2 DATE 26 OCT 1890
+2 PLAC Canada
+2 NOTE @N0079@
+1 _MILT
+2 TYPE Albert Earwaker MS
+2 PLAC Canada
+1 NOTE @N0079@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 04:17:15
+0 @I0088@ INDI
+1 NAME Frank Edward /Earwaker/
+2 TYPE birth
+2 GIVN Frank Edward
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Frank Edward Earwaker BD
+2 DATE 10 SEP 1894
+2 PLAC Winnipeg Centre, Manitoba, Quebec, Canada
+2 NOTE @N0080@
+1 _MILT
+2 TYPE Frank Edward Earwaker MS
+2 PLAC Canada
+2 NOTE @N0080@
+1 NOTE @N0080@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 04:27:15
+0 @I0090@ INDI
+1 NAME Augustis /Earwaker/
+2 TYPE birth
+2 GIVN Augustis
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Augustus Earwaker BD
+2 DATE 8 NOV 1915
+2 PLAC Townsville, Queensland, Australia
+2 NOTE @N0083@
+1 _MILT
+2 TYPE Augustis Earwaker MS
+2 DATE 9 OCT 1941
+2 PLAC Australia
+2 NOTE @N0083@
+1 _MILT
+2 TYPE Augustis Earwaker POW
+2 DATE 15 FEB 1942
+2 PLAC Singapore
+1 _MILT
+2 TYPE World War II
+2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
+1 RELI Presbytarian
+1 OCCU Cement Worker
+1 FAMC @F0019@
+2 PEDI birth
+1 RESI
+2 ADDR 21 Clarendon Steet
+3 CONT Hermit Park
+3 CONT Townsville
+3 CONT Queensland
+3 CONT Australia
+3 ADR1 21 Clarendon Steet
+3 ADR2 Hermit Park
+3 CITY Townsville
+3 STAE Queensland
+3 CTRY Australia
+1 NOTE @N0083@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 07:32:23
+0 @I0091@ INDI
+1 NAME Augustus /Earwaker/
+2 TYPE birth
+2 GIVN Augustus
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0019@
+1 RESI
+2 ADDR West Street
+3 CONT Acacia Vale
+3 CONT Townsville
+3 CONT Queensland
+3 CONT Australia
+3 ADR1 West Street
+3 ADR2 Acacia Vale
+3 CITY Townsville
+3 STAE Queensland
+3 CTRY Australia
+1 NOTE @N0083@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 06:49:17
+0 @I0092@ INDI
+1 NAME William Henry /Earwaker/
+2 TYPE birth
+2 GIVN William Henry
+2 SPFX Earwaker
+2 NPFX Mr
+2 NICK Willie
+1 SEX M
+1 BIRT
+2 TYPE William Henry Earwaker BD
+2 DATE 27 AUG 1912
+1 DEAT
+2 TYPE William Henry Earwaker DD
+2 DATE 1965
+1 _MILT
+2 TYPE William Henry Earwaker MS
+2 DATE 9 OCT 1941
+2 PLAC Australia
+2 NOTE @N0084@
+1 _MILT
+2 TYPE William Henry Earwaker POW
+2 DATE 15 FEB 1942
+2 PLAC Singapore
+1 _MILT
+2 TYPE World War II
+2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
+1 RELI Presbytarian
+1 OCCU Labourer
+1 FAMC @F0019@
+2 PEDI birth
+1 RESI
+2 ADDR Carmody Street
+3 CONT Hyde Park
+3 CONT Townsville
+3 CONT Queensland
+3 CONT Australia
+3 ADR1 Carmody Street
+3 ADR2 Hyde Park
+3 CITY Townsville
+3 STAE Queensland
+3 CTRY Australia
+1 NOTE @N0084@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 07:32:23
 0 @F0000@ FAM
 1 HUSB @I0003@
 1 CHIL @I0001@
@@ -1698,6 +1931,20 @@
 1 CHAN
 2 DATE 25 MAY 2026
 3 TIME 11:18:50
+0 @F0018@ FAM
+1 HUSB @I0085@
+1 WIFE @I0086@
+1 CHIL @I0084@
+1 CHAN
+2 DATE 25 MAY 2026
+3 TIME 23:35:53
+0 @F0019@ FAM
+1 HUSB @I0091@
+1 CHIL @I0090@
+1 CHIL @I0092@
+1 CHAN
+2 DATE 26 MAY 2026
+3 TIME 07:32:23
 0 @N0000@ NOTE https://www.cwgc.org/our-work/blog/local-history-with-a-global-focu
 1 CONC s-the-war-graves-of-hornchurch/
 0 @N0001@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
@@ -1824,4 +2071,29 @@
 1 CONC 8459/ernest-robert-henry-earwaker/
 0 @N0075@ NOTE https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-de
 1 CONC tails/44400/brookwood-military-cemetery/
+0 @N0076@ NOTE looks like R N D'o might be Robert Norman Doyly 10059
+0 @N0077@ NOTE https://www.cwgc.org/find-records/find-war-dead/casualty-details/24
+1 CONC 78615/alec-edmund-green-earwaker/
+0 @N0078@ NOTE https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-de
+1 CONC tails/142001/plymouth-naval-memorial/
+0 @N0079@ NOTE https://central.bac-lac.gc.ca/.redirect?app=pffww&id=373497&lang=en
+1 CONC g&ecopy=307575a
+0 @N0080@ NOTE https://central.bac-lac.gc.ca/.redirect?app=pffww&id=373499&lang=en
+1 CONC g&ecopy=307576a
+1 CONT https://central.bac-lac.gc.ca/.redirect?app=census&id=67400029&lang=eng&
+1 CONC ecopy=e002889810
+0 @N0082@ NOTE https://central.bac-lac.gc.ca/.redirect?app=pffww&id=373500&lang=en
+1 CONC g&ecopy=307577a
+0 @N0083@ NOTE https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsRe
+1 CONC ports/ItemDetail.aspx?Barcode=205307834&isAv=N
+1 CONT https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports
+1 CONC /ItemDetail.aspx?Barcode=205307835&isAv=N
+1 CONT https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports
+1 CONC /ItemDetail.aspx?Barcode=31022015&isAv=N
+1 CONT https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsReports
+1 CONC /ItemDetail.aspx?Barcode=4499031&isAv=N
+1 CONT 
+0 @N0084@ NOTE https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/DetailsRe
+1 CONC ports/ItemDetail.aspx?Barcode=4499030&isAv=N
+1 CONT 
 0 TRLR
