@@ -86,6 +86,7 @@ earwaker_data
 * <todo: consider, rectictify, currently contains errors re some birth dates and marriage dates? as part of learning curve for Gramps, first steps, >
 
 earwaker_ms_data
+* <info: non military civilian relatives people are tagged Next of Kin (NOK), which shows light blue in the Gramps people list display, >
 * military service records, online
 * model contains those with military service records named Earwaker
 * model contains some of their immediate family, father, mother, wife, listed as next of kin
@@ -137,12 +138,14 @@ Family trees -
 * ...
 
 National Archives
-* Australian National Archives, [WS](https://www.naa.gov.au/), [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), Records Search, good quality, some records first search on earwaker
-* Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), Canadian archives, good quality, lots or records, immigration, marriages, of people named earwaker, 
+* Australian National Archives, [WS](https://www.naa.gov.au/), [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), AU, Records Search, good quality, some records first search on earwaker
+* Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), CA, good quality, lots or records, immigration, marriages, of people named earwaker, 
+* Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), DigitalNZ, [WS](https://digitalnz.org/), Collections Search [WS](https://collections.archives.govt.nz/web/arena#/), Family Search [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/search), National Library [WS](https://natlib.govt.nz/), NZ
+* UK
 
 Military service records - army, navy, 
 * Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), Imperial War Museum, 
 * Tracing a British Seaman in the Royal Navy before 1853, [WS](https://genealogyjude.com/2022/09/17/tracing-a-british-seamen-in-the-royal-navy-before-1853/), 2022, blog
 * Tracing your Family History, [WS](https://www.iwm.org.uk/research/tracing-your-family-history) Imperial War Museum 
-* Commonwealth War Graves Commission, [WS](https://www.cwgc.org/)
+* Commonwealth War Graves Commission, [WS](https://www.cwgc.org/), 
 
