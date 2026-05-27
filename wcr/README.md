@@ -149,6 +149,8 @@ National Archives - civilian & service
 * Records Search, [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), AU, Records Search, good quality, some records first search on earwaker, sparsity of records, 
 * Archival Institutions, [WS](https://directory.archivists.org.au/index.php/repository/browse), AU, service does not appear to be working, 
 * South Australian Museum [WS](https://www.samuseum.sa.gov.au/), AU
+* The Australian Institute of Aboriginal and Torres Strait Islander Studies [WS](https://aiatsis.gov.au/family-history/family-history-sources/official-records/electoral-rolls-and-voter-records), AU
+* Australian Voting Records [WS](https://www.familysearch.org/en/wiki/Australia_Voting_Records), AU
 * National Library of Australia, [WS](https://www.library.gov.au/), AU
 * Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), CA, good quality, lots or records, immigration, marriages, of people named earwaker, 
 * Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), NZ

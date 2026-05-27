@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 27 MAY 2026
-2 TIME 11:45:23
+2 TIME 15:56:11
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_cv_data.ged
 1 COPR Copyright (c) 2026 .
@@ -23,13 +23,31 @@
 1 NAME Mary Purvis //
 2 TYPE married
 2 GIVN Mary Purvis
+1 NAME Mary Eaarwaker Liddle //
+2 TYPE aka
+2 GIVN Mary Eaarwaker Liddle
+1 NAME Mary Liddle //
+2 TYPE aka
+2 GIVN Mary Liddle
 1 SEX F
+1 DEAT
+2 TYPE Mary Earwaker DD
+2 DATE 29 JAN 1965
+2 PLAC Alice Springs, Northern Territories, Australia
+2 NOTE @N0000@
+1 BURI
+2 TYPE Mary Earwaker BrlD
+2 DATE 1 FEB 1965
+2 PLAC Alice Spring Memorial Cemetary, Alice Springs, Northern Territories, Australia
+3 NOTE @N0011@
+2 NOTE @N0000@
 1 FAMC @F0000@
 2 PEDI birth
 1 NOTE @N0000@
+1 NOTE @N0013@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 20:22:34
+2 DATE 27 MAY 2026
+3 TIME 15:42:50
 0 @I0001@ INDI
 1 NAME Rose /Earwaker/
 2 TYPE birth
@@ -44,8 +62,8 @@
 2 PEDI birth
 1 NOTE @N0001@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 20:22:34
+2 DATE 27 MAY 2026
+3 TIME 12:57:16
 0 @I0002@ INDI
 1 NAME Henry /Earwaker/
 2 TYPE birth
@@ -90,10 +108,11 @@
 2 NOTE @N0006@
 1 FAMC @F0001@
 2 PEDI birth
+1 FAMS @F0006@
 1 NOTE @N0006@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 10:13:55
+3 TIME 12:41:37
 0 @I0005@ INDI
 1 NAME F. W. /Duminski/
 2 TYPE birth
@@ -123,10 +142,11 @@
 2 NOTE @N0006@
 1 FAMC @F0002@
 2 PEDI birth
+1 FAMS @F0006@
 1 NOTE @N0006@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 10:17:00
+3 TIME 12:41:37
 0 @I0007@ INDI
 1 NAME J /Earwaker/
 2 TYPE birth
@@ -172,14 +192,30 @@
 3 NOTE @N0009@
 3 NOTE @N0010@
 2 NOTE @N0008@
+1 RESI
+2 TYPE Selbourne, Redmyre-road, Strathfield
+2 DATE 9 DEC 1927
+2 PLAC Sydney, New South Wales, Australia
+2 NOTE @N0008@
 1 DSCR same marjorie in records of QX22335? service number? same person?
 1 FAMC @F0004@
 2 PEDI birth
 1 FAMS @F0003@
+1 RESI
+2 ADDR Selbourne, Redmyre-road
+3 CONT Strathfield
+3 CONT Sydney
+3 CONT New South Wales
+3 CONT Australia
+3 ADR1 Selbourne, Redmyre-road
+3 ADR2 Strathfield
+3 CITY Sydney
+3 STAE New South Wales
+3 CTRY Australia
 1 NOTE @N0008@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 11:12:49
+3 TIME 12:31:45
 0 @I0010@ INDI
 1 NAME John G /Earwaker/
 2 TYPE birth
@@ -194,6 +230,11 @@
 3 NOTE @N0009@
 3 NOTE @N0010@
 2 NOTE @N0008@
+1 RESI
+2 TYPE Selbourne, Redmyre-road, Strathfield
+2 DATE 9 DEC 1927
+2 PLAC Sydney, New South Wales, Australia
+2 NOTE @N0008@
 1 IDNO QX22335? service number? same person?
 1 FAMC @F0005@
 2 PEDI birth
@@ -201,7 +242,7 @@
 1 NOTE @N0008@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 11:16:35
+3 TIME 12:32:06
 0 @I0011@ INDI
 1 NAME ? /?/
 2 TYPE birth
@@ -236,11 +277,12 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 DSCR same person in _ms_data John Ewan Earwaker ?
 1 FAMS @F0005@
 1 NOTE @N0008@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 11:17:57
+3 TIME 12:49:00
 0 @I0014@ INDI
 1 NAME ? /?/
 2 TYPE birth
@@ -256,13 +298,27 @@
 1 CHAN
 2 DATE 27 MAY 2026
 3 TIME 11:17:43
+0 @I0015@ INDI
+1 NAME ? /?/
+2 TYPE birth
+2 GIVN ?
+2 SPFX ?
+1 SEX F
+1 NATI Aboriginal Australian
+1 DSCR name? Alice Ngalia, group is? Aranda (Arunta), find record for same
+1 FAMS @F0000@
+1 NOTE @N0012@
+1 CHAN
+2 DATE 27 MAY 2026
+3 TIME 14:14:00
 0 @F0000@ FAM
 1 HUSB @I0002@
+1 WIFE @I0015@
 1 CHIL @I0000@
 1 CHIL @I0001@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 20:22:34
+2 DATE 27 MAY 2026
+3 TIME 12:57:16
 0 @F0001@ FAM
 1 WIFE @I0005@
 1 CHIL @I0004@
@@ -282,7 +338,7 @@
 1 NOTE @N0008@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 10:44:04
+3 TIME 12:39:45
 0 @F0004@ FAM
 1 HUSB @I0012@
 1 WIFE @I0011@
@@ -299,7 +355,28 @@
 1 CHAN
 2 DATE 27 MAY 2026
 3 TIME 11:16:35
+0 @F0006@ FAM
+1 HUSB @I0006@
+1 WIFE @I0004@
+1 NOTE @N0006@
+1 CHAN
+2 DATE 27 MAY 2026
+3 TIME 12:42:33
 0 @N0000@ NOTE https://www.wikitree.com/wiki/Earwaker-31
+1 CONT https://www.findagrave.com/memorial/184433900/mary-liddle
+1 CONT https://www.geni.com/people/Mary-Liddle/6000000039826065022
+1 CONT https://www.alicesprings.nt.gov.au/Profiles/alicesprings/Assets/ClientDa
+1 CONC ta/Memorial_Cemetery_Spreadsheet_by_Names.pdf
+1 CONT https://www.ancestry.co.uk/search/?name=Mary_Earwaker&death=1965_alice+s
+1 CONC prings-northern+territory-australia_92255&death_x=1-0-0&father=Henry_Ear
+1 CONC waker&gender=f&mother=Alice_Ngalia&race=Australian&searchMode=advanced&s
+1 CONC ibling=Rose_Earwaker&spouse=William+Hurle_Liddle&spouse2=_Purvis
+1 CONT https://www.ancestry.co.uk/search/collections/60528/records/148501865?ti
+1 CONC d=&pid=&queryId=84d10e33-73bc-489e-9292-f9480a5e412f&_phsrc=dBA8&_phstar
+1 CONC t=successSource
+1 CONT 
+1 CONT 
+1 CONT 
 0 @N0001@ NOTE https://www.wikitree.com/wiki/Earwaker-29
 0 @N0002@ NOTE https://www.wikitree.com/wiki/Earwaker-27
 0 @N0003@ NOTE https://trove.nla.gov.au/newspaper/article/199300947?searchTerm=ear
@@ -326,4 +403,18 @@
 1 CONT 
 1 CONT 
 0 @N0010@ NOTE Trinity Uniting Church
+0 @N0011@ NOTE https://nt.gov.au/law/bdm/cemeteries
+1 CONT https://www.alicesprings.nt.gov.au/residents/facilities/parks/cemeteries
+1 CONC .aspx
+1 CONT https://www.alicesprings.nt.gov.au/Profiles/alicesprings/Assets/ClientDa
+1 CONC ta/Memorial_Cemetery_-_overall_plan.pdf
+1 CONT https://www.alicesprings.nt.gov.au/Profiles/alicesprings/Assets/ClientDa
+1 CONC ta/Memorial_Cemetery_Spreadsheet_by_Names.pdf
+1 CONT 
+1 CONT 
+0 @N0012@ NOTE https://www.geni.com/people/Alice-Ngalia/6000000039825112786
+0 @N0013@ NOTE Suggested places to search
+1 CONT Australia, Birth Index, 1788-1922, Mary Earwaker
+1 CONT Australia, Elector Rolls, 1903-1980, Mary Earwaker
+1 CONT Northern Territory, Australia Probate Index, Mary Liddle
 0 TRLR

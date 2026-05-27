@@ -1,15 +1,18 @@
 Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
-[P0000],,Australia,Unknown,,,,,
-[P0001],,"Brisbane, Queensland, Australia",Unknown,,,,,
+[P0000],,Australia,Country,,,,,
+[P0001],,"Brisbane, Queensland, Australia",City,,,,,
 [P0002],,"Clayfield, Queensland, Auastralia",Unknown,,,,,
 [P0003],,Scots Presbyterian Memorial,Building,,,,[P0002],
-[P0004],,"Sydney, New South Wales, Australia",Unknown,,,,,
+[P0004],,"Sydney, New South Wales, Australia",City,,,,,
 [P0005],,Strathfield-Homebush Congregational Church,Building,,,,[P0004],
+[P0006],,"Alice Springs, Northern Territories, Australia",Town,,,,,
+[P0007],,Alice Spring Memorial Cemetary,Building,,,,[P0006],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0008],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0011],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0014],,?,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0015],,?,,,,?,,female,,,,,,,,,,,,,
 [I0005],,F. W.,,,,Duminski,Mrs,female,,,,,,,,,,,,,
 [I0004],,Gertrude May,,,,Duminski,Mrs,female,,,,,,,,,,,,,
 [I0002],,Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -19,17 +22,18 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0006],,John G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0010],,John G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0009],,Marjorie C.,,,,Woolnough,Mrs,female,,,,,,,,,,,,,
-[I0000],,Mary,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0000],,Mary,,,,Earwaker,Mrs,female,,,,,,,1965-01-29,[P0006],,1965-02-01,[P0007],,
 [I0001],,Rose,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0012],,T. C.,,,,Woolnough,Mr,male,,,,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
-[F0000],[I0002],,,,,
+[F0000],[I0002],[I0015],,,,
 [F0001],,[I0005],,,,
 [F0002],[I0007],[I0008],,,,
 [F0003],[I0010],[I0009],,,,
 [F0004],[I0012],[I0011],,,,
 [F0005],[I0013],[I0014],,,,
+[F0006],[I0006],[I0004],,,,
 
 Family,Child
 [F0000],[I0000]
