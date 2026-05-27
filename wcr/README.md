@@ -107,7 +107,7 @@ earwaker_ms_data
 earwaker_cv_data
 * civic records, online, AU, CA, NZ, UK, ... IN, PK, other commonwealth nations with online records service
 * Census, Birth, Marriages, Deaths, Immigration Citizenship, Religious baptism etc, 
-* <todo: explore link with _ms_data, Marjorie C Woolnought is QX22335 relative, in _cv_data Marg C married John G Earwaker 9 Dec 1927 Sydney, is _ms_data John George Earwaker WW1 AU same person?, >
+* <todo: consider, explore link with _ms_data, is Marjorie C Woolnought the relative William Henry Earwaker QX22335 and Augustus Earwaker QX22334 in NAA files, in _cv_data Marjorie C Woolnought married John G Earwaker 9 Dec 1927 Sydney, is _ms_data John George Earwaker WW1 AU 2387A same person?, >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
