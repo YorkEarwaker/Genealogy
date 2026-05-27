@@ -64,6 +64,7 @@ DONE
 * <done: consider, residence event naming convention confusion, next of kin at embarkment/burial/etc, need general heuristic for naming, tbd, and other residence naming conventions?, wip>
 * <done: consider, refactor Residence entities, new naming convention for embarkation Res, NOK-Emb for burials Res, NOK-Brl, for the next of kin cited in source material >
 * <done: consider, different data sets with different focus relate to different concerns and viewpoints, rationale for differents sets a survey of candidates for linking members of each respecive data set, wip >
+* <done: consider, other than _cv_ , but what? or leave as is, left was earwaker_cv_data, civic data, >
 
 ## Data
 
@@ -101,12 +102,12 @@ earwaker_ms_data
 * <todo: consider, data reconcilliation, may have wrongly set many people to have been WWI, must be part of reconcilliation effort >
 * <todo: consider, data reconcilliation, residences, in accordance with heuristic, >
 * <todo: consider, data reconcilliation, some people sources as parents may also have military service records, e.g. son served WWII, father served WWI, e.g. father/mother multiple children in conflict, how to identify >
-* <todo: consider, search for ERRICKER EARWICKER and simlar, have seen similar in au virtual war memorial, once Earwaker search is exhausted, >
+* <todo: consider, search for ERRICKER EARWICKER and simlar, have seen similar in au virtual war memorial, once Earwaker search is exhausted, in separate distinct data sets? erricker_ms_data earwicker_ms_data etc >
 
 earwaker_cv_data
 * civic records, online, AU, CA, NZ, UK, ... IN, PK, other commonwealth nations with online records service
 * Census, Birth, Marriages, Deaths, Immigration Citizenship, Religious baptism etc, 
-* <todo: consider, other than _cv_ , but what? or leave as is, >
+* <todo: explore link with _ms_data, Marjorie C Woolnought is QX22335 relative, in _cv_data Marg C married John G Earwaker 9 Dec 1927 Sydney, is _ms_data John George Earwaker WW1 AU same person?, >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
@@ -144,9 +145,18 @@ Etymology
 * ...
 
 National Archives - civilian & service
-* Australian National Archives, [WS](https://www.naa.gov.au/), [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), AU, Records Search, good quality, some records first search on earwaker
+* Australian National Archives, [WS](https://www.naa.gov.au/), AU
+* Records Search, [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), AU, Records Search, good quality, some records first search on earwaker, sparsity of records, 
+* Archival Institutions, [WS](https://directory.archivists.org.au/index.php/repository/browse), AU, service does not appear to be working, 
+* South Australian Museum [WS](https://www.samuseum.sa.gov.au/), AU
+* National Library of Australia, [WS](https://www.library.gov.au/), AU
 * Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), CA, good quality, lots or records, immigration, marriages, of people named earwaker, 
-* Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), DigitalNZ, [WS](https://digitalnz.org/), Collections Search [WS](https://collections.archives.govt.nz/web/arena#/), Family Search [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/search), National Library [WS](https://natlib.govt.nz/), NZ
+* Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), NZ
+* DigitalNZ, [WS](https://digitalnz.org/), NZ
+* Collections Search [WS](https://collections.archives.govt.nz/web/arena#/), Archive, NZ
+* Family Search [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Archive, NZ
+* Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/search), Archive, NZ
+* National Library [WS](https://natlib.govt.nz/), NZ
 * UK
 
 Service Records - service, army, navy, 
@@ -154,8 +164,10 @@ Service Records - service, army, navy,
 * Tracing a British Seaman in the Royal Navy before 1853, [WS](https://genealogyjude.com/2022/09/17/tracing-a-british-seamen-in-the-royal-navy-before-1853/), 2022, blog
 * Tracing your Family History, [WS](https://www.iwm.org.uk/research/tracing-your-family-history), UK, Imperial War Museum 
 * Commonwealth War Graves Commission, [WS](https://www.cwgc.org/), 
-* Australian War Memorial, [WS](https://www.awm.gov.au/advanced-search/people), AU
+* Australian War Memorial, [WS](https://www.awm.gov.au/), people search [WS](https://www.awm.gov.au/advanced-search/people), AU
 * Virtual War Memorial, [WS](https://vwma.org.au/), AU
+* South Australians of WW1, [WS](https://www.flickr.com/groups/slsaww1/), AU, flicker
+* ANZAC Portal, [WS](https://anzacportal.dva.gov.au/), AU
 * Service Records, [WS](https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/service-records.html), CA
 * Military, general links, [WS](https://nzhistory.govt.nz/handsonhistory/military-general-links), NZ
 
