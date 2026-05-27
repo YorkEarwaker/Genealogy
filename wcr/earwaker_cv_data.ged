@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 27 MAY 2026
-2 TIME 15:56:11
+2 TIME 17:53:03
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_cv_data.ged
 1 COPR Copyright (c) 2026 .
@@ -43,11 +43,13 @@
 2 NOTE @N0000@
 1 FAMC @F0000@
 2 PEDI birth
+1 FAMS @F0007@
+1 FAMS @F0008@
 1 NOTE @N0000@
 1 NOTE @N0013@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 15:42:50
+3 TIME 17:21:01
 0 @I0001@ INDI
 1 NAME Rose /Earwaker/
 2 TYPE birth
@@ -299,10 +301,11 @@
 2 DATE 27 MAY 2026
 3 TIME 11:17:43
 0 @I0015@ INDI
-1 NAME ? /?/
+1 NAME Alice /Nagalia/
 2 TYPE birth
-2 GIVN ?
-2 SPFX ?
+2 GIVN Alice
+2 SPFX Nagalia
+2 NPFX Mrs
 1 SEX F
 1 NATI Aboriginal Australian
 1 DSCR name? Alice Ngalia, group is? Aranda (Arunta), find record for same
@@ -310,7 +313,32 @@
 1 NOTE @N0012@
 1 CHAN
 2 DATE 27 MAY 2026
-3 TIME 14:14:00
+3 TIME 17:28:20
+0 @I0016@ INDI
+1 NAME William ? /Liddle/
+2 TYPE birth
+2 GIVN William ?
+2 SPFX Liddle
+2 NPFX Mr
+1 NAME Bill Liddle //
+2 TYPE birth
+2 GIVN Bill Liddle
+1 SEX M
+1 FAMS @F0007@
+1 CHAN
+2 DATE 27 MAY 2026
+3 TIME 17:13:08
+0 @I0017@ INDI
+1 NAME Bob /Purvis/
+2 TYPE birth
+2 GIVN Bob
+2 SPFX Purvis
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0008@
+1 CHAN
+2 DATE 27 MAY 2026
+3 TIME 17:21:01
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0015@
@@ -362,6 +390,22 @@
 1 CHAN
 2 DATE 27 MAY 2026
 3 TIME 12:42:33
+0 @F0007@ FAM
+1 HUSB @I0016@
+1 WIFE @I0000@
+1 NCHI 2?
+1 NOTE @N0000@
+1 CHAN
+2 DATE 27 MAY 2026
+3 TIME 17:22:25
+0 @F0008@ FAM
+1 HUSB @I0017@
+1 WIFE @I0000@
+1 NCHI Unknown, several/none?
+1 NOTE @N0000@
+1 CHAN
+2 DATE 27 MAY 2026
+3 TIME 17:21:01
 0 @N0000@ NOTE https://www.wikitree.com/wiki/Earwaker-31
 1 CONT https://www.findagrave.com/memorial/184433900/mary-liddle
 1 CONT https://www.geni.com/people/Mary-Liddle/6000000039826065022

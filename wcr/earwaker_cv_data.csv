@@ -12,7 +12,8 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0008],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0011],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0014],,?,,,,?,Mrs,female,,,,,,,,,,,,,
-[I0015],,?,,,,?,,female,,,,,,,,,,,,,
+[I0015],,Alice,,,,Nagalia,Mrs,female,,,,,,,,,,,,,
+[I0017],,Bob,,,,Purvis,Mr,male,,,,,,,,,,,,,
 [I0005],,F. W.,,,,Duminski,Mrs,female,,,,,,,,,,,,,
 [I0004],,Gertrude May,,,,Duminski,Mrs,female,,,,,,,,,,,,,
 [I0002],,Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -25,6 +26,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0000],,Mary,,,,Earwaker,Mrs,female,,,,,,,1965-01-29,[P0006],,1965-02-01,[P0007],,
 [I0001],,Rose,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0012],,T. C.,,,,Woolnough,Mr,male,,,,,,,,,,,,,
+[I0016],,William ?,,,,Liddle,Mr,male,,,,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
 [F0000],[I0002],[I0015],,,,
@@ -34,6 +36,8 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0004],[I0012],[I0011],,,,
 [F0005],[I0013],[I0014],,,,
 [F0006],[I0006],[I0004],,,,
+[F0007],[I0016],[I0000],,,,
+[F0008],[I0017],[I0000],,,,
 
 Family,Child
 [F0000],[I0000]
