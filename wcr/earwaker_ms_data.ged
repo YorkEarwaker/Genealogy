@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 26 MAY 2026
-2 TIME 20:10:58
+1 DATE 28 MAY 2026
+2 TIME 02:12:53
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -303,7 +303,7 @@
 2 DATE 28 MAY 1940
 2 NOTE @N0016@
 1 BURI
-2 TYPE Henry Gordon Earwaker Brl
+2 TYPE Henry Gordon Earwaker BrlD
 2 PLAC Portsmouth Naval Memorial, Hampshire, England, United Kingdom
 3 MAP
 4 LATI N50.78242
@@ -1667,15 +1667,17 @@
 1 BIRT
 2 TYPE Albert Earwaker BD
 2 DATE 26 OCT 1890
-2 PLAC Canada
+2 PLAC Walkerton, Bruce, Ontario, Canada
 2 NOTE @N0079@
 1 _MILT
 2 TYPE Albert Earwaker MS
+2 DATE 21 JAN 1915
 2 PLAC Canada
+1 OCCU Baker
 1 NOTE @N0079@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 04:17:15
+2 DATE 28 MAY 2026
+3 TIME 01:52:01
 0 @I0088@ INDI
 1 NAME Frank Edward /Earwaker/
 2 TYPE birth
@@ -1686,16 +1688,43 @@
 1 BIRT
 2 TYPE Frank Edward Earwaker BD
 2 DATE 10 SEP 1894
-2 PLAC Winnipeg Centre, Manitoba, Quebec, Canada
+2 PLAC Montreal, Quebec, Canada
 2 NOTE @N0080@
 1 _MILT
 2 TYPE Frank Edward Earwaker MS
+2 DATE FROM 11 AUG 1915 TO 8 MAY 1919
 2 PLAC Canada
 2 NOTE @N0080@
+1 RELI Church of England CoE
+1 _MILT
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
+2 NOTE @N0023@
+1 OCCU Warehouseman
+1 FAMC @F0021@
+2 PEDI birth
+1 RESI
+2 ADDR 546 Agnes Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 546 Agnes Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
+1 RESI
+2 ADDR 259 Chambers? Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 259 Chambers? Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
 1 NOTE @N0080@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 04:27:15
+2 DATE 28 MAY 2026
+3 TIME 01:21:40
 0 @I0090@ INDI
 1 NAME Augustis /Earwaker/
 2 TYPE birth
@@ -1817,6 +1846,12 @@
 2 SPFX Earwaker
 2 NPFX Mr
 2 NICK Jack
+1 NAME EARWAKER J G //
+2 TYPE birth
+2 GIVN EARWAKER J G
+1 NAME Jack //
+2 TYPE aka
+2 GIVN Jack
 1 SEX M
 1 DEAT
 2 TYPE John George Earwaker DD
@@ -1824,7 +1859,7 @@
 2 NOTE @N0085@
 1 _MILT
 2 TYPE John George Earwaker MS
-2 DATE 27 JUN 1915
+2 DATE 29 JUN 1915
 2 PLAC Australia
 2 NOTE @N0085@
 1 _MILT
@@ -1848,8 +1883,8 @@
 3 CTRY Australia
 1 NOTE @N0085@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 13:02:53
+2 DATE 27 MAY 2026
+3 TIME 07:54:25
 0 @I0094@ INDI
 1 NAME John Ewen /Earwaker/
 2 TYPE birth
@@ -2030,6 +2065,121 @@
 1 CHAN
 2 DATE 26 MAY 2026
 3 TIME 19:57:44
+0 @I0101@ INDI
+1 NAME P H /Earwaker/
+2 TYPE birth
+2 GIVN P H
+2 SPFX Earwaker
+1 SEX M
+1 _MILT
+2 TYPE P H Earwaker MS
+2 PLAC Australia
+1 _MILT
+2 TYPE Con, World War II
+2 DATE FROM 1939 TO 1945
+2 NOTE @N0077@
+1 NOTE @N0093@
+1 CHAN
+2 DATE 27 MAY 2026
+3 TIME 08:51:07
+0 @I0102@ INDI
+1 NAME Louise /?/
+2 TYPE birth
+2 GIVN Louise
+2 SPFX ?
+2 NPFX Mrs
+1 NAME Louise Earwaker //
+2 TYPE married
+2 GIVN Louise Earwaker
+1 NAME Louisa Earwaker //
+2 TYPE aka
+2 GIVN Louisa Earwaker
+1 SEX F
+1 DSCR reciept of CA army pay from Frank Edward Earwaker
+1 FAMS @F0021@
+1 RESI
+2 ADDR 342 Hargrave Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 342 Hargrave Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
+1 RESI
+2 ADDR 744 Lineve Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 744 Lineve Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
+1 RESI
+2 ADDR Suite 1 Glen Arron Apt, 464 Spence Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 Suite 1 Glen Arron Apt, 464 Spence Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
+1 RESI
+2 ADDR 259 Chambers Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 259 Chambers Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
+2 NOTE @N0080@
+1 NOTE @N0080@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 01:28:10
+0 @I0103@ INDI
+1 NAME Henry James /Earwaker/
+2 TYPE birth
+2 GIVN Henry James
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0021@
+1 RESI
+2 ADDR 464 Spence Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 464 Spence Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
+2 NOTE @N0080@
+1 RESI
+2 ADDR 342 Hargrave Street
+3 CONT Winnipeg
+3 CONT Manitoba
+3 CONT Canada
+3 ADR1 342 Hargrave Street
+3 CITY Winnipeg
+3 STAE Manitoba
+3 CTRY Canada
+2 NOTE @N0080@
+1 RESI
+2 ADDR 259 Chambers Street
+3 CONT Winnipeg
+3 CONT Manatoba
+3 CONT Canada
+3 ADR1 259 Chambers Street
+3 CITY Winnipeg
+3 STAE Manatoba
+3 CTRY Canada
+2 NOTE @N0080@
+1 NOTE @N0080@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 00:57:33
 0 @F0000@ FAM
 1 HUSB @I0003@
 1 CHIL @I0001@
@@ -2184,6 +2334,13 @@
 1 CHAN
 2 DATE 26 MAY 2026
 3 TIME 12:17:02
+0 @F0021@ FAM
+1 HUSB @I0103@
+1 WIFE @I0102@
+1 CHIL @I0088@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 01:21:40
 0 @N0000@ NOTE https://www.cwgc.org/our-work/blog/local-history-with-a-global-focu
 1 CONC s-the-war-graves-of-hornchurch/
 0 @N0001@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
@@ -2356,4 +2513,7 @@
 0 @N0088@ NOTE https://www.awm.gov.au/collection/C45641
 0 @N0089@ NOTE https://vwma.org.au/explore/people/687571
 0 @N0090@ NOTE https://vwma.org.au/explore/cemeteries/3062
+0 @N0091@ NOTE 
+0 @N0092@ NOTE NAA, Item ID, 1073809
+0 @N0093@ NOTE NAA, Item ID, 1073809
 0 TRLR

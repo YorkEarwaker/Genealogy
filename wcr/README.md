@@ -153,6 +153,7 @@ National Archives - civilian & service
 * Australian Voting Records [WS](https://www.familysearch.org/en/wiki/Australia_Voting_Records), AU
 * National Library of Australia, [WS](https://www.library.gov.au/), AU
 * Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), CA, good quality, lots or records, immigration, marriages, of people named earwaker, 
+* Digitized microforms, [WS](https://recherche-collection-search.bac-lac.gc.ca/eng/digitized-archives/index), CA
 * Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), NZ
 * DigitalNZ, [WS](https://digitalnz.org/), NZ
 * Collections Search [WS](https://collections.archives.govt.nz/web/arena#/), Archive, NZ

@@ -44,11 +44,13 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0044],,Singapore,Country,,,,,
 [P0045],,Korea,Country,,,,,
 [P0046],,Woongarra Crematorium,Unknown,S19.26639,E146.8057,,[P0043],
+[P0047],,"Montreal, Quebec, Canada",Unknown,,,,,
+[P0048],,"Walkerton, Bruce, Ontario, Canada",Town,,,,,
 [P0007],,Ploegsteert Memorial,Building,50.7378,2.88228,,[P0008],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0057],,A,,,,Earwaker,Mr,male,,,,,,,,,,,,,
-[I0087],,Albert,,,,Earwaker,Mr,male,1890-10-26,[P0018],,,,,,,,,,,
+[I0087],,Albert,,,,Earwaker,Mr,male,1890-10-26,[P0048],,,,,,,,,,,
 [I0053],,Albert E,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0064],,Albert George,,,,Earwaker,Mr,male,,,,,,,1944-10-12,,,,[P0023],,
 [I0084],,Alec Edmund Green,,,,Earwaker,Mr,male,,,,,,,1940-08-01,,,,[P0040],,
@@ -77,7 +79,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0013],,Ethel,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0066],,F C,,,,Earwaker,Mr,male,,[P0024],,,,,1919-01-02,,,,[P0026],,
 [I0054],,Frank,,,,Earwaker,Mr,male,,,,,,,,,,,,,
-[I0088],,Frank Edward,,,,Earwaker,Mr,male,1894-09-10,[P0041],,,,,,,,,,,
+[I0088],,Frank Edward,,,,Earwaker,Mr,male,1894-09-10,[P0047],,,,,,,,,,,
 [I0036],,Frederick,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0052],,Frederick,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0046],,Frederick G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -95,6 +97,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0069],,Henry Charles,,,,Earwaker,Mr,male,,,,,,,1919-03-19,,,,[P0028],,
 [I0016],,Henry Gordon,,,,Earwaker,Mr,male,,,,,,,1940-05-28,,,,[P0016],,
 [I0029],,Henry J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0103],,Henry James,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0035],,James,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0083],,Jane,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0011],,John Bennison,,,,Earwaker,Mr,male,,,,,,,1918-10-16,,,,[P0011],,
@@ -106,10 +109,12 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0044],,Juliet,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0100],,Leslie Thomas,,,,Earwaker,Mr,male,1924-01-23,[P0043],,,,,1992-11-13,[P0043],,,[P0046],,
 [I0006],,Lily Harris,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0102],,Louise,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0099],,Marjorie,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0068],,Mary Ann,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0080],,May B.,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0033],,Oliver Charles,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0101],,P H,,,,Earwaker,,male,,,,,,,,,,,,,
 [I0005],,P. S.,,,,Spence,Mrs,female,,,,,,,,,,,,,
 [I0026],,R N D'o,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0098],,R William,,,,Earwaker,Mr,male,1942,[P0042],,,,,,,,,,,
@@ -167,6 +172,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0018],[I0085],[I0086],,,,
 [F0019],[I0091],,,,,
 [F0020],[I0094],,,,,
+[F0021],[I0103],[I0102],,,,
 
 Family,Child
 [F0000],[I0001]
@@ -186,4 +192,5 @@ Family,Child
 [F0019],[I0092]
 [F0019],[I0100]
 [F0020],[I0093]
+[F0021],[I0088]
 
