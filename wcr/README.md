@@ -106,8 +106,9 @@ earwaker_ms_data
 
 earwaker_cv_data
 * civic records, online, AU, CA, NZ, UK, ... IN, PK, other commonwealth nations with online records service
-* Census, Birth, Marriages, Deaths, Immigration Citizenship, Religious baptism etc, 
+* Census, Birth, Marriages, Deaths, Emigration, Immigration Citizenship, Religious baptism etc, 
 * <todo: consider, explore link with _ms_data, is Marjorie C Woolnought the relative William Henry Earwaker QX22335 and Augustus Earwaker QX22334 in NAA files, in _cv_data Marjorie C Woolnought married John G Earwaker 9 Dec 1927 Sydney, is _ms_data John George Earwaker WW1 AU 2387A same person?, >
+* <todo: consider, more reseearch _cv_ on Rose Earwaker, AU, daughter of Alice Ngalia, very shallow information base at the moment, >
 
 earwaker_N+0_data
 * likely one relating to in the large earwaker 'complete' family tree
@@ -160,7 +161,9 @@ National Archives - civilian & service
 * Family Search [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Archive, NZ
 * Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/search), Archive, NZ
 * National Library [WS](https://natlib.govt.nz/), NZ
-* UK
+* Papers Past, [WS](https://paperspast.natlib.govt.nz/), NZ
+* National Archives UK
+* Emigration Records, [WS](https://www.nls.uk/tools-for-research/family-history/emigration/), UK, NLS
 
 Service Records - service, army, navy, 
 * Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), UK, Imperial War Museum, 

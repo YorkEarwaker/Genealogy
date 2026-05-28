@@ -7,25 +7,39 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0005],,Strathfield-Homebush Congregational Church,Building,,,,[P0004],
 [P0006],,"Alice Springs, Northern Territories, Australia",Town,,,,,
 [P0007],,Alice Spring Memorial Cemetary,Building,,,,[P0006],
+[P0008],,New Zealand,Country,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0008],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0011],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0014],,?,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0028],,?,,,,Earwaker,,female,,,,,,,,,,,,,
 [I0015],,Alice,,,,Nagalia,Mrs,female,,,,,,,,,,,,,
 [I0017],,Bob,,,,Purvis,Mr,male,,,,,,,,,,,,,
+[I0027],,C,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0025],,D,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0029],,D. S,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0018],,Ernest,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0005],,F. W.,,,,Duminski,Mrs,female,,,,,,,,,,,,,
+[I0023],,George,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0004],,Gertrude May,,,,Duminski,Mrs,female,,,,,,,,,,,,,
 [I0002],,Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0003],,J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0007],,J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0013],,J E,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0024],,Jean,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0006],,John G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0010],,John G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0026],,M,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0009],,Marjorie C.,,,,Woolnough,Mrs,female,,,,,,,,,,,,,
 [I0000],,Mary,,,,Earwaker,Mrs,female,,,,,,,1965-01-29,[P0006],,1965-02-01,[P0007],,
+[I0021],,Olga,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0022],,Richard,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0001],,Rose,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0020],,Steve,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0019],,Suzanne M.,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0012],,T. C.,,,,Woolnough,Mr,male,,,,,,,,,,,,,
+[I0030],,W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0016],,William ?,,,,Liddle,Mr,male,,,,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
@@ -38,6 +52,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0006],[I0006],[I0004],,,,
 [F0007],[I0016],[I0000],,,,
 [F0008],[I0017],[I0000],,,,
+[F0009],[I0023],[I0024],,,,
 
 Family,Child
 [F0000],[I0000]
