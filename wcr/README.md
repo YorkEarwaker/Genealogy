@@ -158,8 +158,8 @@ National Archives - civilian & service
 * Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), NZ
 * DigitalNZ, [WS](https://digitalnz.org/), NZ
 * Collections Search [WS](https://collections.archives.govt.nz/web/arena#/), Archive, NZ
-* Family Search [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Archive, NZ
-* Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/search), Archive, NZ
+* New Zealand Archives and Libraries, [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Family Search, NZ, <todo: consider, not sure what to think about Family Search, ponder more >
+* Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/), NZ, excellent service, for first pass genealogical search
 * National Library [WS](https://natlib.govt.nz/), NZ
 * Papers Past, [WS](https://paperspast.natlib.govt.nz/), NZ
 * National Archives UK

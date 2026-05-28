@@ -26,8 +26,14 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0025],,Scotland,Country,,,,,
 [P0026],,Pakistan,Country,,,,,
 [P0027],,England,Country,,,,,
+[P0028],,"Winchester, Hampshire, England, United Kingdom",Unknown,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
+[I0048],,? Brother of Ethel,,,,Bradley,Mr,male,,,,,,,,,,,,,
+[I0049],,? Father of Ethel D,,,,Bradley,Mr,male,,,,,,,,,,,,,
+[I0051],,? Father of Henry H,,,,Ash,Mr,male,,,,,,,,,,,,,
+[I0050],,? Mother of Ethel D,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0052],,? Mother of Henry H,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0015],,Angela Eugenia,,,,Alcaine,Mrs,female,,[P0006],,,,,2013,,,,,,
 [I0028],,Ann,,,,Robson,Mrs,female,,,,,,,,,,,,,
 [I0041],,Arif,,,,Khan,Mr,male,,[P0016],,,,,,,,,,,
@@ -37,7 +43,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0009],,Charlotte Eleanor,,,,Orpwood,Miss,female,1875,[P0001],,,,,,,,,,,
 [I0024],,Charlotte Elizabeth,,,,Flindall,Mrs,female,,,,,,,,,,,,,
 [I0010],,Elizabeth Dorothy,,,,Ash,Mrs,female,1938,[P0019],,,,,,[P0018],,,,,
-[I0020],,Ethel Dorothy,,,,Bradley,Mrs,female,,,,,,,,,,,,,
+[I0020],,Ethel Dorothy,,,,Bradley,Mrs,female,1910,[P0014],,,,,,,,,,,
 [I0029],,Eva,,,,Sicka,Mrs,female,1964-06-06,[P0013],,,,,,,,,,,
 [I0043],,Father of Arif,,,,Khan,Mr,male,,,,,,,,,,,,,
 [I0017],,Father of Carmen & Eugenia,,,,Alcaine,Snr,male,,,,,,,,,,,,,
@@ -45,7 +51,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0021],,Hannah Sarah,,,,Rose,Mrs,female,1837,[P0001],,,,,,,,,,,
 [I0034],,Helen,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0046],,Helen,,,,?,Mrs,female,,,,,,,,,,,,,
-[I0019],,Henry Herbert,,,,Ash,Mr,male,,,,,,,,,,,,,
+[I0019],,Henry Herbert,,,,Ash,Mr,male,1907,[P0001],,,,,1995,[P0028],,,,,
 [I0022],,James,,,,Earwaker,Mr,male,1835,[P0001],,,,,,,,,,,
 [I0027],,James Frederick,,,,Adams,Mr,male,,,,,,,,,,,,,
 [I0023],,James Moxey,,,,Orpwood,Mr,male,,,,,,,,,,,,,
@@ -73,6 +79,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0005],,Ruth,,,,Earwaker,Mrs,female,1964-06-02,[P0014],,,,,,,,,,,
 [I0042],,Sami,,,,Khan,Mr,male,,,,,,,,,,,,,
 [I0036],,Sanjay,,,,Sicka,,male,,,,,,,,,,,,,
+[I0047],,Sid,,,,?,Mr,male,,,,,,,,,,,,,
 [I0004],,York,,,,Earwaker,Mr,male,1962-12-17,[P0014],,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
@@ -88,12 +95,14 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0011],[I0022],[I0021],1859,[P0001],,
 [F0012],[I0023],[I0024],1863,[P0001],,
 [F0013],[I0026],[I0025],1855,[P0004],,
-[F0014],[I0004],[I0029],,[P0014],,
+[F0014],[I0004],[I0029],1983?,[P0014],,
 [F0015],[I0035],[I0034],,,,
 [F0016],[I0041],[I0033],,,,
 [F0017],[I0043],[I0044],,,,
 [F0018],[I0012],[I0045],,,,
 [F0019],,[I0046],,,,
+[F0020],[I0049],[I0050],1934,[P0001],,
+[F0021],[I0051],[I0052],,,,
 
 Family,Child
 [F0002],[I0000]
@@ -126,4 +135,7 @@ Family,Child
 [F0016],[I0042]
 [F0017],[I0041]
 [F0019],[I0034]
+[F0020],[I0020]
+[F0020],[I0048]
+[F0021],[I0019]
 

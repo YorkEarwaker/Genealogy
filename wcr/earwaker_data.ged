@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 25 MAY 2026
-2 TIME 22:01:57
+1 DATE 28 MAY 2026
+2 TIME 22:18:35
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -348,10 +348,20 @@
 2 SPFX Ash
 2 NPFX Mr
 1 SEX M
+1 BIRT
+2 TYPE Henry Herbert Ash
+2 DATE 1907
+2 PLAC Middelsex, England, United Kingdom
+1 DEAT
+2 TYPE Henry Herbert Ash DD
+2 DATE 1995
+2 PLAC Winchester, Hampshire, England, United Kingdom
+1 FAMC @F0021@
+2 PEDI birth
 1 FAMS @F0010@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 12:32:14
+2 DATE 28 MAY 2026
+3 TIME 18:09:56
 0 @I0020@ INDI
 1 NAME Ethel Dorothy /Bradley/
 2 TYPE birth
@@ -359,10 +369,16 @@
 2 SPFX Bradley
 2 NPFX Mrs
 1 SEX F
+1 BIRT
+2 TYPE Ethel Dorothy Bradley BD
+2 DATE 1910
+2 PLAC London, England, United Kingdom
+1 FAMC @F0020@
+2 PEDI birth
 1 FAMS @F0010@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 19:29:15
+2 DATE 28 MAY 2026
+3 TIME 18:02:29
 0 @I0021@ INDI
 1 NAME Hannah Sarah /Rose/
 2 TYPE birth
@@ -699,6 +715,78 @@
 1 CHAN
 2 DATE 25 MAY 2026
 3 TIME 21:38:44
+0 @I0047@ INDI
+1 NAME Sid /?/
+2 TYPE birth
+2 GIVN Sid
+2 SPFX ?
+2 NPFX Mr
+1 SEX M
+1 DSCR Uncle to Ethel? or Elizabeth? Ash or Bradley
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 17:28:54
+0 @I0048@ INDI
+1 NAME ? Brother of Ethel /Bradley/
+2 TYPE birth
+2 GIVN ? Brother of Ethel
+2 SPFX Bradley
+2 NPFX Mr
+1 SEX M
+1 FAMC @F0020@
+2 PEDI birth
+1 RESI
+2 ADDR Tasmania
+3 CONT Australia
+3 STAE Tasmania
+3 CTRY Australia
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 18:02:29
+0 @I0049@ INDI
+1 NAME ? Father of Ethel D /Bradley/
+2 TYPE birth
+2 GIVN ? Father of Ethel D
+2 SPFX Bradley
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0020@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 17:54:37
+0 @I0050@ INDI
+1 NAME ? Mother of Ethel D /?/
+2 TYPE birth
+2 GIVN ? Mother of Ethel D
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0020@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 17:54:37
+0 @I0051@ INDI
+1 NAME ? Father of Henry H /Ash/
+2 TYPE birth
+2 GIVN ? Father of Henry H
+2 SPFX Ash
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0021@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 17:57:19
+0 @I0052@ INDI
+1 NAME ? Mother of Henry H /?/
+2 TYPE birth
+2 GIVN ? Mother of Henry H
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0021@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 17:57:19
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
@@ -830,6 +918,7 @@
 1 WIFE @I0029@
 1 MARR
 2 TYPE Eva Sick to York Earwaker
+2 DATE 1983?
 2 PLAC London, England, United Kingdom
 1 CHIL @I0030@
 1 CHIL @I0032@
@@ -874,4 +963,23 @@
 1 CHAN
 2 DATE 25 MAY 2026
 3 TIME 21:38:44
+0 @F0020@ FAM
+1 HUSB @I0049@
+1 WIFE @I0050@
+1 MARR
+2 TYPE Ethel Dorothy Ash to Henry Herbert Ash
+2 DATE 1934
+2 PLAC Middelsex, England, United Kingdom
+1 CHIL @I0020@
+1 CHIL @I0048@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 18:02:29
+0 @F0021@ FAM
+1 HUSB @I0051@
+1 WIFE @I0052@
+1 CHIL @I0019@
+1 CHAN
+2 DATE 28 MAY 2026
+3 TIME 17:57:19
 0 TRLR
