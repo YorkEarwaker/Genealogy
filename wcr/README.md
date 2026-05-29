@@ -148,6 +148,7 @@ Etymology
 National Archives - civilian & service
 * Australian National Archives, [WS](https://www.naa.gov.au/), AU
 * Records Search, [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), AU, Records Search, good quality, some records first search on earwaker, sparsity of records, 
+* Find My Past [WS](https://www.findmypast.com.au/), AU
 * Archival Institutions, [WS](https://directory.archivists.org.au/index.php/repository/browse), AU, service does not appear to be working, 
 * South Australian Museum [WS](https://www.samuseum.sa.gov.au/), AU
 * The Australian Institute of Aboriginal and Torres Strait Islander Studies [WS](https://aiatsis.gov.au/family-history/family-history-sources/official-records/electoral-rolls-and-voter-records), AU
@@ -162,7 +163,8 @@ National Archives - civilian & service
 * Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/), NZ, excellent service, for first pass genealogical search
 * National Library [WS](https://natlib.govt.nz/), NZ
 * Papers Past, [WS](https://paperspast.natlib.govt.nz/), NZ
-* National Archives UK
+* Christchurch Libraries, Family History, [WS](https://my.christchurchcitylibraries.com/family-history/), NZ
+* National Archives [WS](https://www.nationalarchives.gov.uk/), UK
 * Emigration Records, [WS](https://www.nls.uk/tools-for-research/family-history/emigration/), UK, NLS
 
 Service Records - service, army, navy, 

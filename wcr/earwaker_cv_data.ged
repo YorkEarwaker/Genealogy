@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 28 MAY 2026
-2 TIME 14:10:45
+1 DATE 29 MAY 2026
+2 TIME 17:21:42
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_cv_data.ged
 1 COPR Copyright (c) 2026 .
@@ -423,6 +423,10 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 DEAT
+2 TYPE George Earwaker DD
+2 DATE 1934
+2 PLAC New Zealand
 1 OCCU Justice of the Peace
 1 DSCR Singing social functions,
 1 OCCU Dairy Factory, Chairman of Directors
@@ -436,24 +440,28 @@
 3 CTRY New Zealand
 1 NOTE @N0019@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 13:21:58
+2 DATE 29 MAY 2026
+3 TIME 09:24:58
 0 @I0024@ INDI
-1 NAME Jean /?/
+1 NAME Jean /Earwaker/
 2 TYPE birth
 2 GIVN Jean
-2 SPFX ?
+2 SPFX Earwaker
 2 NPFX Mrs
 1 NAME J Earwaker //
-2 TYPE married
+2 TYPE birth
 2 GIVN J Earwaker
 1 NAME Miss Jean Earwaker //
 2 TYPE birth
 2 GIVN Miss Jean Earwaker
 1 SEX F
+1 BIRT
+2 TYPE Jean Earwaker BD
+2 DATE 1890
+2 PLAC New Zealand
 1 DSCR Singing social functions,
-1 DSCR Might have mixed records for mother J and daughter Jean
-1 FAMS @F0009@
+1 FAMC @F0009@
+2 PEDI birth
 1 RESI
 2 ADDR Tokonui
 3 CONT Southland
@@ -463,8 +471,8 @@
 3 CTRY New Zealand
 1 NOTE @N0019@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 13:56:30
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
 0 @I0025@ INDI
 1 NAME D /Earwaker/
 2 TYPE birth
@@ -502,14 +510,38 @@
 2 DATE 28 MAY 2026
 3 TIME 11:51:53
 0 @I0027@ INDI
-1 NAME C /Earwaker/
+1 NAME Charles Henry /Earwaker/
 2 TYPE birth
-2 GIVN C
+2 GIVN Charles Henry
 2 SPFX Earwaker
 2 NPFX Mr
+1 NAME C H Earwaker //
+2 TYPE birth
+2 GIVN C H Earwaker
+1 NAME C Earwaker //
+2 TYPE birth
+2 GIVN C Earwaker
+1 NAME Rev. C H Earwaker???? //
+2 TYPE birth
+2 GIVN Rev. C H Earwaker????
 1 SEX M
+1 DEAT
+2 TYPE Charles Henry Earwaker DD
+2 DATE 3 OCT 1921
+2 PLAC Christchurch, Canterbury, New Zealand
 1 RELI Methodism
+1 BURI
+2 TYPE Charles Henry Earwaker BrlD
+2 DATE OCT 1921
+2 PLAC Addington Cemetary, Christchurch, Canterbury, New Zealand
+3 MAP
+4 LATI S43.543496
+4 LONG E172.622465
+3 NOTE @N0030@
+1 OCCU Boiler Maker
 1 OCCU Librarian, Primitive Methodist Sunday School
+1 NATI ?Datchet, Acton, Buckinghamshire, England, United Kingdom
+1 FAMS @F0012@
 1 RESI
 2 ADDR Christchurch
 3 CONT New Zealand
@@ -518,8 +550,8 @@
 1 NOTE @N0022@
 1 NOTE @N0025@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 13:54:33
+2 DATE 29 MAY 2026
+3 TIME 16:02:30
 0 @I0028@ INDI
 1 NAME ? /Earwaker/
 2 TYPE birth
@@ -542,17 +574,28 @@
 2 DATE 28 MAY 2026
 3 TIME 12:14:50
 0 @I0029@ INDI
-1 NAME D. S /Earwaker/
+1 NAME David  Sams /Earwaker/
 2 TYPE birth
-2 GIVN D. S
+2 GIVN David  Sams
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 RELI Agnosticism
 1 DSCR Private, Trentham Camp, Dec 1916
+1 OCCU Farmer
+1 FAMC @F0012@
+2 PEDI birth
+1 RESI
+2 ADDR Diary Flat
+3 CONT Auckland
+3 CONT New Zealand
+3 CITY Diary Flat
+3 STAE Auckland
+3 CTRY New Zealand
 1 NOTE @N0023@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 13:38:14
+2 DATE 29 MAY 2026
+3 TIME 17:19:43
 0 @I0030@ INDI
 1 NAME W /Earwaker/
 2 TYPE birth
@@ -564,6 +607,413 @@
 1 CHAN
 2 DATE 28 MAY 2026
 3 TIME 13:50:30
+0 @I0031@ INDI
+1 NAME Agnes /Riddle/
+2 TYPE birth
+2 GIVN Agnes
+2 SPFX Riddle
+2 NPFX Mrs
+1 NAME Agnes Earwaker //
+2 TYPE married
+2 GIVN Agnes Earwaker
+1 SEX F
+1 DEAT
+2 TYPE Agnus Riddle DD
+2 DATE 1944
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMS @F0009@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 09:35:07
+0 @I0032@ INDI
+1 NAME Daisy /Earwaker/
+2 TYPE birth
+2 GIVN Daisy
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Daisy Earwaker BD
+2 DATE 1893
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0009@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
+0 @I0033@ INDI
+1 NAME Hazel /Earwaker/
+2 TYPE birth
+2 GIVN Hazel
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Hazel Earwaker BD
+2 DATE 1892
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0009@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
+0 @I0034@ INDI
+1 NAME Agnes Dorothy /Earwaker/
+2 TYPE birth
+2 GIVN Agnes Dorothy
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Agnes Dorothy BD
+2 DATE 1897
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE Agnes Dorothy DD
+2 DATE 1928
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0009@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
+0 @I0035@ INDI
+1 NAME David Andrew /Earwaker/
+2 TYPE birth
+2 GIVN David Andrew
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE David Andrew Earwaker BD
+2 DATE 1908
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE David Andrew Earwaker DD
+2 DATE 1980
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0009@
+2 PEDI birth
+1 FAMS @F0010@
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
+0 @I0036@ INDI
+1 NAME May /Earwaker/
+2 TYPE birth
+2 GIVN May
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE May Earwaker BD
+2 DATE 15 NOV 1892
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE May Earwaker DD
+2 DATE 1996
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0009@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
+0 @I0037@ INDI
+1 NAME George Herbert /Earwaker/
+2 TYPE birth
+2 GIVN George Herbert
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE George Herbert Earwaker BD
+2 DATE 1895
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE Herbet George Earwaker DD
+2 DATE 1974
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0009@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
+0 @I0038@ INDI
+1 NAME James Riddle /Earwaker/
+2 TYPE birth
+2 GIVN James Riddle
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Jame Riddle Earwaker BD
+2 DATE 29 MAR 1900
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE James Riddle Earwaker DD
+2 DATE 1987
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0009@
+2 PEDI birth
+1 FAMS @F0011@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 11:11:54
+0 @I0039@ INDI
+1 NAME Magdalene Campbell /Swan/
+2 TYPE birth
+2 GIVN Magdalene Campbell
+2 SPFX Swan
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0010@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 11:11:54
+0 @I0040@ INDI
+1 NAME Timothy Kay /Earwaker/
+2 TYPE birth
+2 GIVN Timothy Kay
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Timothy Kay Earwaker BD
+2 DATE 27 AUG 1943
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE Timothy Kay Earwaker DD
+2 DATE 27 AUG 1943
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0010@
+2 PEDI birth
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 12:40:45
+0 @I0041@ INDI
+1 NAME Michael David /Earwaker/
+2 TYPE birth
+2 GIVN Michael David
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Michael David Earwaker BD
+2 DATE 27 SEP 1937
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE Micheal David Earwaker DD
+2 DATE 2012
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0010@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 12:47:45
+0 @I0042@ INDI
+1 NAME Jeffery Robin /Earwaker/
+2 TYPE birth
+2 GIVN Jeffery Robin
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Jeffery Robin Earwaker BD
+2 DATE 13 DEC 1941
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE Jeffery Robin Earwaker DD
+2 DATE 2021
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0010@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 12:45:39
+0 @I0043@ INDI
+1 NAME Esther Catherine /Smart/
+2 TYPE birth
+2 GIVN Esther Catherine
+2 SPFX Smart
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0011@
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 11:11:54
+0 @I0044@ INDI
+1 NAME John David /Earwaker/
+2 TYPE birth
+2 GIVN John David
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE John David Earwaker BD
+2 DATE 1929
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0011@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 11:11:54
+0 @I0045@ INDI
+1 NAME James George /Earwaker/
+2 TYPE birth
+2 GIVN James George
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE James George Earwaker BD
+2 DATE 1933
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0011@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 11:11:54
+0 @I0046@ INDI
+1 NAME Elsie Elizabeth /Earwaker/
+2 TYPE birth
+2 GIVN Elsie Elizabeth
+2 SPFX Earwaker
+2 NPFX Mrs
+1 NAME Elsie E Earwaker //
+2 TYPE birth
+2 GIVN Elsie E Earwaker
+1 SEX F
+1 BIRT
+2 TYPE Elsie Elizabeth Earwaker BD
+2 DATE 1896
+2 NOTE @N0026@
+1 _DEG
+2 TYPE Elsie Elizabeth Earwaker MoS
+2 DATE 1918
+2 PLAC Victoria University of Wellington, Wellington, New Zealand
+2 NOTE @N0028@
+1 IDNO
+1 RESI
+2 ADDR Christchurch
+3 CONT Canterbury
+3 CONT New Zealand
+3 CITY Christchurch
+3 STAE Canterbury
+3 CTRY New Zealand
+2 NOTE @N0028@
+1 NOTE @N0026@
+1 NOTE @N0028@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 11:51:45
+0 @I0047@ INDI
+1 NAME Sarah Elizabeth /Henderson/
+2 TYPE birth
+2 GIVN Sarah Elizabeth
+2 SPFX Henderson
+2 NPFX Mrs
+1 NAME S. E. Earwaker //
+2 TYPE birth
+2 GIVN S. E. Earwaker
+1 SEX F
+1 DEAT
+2 TYPE Sarah Elizabeth Earwaker DD
+2 DATE 11 OCT 1938
+2 PLAC Christchurch, Canterbury, New Zealand
+2 NOTE @N0029@
+1 BURI
+2 TYPE Sarah Elizabeth Earwaker BrlD
+2 DATE 1938
+2 PLAC Addington Cemetary, Christchurch, Canterbury, New Zealand
+3 MAP
+4 LATI S43.543496
+4 LONG E172.622465
+3 NOTE @N0030@
+2 NOTE @N0029@
+1 NATI ?Bristol, Gloucester, England, United Kingdom
+1 FAMS @F0012@
+1 RESI
+2 ADDR 49 Dover Street
+3 CONT St. Albans
+3 CONT Christchurch
+3 CONT Cantabury
+3 CONT New Zealand
+3 ADR1 49 Dover Street
+3 ADR2 St. Albans
+3 CITY Christchurch
+3 STAE Cantabury
+3 CTRY New Zealand
+2 NOTE @N0029@
+1 RESI
+2 ADDR 53 Dover Street
+3 CONT St. Albans
+3 CONT Christchurch
+3 CONT Cantabury
+3 CONT New Zealand
+3 ADR1 53 Dover Street
+3 ADR2 St. Albans
+3 CITY Christchurch
+3 STAE Cantabury
+3 CTRY New Zealand
+1 NOTE @N0029@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 16:09:42
+0 @I0048@ INDI
+1 NAME Charles Henry /Earwaker/
+2 TYPE birth
+2 GIVN Charles Henry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 NATI American
+1 NOTE @N0031@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 15:44:10
+0 @I0049@ INDI
+1 NAME Samuel David /Earwaker/
+2 TYPE birth
+2 GIVN Samuel David
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 NOTE @N0032@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 16:59:24
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0015@
@@ -633,10 +1083,60 @@
 3 TIME 11:01:08
 0 @F0009@ FAM
 1 HUSB @I0023@
-1 WIFE @I0024@
+1 WIFE @I0031@
+1 MARR
+2 TYPE Agnes Riddle to George Earwaker
+2 DATE 1888
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 CHIL @I0024@
+1 CHIL @I0032@
+1 CHIL @I0033@
+1 CHIL @I0034@
+1 CHIL @I0035@
+1 CHIL @I0036@
+1 CHIL @I0037@
+1 CHIL @I0038@
+1 NOTE @N0026@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 11:06:28
+2 DATE 29 MAY 2026
+3 TIME 10:42:37
+0 @F0010@ FAM
+1 HUSB @I0035@
+1 WIFE @I0039@
+1 MARR
+2 TYPE Magdalene Campbell Swan to David Andrew Earwaker
+2 DATE 1935
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 CHIL @I0040@
+1 CHIL @I0041@
+1 CHIL @I0042@
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:41:01
+0 @F0011@ FAM
+1 HUSB @I0038@
+1 WIFE @I0043@
+1 MARR
+2 TYPE Esther CatherineSmart to James RiddleEarwaker
+2 DATE 1928
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 CHIL @I0044@
+1 CHIL @I0045@
+1 NOTE @N0026@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 10:54:39
+0 @F0012@ FAM
+1 HUSB @I0027@
+1 WIFE @I0047@
+1 CHIL @I0029@
+1 CHAN
+2 DATE 29 MAY 2026
+3 TIME 15:09:10
 0 @N0000@ NOTE https://www.wikitree.com/wiki/Earwaker-31
 1 CONT https://www.findagrave.com/memorial/184433900/mary-liddle
 1 CONT https://www.geni.com/people/Mary-Liddle/6000000039826065022
@@ -728,12 +1228,17 @@
 1 CONT https://paperspast.natlib.govt.nz/newspapers/ME18980428.2.29.4
 1 CONT https://digitalnz.org/records/4995244/tokonui-mataura-ensign-28-april-18
 1 CONC 98
+1 CONT https://paperspast.natlib.govt.nz/newspapers/ST18790512.2.21.2
+1 CONT https://digitalnz.org/records/6169395/page-3-advertisements-column-2-sou
+1 CONC thland-times-12-may-1879
 1 CONT 
 1 CONT 
 0 @N0020@ NOTE https://paperspast.natlib.govt.nz/newspapers/TS18970421.2.17
 1 CONT https://digitalnz.org/records/13896673/untitled-star-21-april-1897
 1 CONT https://teara.govt.nz/en/speech/27521/band-of-hope-temperance-pledge
-1 CONT 
+1 CONT https://paperspast.natlib.govt.nz/newspapers/HNS19090126.2.5
+1 CONT https://digitalnz.org/records/12358257/mount-egmont-hawera-normanby-star
+1 CONC -26-january-1909
 1 CONT 
 1 CONT 
 0 @N0021@ NOTE https://digitalnz.org/records/14885390/meetings-of-societies-star-0
@@ -748,12 +1253,28 @@
 1 CONT https://paperspast.natlib.govt.nz/newspapers/TS18981102.2.14
 1 CONT https://digitalnz.org/records/14093596/anniversary-celebration-star-02-n
 1 CONC ovember-1898
+1 CONT https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_p
+1 CONC id=IE75192855
+1 CONT https://collections.archives.govt.nz/en/web/arena/search#/entity/aims-ar
+1 CONC chive/R23086895/earwaker-charles-henry
 1 CONT 
 1 CONT 
 1 CONT 
-0 @N0023@ NOTE https://paperspast.natlib.govt.nz/newspapers/EP19161205.2.55
+1 CONT https://www.familysearch.org/ark:/61903/2:1:9XB5-PLS?lang=en
+0 @N0023@ NOTE https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?
+1 CONC dps_pid=IE10913930
+1 CONT https://collections.archives.govt.nz/web/arena/search/#/entity/aims-arch
+1 CONC ive/R20999832
+1 CONT https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C8154
+1 CONC 0
+1 CONT https://media.api.aucklandmuseum.com/id/media/v/320810?rendering=origina
+1 CONC l.jpg
+1 CONT 
+1 CONT https://paperspast.natlib.govt.nz/newspapers/EP19161205.2.55
 1 CONT https://digitalnz.org/records/19733121/trentham-camp-evening-post-05-dec
 1 CONC ember-1916
+1 CONT 
+1 CONT 
 1 CONT 
 1 CONT 
 1 CONT 
@@ -779,4 +1300,46 @@
 1 CONC ar-29-september-1890
 1 CONT 
 1 CONT 
+0 @N0026@ NOTE Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia
+1 CONC .govt.nz/), Archive, NZ, excellent service, 
+0 @N0027@ NOTE https://paperspast.natlib.govt.nz/newspapers/TS18911219.2.45.1
+1 CONT https://digitalnz.org/records/11715316/west-christchurch-school-star-19-
+1 CONC december-1891
+1 CONT 
+0 @N0028@ NOTE https://paperspast.natlib.govt.nz/newspapers/EP19180629.2.25
+1 CONT https://digitalnz.org/records/17074238/degrees-conferred-evening-post-29
+1 CONC -june-1918
+1 CONT https://paperspast.natlib.govt.nz/newspapers/WC19150120.2.58
+1 CONT https://digitalnz.org/records/26194388/senior-national-scholarships-wang
+1 CONC anui-chronicle-20-january-1915
+1 CONT 
+1 CONT 
+1 CONT 
+0 @N0029@ NOTE https://media.api.aucklandmuseum.com/id/media/v/320810?rendering=or
+1 CONC iginal.jpg
+1 CONT https://www.familysearch.org/ark:/61903/2:1:9XB5-PLS?lang=en
+1 CONT https://billiongraves.com/grave/Sarah-Elizabeth-Earwaker/7766663
+1 CONT https://collections.archives.govt.nz/en/web/arena/search#/entity/aims-ar
+1 CONC chive/R23119968/earwaker-sarah-elizabeth
+1 CONT https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_p
+1 CONC id=IE76727055
+1 CONT 
+1 CONT 
+0 @N0030@ NOTE https://my.christchurchcitylibraries.com/addington-cemetery/
+1 CONT https://billiongraves.com/cemetery/Addington-Cemetery/179257
+1 CONT 
+0 @N0031@ NOTE https://collections.archives.govt.nz/en/web/arena/search#/entity/ai
+1 CONC ms-archive/R24370947/earwaker%2C-charles-henry-(american)
+1 CONT https://collections.archives.govt.nz/en/web/arena/search#/entity/aims-ar
+1 CONC chive/R23651398/earwaker%2C-charles-henry---american
+1 CONT 
+0 @N0032@ NOTE Samuel D
+1 CONT https://paperspast.natlib.govt.nz/newspapers/EP19430129.2.49.2
+1 CONT https://digitalnz.org/records/19608071/air-casualties-evening-post-29-ja
+1 CONC nuary-1943
+1 CONT EARWAKER, Samuel D.. Warrant Officer, killed on active service. Mrs. P
+1 CONC . S. Earwaker, 12 Tweed Street, Richmond, Christchurch (w.).
+1 CONT 1917/12748	Earwaker	Samuel David	Lily Harris	William Samuel
+1 CONT 1941/4811	Phyllis Seyer	Washer	Samuel David	Earwaker
+1 CONT 1945/47886	Earwaker	Samuel David	26Y
 0 TRLR
