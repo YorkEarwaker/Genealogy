@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 29 MAY 2026
-2 TIME 17:21:42
+1 DATE 30 MAY 2026
+2 TIME 18:32:33
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_cv_data.ged
 1 COPR Copyright (c) 2026 .
@@ -580,11 +580,21 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 BIRT
+2 TYPE Earwaker David Sams BD
+2 DATE 8 MAR 1886
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE Earwaker David Sams DD
+2 DATE 1975
+2 PLAC New Zealand
 1 RELI Agnosticism
 1 DSCR Private, Trentham Camp, Dec 1916
 1 OCCU Farmer
 1 FAMC @F0012@
 2 PEDI birth
+1 FAMS @F0016@
 1 RESI
 2 ADDR Diary Flat
 3 CONT Auckland
@@ -593,20 +603,32 @@
 3 STAE Auckland
 3 CTRY New Zealand
 1 NOTE @N0023@
+1 NOTE @N0026@
 1 CHAN
-2 DATE 29 MAY 2026
-3 TIME 17:19:43
+2 DATE 30 MAY 2026
+3 TIME 09:48:48
 0 @I0030@ INDI
-1 NAME W /Earwaker/
+1 NAME William Samuel /Earwaker/
 2 TYPE birth
-2 GIVN W
+2 GIVN William Samuel
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 BIRT
+2 TYPE William Samuel Earwaker BD
+2 DATE 18 JUN 1884
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 DEAT
+2 TYPE William Samuel Earwaker DD
+2 DATE 1978
+2 PLAC New Zealand
+1 FAMS @F0015@
 1 NOTE @N0024@
+1 NOTE @N0026@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 13:50:30
+2 DATE 30 MAY 2026
+3 TIME 09:35:53
 0 @I0031@ INDI
 1 NAME Agnes /Riddle/
 2 TYPE birth
@@ -918,7 +940,12 @@
 1 BIRT
 2 TYPE Elsie Elizabeth Earwaker BD
 2 DATE 1896
+2 PLAC New Zealand
 2 NOTE @N0026@
+1 DEAT
+2 TYPE Elsie Elizabeth Earwaker DD
+2 DATE 1939
+2 PLAC New Zealand
 1 _DEG
 2 TYPE Elsie Elizabeth Earwaker MoS
 2 DATE 1918
@@ -936,8 +963,8 @@
 1 NOTE @N0026@
 1 NOTE @N0028@
 1 CHAN
-2 DATE 29 MAY 2026
-3 TIME 11:51:45
+2 DATE 30 MAY 2026
+3 TIME 18:25:17
 0 @I0047@ INDI
 1 NAME Sarah Elizabeth /Henderson/
 2 TYPE birth
@@ -1001,8 +1028,8 @@
 1 NATI American
 1 NOTE @N0031@
 1 CHAN
-2 DATE 29 MAY 2026
-3 TIME 15:44:10
+2 DATE 30 MAY 2026
+3 TIME 17:21:44
 0 @I0049@ INDI
 1 NAME Samuel David /Earwaker/
 2 TYPE birth
@@ -1010,10 +1037,450 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 FAMC @F0015@
+2 PEDI birth
 1 NOTE @N0032@
 1 CHAN
-2 DATE 29 MAY 2026
-3 TIME 16:59:24
+2 DATE 30 MAY 2026
+3 TIME 16:44:57
+0 @I0050@ INDI
+1 NAME Malcolm Cyril /Earwaker/
+2 TYPE birth
+2 GIVN Malcolm Cyril
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Malcolm Cyril Earwaker BD
+2 DATE 1900
+2 PLAC New Zealand
+1 DEAT
+2 TYPE Malcolm Cyril Earwaker DD
+2 DATE 1926
+2 PLAC New Zealand
+1 FAMC @F0012@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 08:40:32
+0 @I0052@ INDI
+1 NAME Edgar /Earwaker/
+2 TYPE birth
+2 GIVN Edgar
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Edgar Earwaker BD
+2 DATE 1890
+2 PLAC New Zealand
+1 DEAT
+2 TYPE Edgar Earwaker DD
+2 DATE 1966
+2 PLAC New Zealand
+1 FAMC @F0012@
+2 PEDI birth
+1 FAMS @F0020@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:04
+0 @I0053@ INDI
+1 NAME Eva /Earwaker/
+2 TYPE birth
+2 GIVN Eva
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Earwaker Eva BD
+2 DATE 1892
+2 PLAC New Zealand
+1 DEAT
+2 TYPE Eva Earwaker DD
+2 PLAC New Zealand
+1 FAMC @F0012@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 08:40:32
+0 @I0054@ INDI
+1 NAME Kemble Cyril /Earwaker/
+2 TYPE birth
+2 GIVN Kemble Cyril
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Earwaker Kemble Cyril BD
+2 DATE 1894
+2 PLAC New Zealand
+2 NOTE @N0026@
+1 FAMC @F0012@
+2 PEDI birth
+1 NOTE @N0026@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 08:40:32
+0 @I0055@ INDI
+1 NAME William Stephen /Earwaker/
+2 TYPE birth
+2 GIVN William Stephen
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE William Stephen Earwaker BD
+2 DATE 23 JAN 1905
+1 DEAT
+2 TYPE William Stephen Earwaker DD
+2 DATE 1972
+2 PLAC New Zealand
+1 FAMS @F0013@
+1 FAMS @F0014@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 09:36:13
+0 @I0056@ INDI
+1 NAME Marjorie May /?/
+2 TYPE birth
+2 GIVN Marjorie May
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 DEAT
+2 TYPE Marjorie May Earwaker DD
+2 DATE 1938
+2 PLAC New Zealand
+1 FAMS @F0013@
+1 NOTE @N0026@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:59
+0 @I0057@ INDI
+1 NAME Derek Burdass /Earwaker/
+2 TYPE birth
+2 GIVN Derek Burdass
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Derek Burdass Earwaker BD
+2 DATE 28 AUG 1931
+2 PLAC New Zealand
+1 DEAT
+2 TYPE Derek Burdass Earwaker DD
+2 DATE 2004
+2 PLAC New Zealand
+1 FAMC @F0013@
+2 PEDI birth
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:44
+0 @I0058@ INDI
+1 NAME John William /Earwaker/
+2 TYPE birth
+2 GIVN John William
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE EarwakerJohn William
+2 DATE 1929
+2 PLAC New Zealand
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0019@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:10:46
+0 @I0059@ INDI
+1 NAME Emily May /Struthers/
+2 TYPE birth
+2 GIVN Emily May
+2 SPFX Struthers
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0014@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 09:36:13
+0 @I0060@ INDI
+1 NAME Dorothy Mae /Earwaker/
+2 TYPE birth
+2 GIVN Dorothy Mae
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Dorothy Mae Earwaker BD
+2 DATE 1944
+2 PLAC New Zealand
+1 FAMC @F0014@
+2 PEDI birth
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:44
+0 @I0061@ INDI
+1 NAME Lily Harris /Moore/
+2 TYPE birth
+2 GIVN Lily Harris
+2 SPFX Moore
+2 NPFX Mrs
+1 SEX F
+1 DEAT
+2 TYPE Earwaker Lily Harris
+2 DATE 1967
+2 PLAC New Zealand
+1 FAMS @F0015@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 16:44:49
+0 @I0062@ INDI
+1 NAME Annie /Body/
+2 TYPE birth
+2 GIVN Annie
+2 SPFX Body
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Annie Earwaker BD
+2 DATE 4 JUL 1893
+2 PLAC New Zealand
+1 DEAT
+2 TYPE Annie Earwaker DD
+2 DATE 1983
+1 FAMS @F0016@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 18:14:24
+0 @I0063@ INDI
+1 NAME William Benjamin /Earwaker/
+2 TYPE birth
+2 GIVN William Benjamin
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE William Benjamin Earwaker BD
+2 DATE 8 APR 1913
+2 PLAC New Zealand
+1 DEAT
+2 TYPE William Benjamin Earwaker DD
+2 DATE 1997
+2 PLAC New Zealand
+1 FAMC @F0015@
+2 PEDI birth
+1 FAMS @F0017@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 16:44:57
+0 @I0064@ INDI
+1 NAME Gladys Phyllis Alice /Cain/
+2 TYPE birth
+2 GIVN Gladys Phyllis Alice
+2 SPFX Cain
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0017@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:59
+0 @I0065@ INDI
+1 NAME Lesley Henderson /Earwaker/
+2 TYPE birth
+2 GIVN Lesley Henderson
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Lesley Henderson Earwaker BD
+2 DATE 1919
+2 PLAC New Zealand
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:25:20
+0 @I0066@ INDI
+1 NAME Graham Jan /Earwaker/
+2 TYPE birth
+2 GIVN Graham Jan
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Graham Jan Earwaker BD
+2 DATE 1939
+2 PLAC New Zealand
+1 FAMC @F0017@
+2 PEDI birth
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:29
+0 @I0067@ INDI
+1 NAME William Alfred /Earwaker/
+2 TYPE birth
+2 GIVN William Alfred
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0018@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:29
+0 @I0068@ INDI
+1 NAME Ellen Margaret /Carrie/
+2 TYPE birth
+2 GIVN Ellen Margaret
+2 SPFX Carrie
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0018@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:59
+0 @I0069@ INDI
+1 NAME Joy Lynette /Murray/
+2 TYPE birth
+2 GIVN Joy Lynette
+2 SPFX Murray
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0019@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:29
+0 @I0070@ INDI
+1 NAME Mary Francies /Robertson/
+2 TYPE birth
+2 GIVN Mary Francies
+2 SPFX Robertson
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0020@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:21:44
+0 @I0071@ INDI
+1 NAME Edgar Charles /Earwaker/
+2 TYPE birth
+2 GIVN Edgar Charles
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Edgar Charles Earwaker BD
+2 DATE 1918
+2 PLAC New Zealand
+1 FAMC @F0020@
+2 PEDI birth
+1 FAMS @F0021@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:34:54
+0 @I0072@ INDI
+1 NAME Rosa Helen /Earwaker/
+2 TYPE birth
+2 GIVN Rosa Helen
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Rosa Helen Earwaker BD
+2 DATE 1916
+1 FAMC @F0020@
+2 PEDI birth
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:30:51
+0 @I0073@ INDI
+1 NAME Margaret Josephine /Bellenger/
+2 TYPE birth
+2 GIVN Margaret Josephine
+2 SPFX Bellenger
+2 NPFX Mrs
+1 SEX F
+1 FAMS @F0021@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:49:04
+0 @I0074@ INDI
+1 NAME Elizabeth Ellen /Earwaker/
+2 TYPE birth
+2 GIVN Elizabeth Ellen
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 DEAT
+2 TYPE Elizabeth Ellen Earwaker BD
+2 DATE 1941
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:54:49
+0 @I0075@ INDI
+1 NAME Beatrice Maud /Earwaker/
+2 TYPE birth
+2 GIVN Beatrice Maud
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 DEAT
+2 TYPE Beatrice Maud Earwaker DD
+2 DATE 1963
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 18:02:25
+0 @I0076@ INDI
+1 NAME Walter John /Earwaker/
+2 TYPE birth
+2 GIVN Walter John
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 DEAT
+2 TYPE Walter John Earwaker DD
+2 DATE 1965
+2 PLAC New Zealand
+1 NOTE @N0026@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 18:06:32
+0 @I0077@ INDI
+1 NAME Harry /Earwaker/
+2 TYPE birth
+2 GIVN Harry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Harry Earwaker BD
+2 DATE 13 JAN 1917
+2 PLAC New Zealand
+1 DEAT
+2 TYPE Harry Earwaker DD
+2 DATE 1997
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 18:11:06
+0 @I0078@ INDI
+1 NAME Violet Beatrice /Earwaker/
+2 TYPE birth
+2 GIVN Violet Beatrice
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 DEAT
+2 TYPE Violet Beatrice Earwaker DD
+2 DATE 1934
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 18:21:43
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0015@
@@ -1134,9 +1601,108 @@
 1 HUSB @I0027@
 1 WIFE @I0047@
 1 CHIL @I0029@
+1 CHIL @I0050@
+1 CHIL @I0052@
+1 CHIL @I0053@
+1 CHIL @I0054@
+1 NOTE @N0026@
 1 CHAN
-2 DATE 29 MAY 2026
-3 TIME 15:09:10
+2 DATE 30 MAY 2026
+3 TIME 17:44:57
+0 @F0013@ FAM
+1 HUSB @I0055@
+1 WIFE @I0056@
+1 CHIL @I0057@
+1 CHIL @I0058@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 09:22:31
+0 @F0014@ FAM
+1 HUSB @I0055@
+1 WIFE @I0059@
+1 MARR
+2 TYPE Emily May Struthers to William Stephen Earwaker
+2 DATE 1939
+2 PLAC New Zealand
+1 CHIL @I0060@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 09:29:41
+0 @F0015@ FAM
+1 HUSB @I0030@
+1 WIFE @I0061@
+1 MARR
+2 TYPE Lily Harris Moore to William Samuel Earwaker
+2 DATE 1912
+2 PLAC New Zealand
+1 CHIL @I0063@
+1 CHIL @I0049@
+1 CHIL @I0065@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 16:44:57
+0 @F0016@ FAM
+1 HUSB @I0029@
+1 WIFE @I0062@
+1 MARR
+2 TYPE Annie Body to David Sams Earwaker
+2 DATE 1921
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 09:48:55
+0 @F0017@ FAM
+1 HUSB @I0063@
+1 WIFE @I0064@
+1 MARR
+2 TYPE Gladys Phyllis Alice Cain  to William Benjamin Earwaker
+2 DATE 1936
+1 CHIL @I0066@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 16:52:03
+0 @F0018@ FAM
+1 HUSB @I0067@
+1 WIFE @I0068@
+1 MARR
+2 TYPE Ellen Margaret Carrie to William Alfred Earwaker
+2 DATE 1931
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:05:26
+0 @F0019@ FAM
+1 HUSB @I0058@
+1 WIFE @I0069@
+1 MARR
+2 TYPE Joy Lynette Murray to John William Earwaker
+2 DATE 1951
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:10:58
+0 @F0020@ FAM
+1 HUSB @I0052@
+1 WIFE @I0070@
+1 MARR
+2 TYPE Mary Francies to Robertson Edgar Earwaker
+2 DATE 1913
+2 PLAC New Zealand
+1 CHIL @I0071@
+1 CHIL @I0072@
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:30:51
+0 @F0021@ FAM
+1 HUSB @I0071@
+1 WIFE @I0073@
+1 MARR
+2 TYPE Margaret Josephine Bellenger  to Edgar Charles Earwaker
+2 DATE 1946
+2 PLAC New Zealand
+1 CHAN
+2 DATE 30 MAY 2026
+3 TIME 17:35:01
 0 @N0000@ NOTE https://www.wikitree.com/wiki/Earwaker-31
 1 CONT https://www.findagrave.com/memorial/184433900/mary-liddle
 1 CONT https://www.geni.com/people/Mary-Liddle/6000000039826065022
@@ -1274,6 +1840,9 @@
 1 CONT https://digitalnz.org/records/19733121/trentham-camp-evening-post-05-dec
 1 CONC ember-1916
 1 CONT 
+1 CONT https://paperspast.natlib.govt.nz/newspapers/TS18961219.2.62.1
+1 CONT https://digitalnz.org/records/13692825/west-christchurch-star-19-decembe
+1 CONC r-1896
 1 CONT 
 1 CONT 
 1 CONT 
@@ -1306,6 +1875,8 @@
 1 CONT https://digitalnz.org/records/11715316/west-christchurch-school-star-19-
 1 CONC december-1891
 1 CONT 
+1 CONT https://natlib.govt.nz/records/21086968?search%5Bpath%5D=items&search%5B
+1 CONC text%5D=West+Christchurch+School
 0 @N0028@ NOTE https://paperspast.natlib.govt.nz/newspapers/EP19180629.2.25
 1 CONT https://digitalnz.org/records/17074238/degrees-conferred-evening-post-29
 1 CONC -june-1918
@@ -1342,4 +1913,22 @@
 1 CONT 1917/12748	Earwaker	Samuel David	Lily Harris	William Samuel
 1 CONT 1941/4811	Phyllis Seyer	Washer	Samuel David	Earwaker
 1 CONT 1945/47886	Earwaker	Samuel David	26Y
+0 @N0033@ NOTE 
+1 CONT https://en.wikipedia.org/wiki/Ashburton,_New_Zealand
+1 CONT https://geohack.toolforge.org/geohack.php?pagename=Ashburton,_New_Zealan
+1 CONC d&params=43_54_20_S_171_44_44_E_region:NZ_type:city(21600)
+0 @N0034@ NOTE https://natlib.govt.nz/records/22429463
+1 CONT https://digitalnz.org/records/3259653/untitled-ashburton-guardian-31-mar
+1 CONC ch-1891
+1 CONT https://paperspast.natlib.govt.nz/newspapers/AG18910331.2.6
+1 CONT 
+1 CONT 
+1 CONT 
+0 @N0035@ NOTE https://paperspast.natlib.govt.nz/newspapers/TS18921209.2.26
+1 CONT https://natlib.govt.nz/records/12282300?search%5Bpath%5D=items&search%5B
+1 CONC text%5D=earwaker+%2B+st+Stephen%27s+church+
+1 CONT 
+1 CONT 
+1 CONT 
+1 CONT 
 0 TRLR

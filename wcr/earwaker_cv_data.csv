@@ -10,9 +10,12 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0008],,New Zealand,Country,,,,,
 [P0009],,"Christchurch, Canterbury, New Zealand",City,,,,,
 [P0010],,West Christchurch School,Building,,,,[P0009],
-[P0011],,"Wellington, New Zealand",Unknown,,,,,
-[P0012],,Victoria University of Wellington,Unknown,,,,[P0011],
+[P0011],,"Wellington, New Zealand",City,,,,,
+[P0012],,Victoria University of Wellington,Building,,,,[P0011],
 [P0013],,Addington Cemetary,Building,-43.543496,172.622465,,[P0009],
+[P0014],,"Ashburton, Canterbury, New Zealand",City,-43.905556,171.745556,,,
+[P0015],,St. Stephen's Church,Building,,,,[P0014],
+[P0016],,"Primitive Methodist Church, Cambridge terrace",Building,,,,[P0009],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0008],,?,,,,?,Mrs,female,,,,,,,,,,,,,
@@ -22,20 +25,33 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0031],,Agnes,,,,Riddle,Mrs,female,,,,,,,1944,[P0008],,,,,
 [I0034],,Agnes Dorothy,,,,Earwaker,Mrs,female,1897,[P0008],,,,,1928,[P0008],,,,,
 [I0015],,Alice,,,,Nagalia,Mrs,female,,,,,,,,,,,,,
+[I0062],,Annie,,,,Body,Mrs,female,1893-07-04,[P0008],,,,,1983,,,,,,
+[I0075],,Beatrice Maud,,,,Earwaker,Mrs,female,,,,,,,1963,[P0008],,,,,
 [I0017],,Bob,,,,Purvis,Mr,male,,,,,,,,,,,,,
 [I0027],,Charles Henry,,,,Earwaker,Mr,male,,,,,,,1921-10-03,[P0009],,1921-10,[P0013],,
 [I0048],,Charles Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0025],,D,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0032],,Daisy,,,,Earwaker,Mrs,female,1893,[P0008],,,,,,,,,,,
-[I0029],,David  Sams,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0029],,David  Sams,,,,Earwaker,Mr,male,1886-03-08,[P0008],,,,,1975,[P0008],,,,,
 [I0035],,David Andrew,,,,Earwaker,Mr,male,1908,[P0008],,,,,1980,[P0008],,,,,
-[I0046],,Elsie Elizabeth,,,,Earwaker,Mrs,female,1896,,,,,,,,,,,,
+[I0057],,Derek Burdass,,,,Earwaker,Mr,male,1931-08-28,[P0008],,,,,2004,[P0008],,,,,
+[I0060],,Dorothy Mae,,,,Earwaker,Mrs,female,1944,[P0008],,,,,,,,,,,
+[I0052],,Edgar,,,,Earwaker,Mr,male,1890,[P0008],,,,,1966,[P0008],,,,,
+[I0071],,Edgar Charles,,,,Earwaker,Mr,male,1918,[P0008],,,,,,,,,,,
+[I0074],,Elizabeth Ellen,,,,Earwaker,Mrs,female,,,,,,,1941,[P0008],,,,,
+[I0068],,Ellen Margaret,,,,Carrie,Mrs,female,,,,,,,,,,,,,
+[I0046],,Elsie Elizabeth,,,,Earwaker,Mrs,female,1896,[P0008],,,,,1939,[P0008],,,,,
+[I0059],,Emily May,,,,Struthers,Mrs,female,,,,,,,,,,,,,
 [I0018],,Ernest,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0043],,Esther Catherine,,,,Smart,Mrs,female,,,,,,,,,,,,,
+[I0053],,Eva,,,,Earwaker,Mrs,female,1892,[P0008],,,,,,[P0008],,,,,
 [I0005],,F. W.,,,,Duminski,Mrs,female,,,,,,,,,,,,,
 [I0023],,George,,,,Earwaker,Mr,male,,,,,,,1934,[P0008],,,,,
 [I0037],,George Herbert,,,,Earwaker,Mr,male,1895,[P0008],,,,,1974,[P0008],,,,,
 [I0004],,Gertrude May,,,,Duminski,Mrs,female,,,,,,,,,,,,,
+[I0064],,Gladys Phyllis Alice,,,,Cain,Mrs,female,,,,,,,,,,,,,
+[I0066],,Graham Jan,,,,Earwaker,Mr,male,1939,[P0008],,,,,,,,,,,
+[I0077],,Harry,,,,Earwaker,Mr,male,1917-01-13,[P0008],,,,,1997,[P0008],,,,,
 [I0033],,Hazel,,,,Earwaker,Mrs,female,1892,[P0008],,,,,,,,,,,
 [I0002],,Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0003],,J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -48,14 +64,24 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0044],,John David,,,,Earwaker,Mr,male,1929,[P0008],,,,,,,,,,,
 [I0006],,John G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0010],,John G,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0058],,John William,,,,Earwaker,Mr,male,1929,[P0008],,,,,,,,,,,
+[I0069],,Joy Lynette,,,,Murray,Mrs,female,,,,,,,,,,,,,
+[I0054],,Kemble Cyril,,,,Earwaker,Mr,male,1894,[P0008],,,,,,,,,,,
+[I0065],,Lesley Henderson,,,,Earwaker,Mrs,female,1919,[P0008],,,,,,,,,,,
+[I0061],,Lily Harris,,,,Moore,Mrs,female,,,,,,,1967,[P0008],,,,,
 [I0026],,M,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0039],,Magdalene Campbell,,,,Swan,Mrs,female,,,,,,,,,,,,,
+[I0050],,Malcolm Cyril,,,,Earwaker,Mr,male,1900,[P0008],,,,,1926,[P0008],,,,,
+[I0073],,Margaret Josephine,,,,Bellenger,Mrs,female,,,,,,,,,,,,,
 [I0009],,Marjorie C.,,,,Woolnough,Mrs,female,,,,,,,,,,,,,
+[I0056],,Marjorie May,,,,?,Mrs,female,,,,,,,1938,[P0008],,,,,
 [I0000],,Mary,,,,Earwaker,Mrs,female,,,,,,,1965-01-29,[P0006],,1965-02-01,[P0007],,
+[I0070],,Mary Francies,,,,Robertson,Mrs,female,,,,,,,,,,,,,
 [I0036],,May,,,,Earwaker,Mrs,female,1892-11-15,[P0008],,,,,1996,[P0008],,,,,
 [I0041],,Michael David,,,,Earwaker,Mr,male,1937-09-27,[P0008],,,,,2012,[P0008],,,,,
 [I0021],,Olga,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0022],,Richard,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0072],,Rosa Helen,,,,Earwaker,Mrs,female,1916,,,,,,,,,,,,
 [I0001],,Rose,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0049],,Samuel David,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0047],,Sarah Elizabeth,,,,Henderson,Mrs,female,,,,,,,1938-10-11,[P0009],,1938,[P0013],,
@@ -63,8 +89,13 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0019],,Suzanne M.,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0012],,T. C.,,,,Woolnough,Mr,male,,,,,,,,,,,,,
 [I0040],,Timothy Kay,,,,Earwaker,Mr,male,1943-08-27,[P0008],,,,,1943-08-27,[P0008],,,,,
-[I0030],,W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0078],,Violet Beatrice,,,,Earwaker,Mrs,female,,,,,,,1934,[P0008],,,,,
+[I0076],,Walter John,,,,Earwaker,Mr,male,,,,,,,1965,[P0008],,,,,
 [I0016],,William ?,,,,Liddle,Mr,male,,,,,,,,,,,,,
+[I0067],,William Alfred,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0063],,William Benjamin,,,,Earwaker,Mr,male,1913-04-08,[P0008],,,,,1997,[P0008],,,,,
+[I0030],,William Samuel,,,,Earwaker,Mr,male,1884-06-18,[P0008],,,,,1978,[P0008],,,,,
+[I0055],,William Stephen,,,,Earwaker,Mr,male,1905-01-23,,,,,,1972,[P0008],,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
 [F0000],[I0002],[I0015],,,,
@@ -80,6 +111,15 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0010],[I0035],[I0039],1935,[P0008],,
 [F0011],[I0038],[I0043],1928,[P0008],,
 [F0012],[I0027],[I0047],,,,
+[F0013],[I0055],[I0056],,,,
+[F0014],[I0055],[I0059],1939,[P0008],,
+[F0015],[I0030],[I0061],1912,[P0008],,
+[F0016],[I0029],[I0062],1921,[P0008],,
+[F0017],[I0063],[I0064],1936,,,
+[F0018],[I0067],[I0068],1931,[P0008],,
+[F0019],[I0058],[I0069],1951,[P0008],,
+[F0020],[I0052],[I0070],1913,[P0008],,
+[F0021],[I0071],[I0073],1946,[P0008],,
 
 Family,Child
 [F0000],[I0000]
@@ -102,4 +142,17 @@ Family,Child
 [F0011],[I0044]
 [F0011],[I0045]
 [F0012],[I0029]
+[F0012],[I0050]
+[F0012],[I0052]
+[F0012],[I0053]
+[F0012],[I0054]
+[F0013],[I0057]
+[F0013],[I0058]
+[F0014],[I0060]
+[F0015],[I0063]
+[F0015],[I0049]
+[F0015],[I0065]
+[F0017],[I0066]
+[F0020],[I0071]
+[F0020],[I0072]
 

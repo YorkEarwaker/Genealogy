@@ -148,7 +148,7 @@ Etymology
 National Archives - civilian & service
 * Australian National Archives, [WS](https://www.naa.gov.au/), AU
 * Records Search, [WS](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx), AU, Records Search, good quality, some records first search on earwaker, sparsity of records, 
-* Find My Past [WS](https://www.findmypast.com.au/), AU
+* Find My Past [WS](https://www.findmypast.com.au/), AU, paid service?
 * Archival Institutions, [WS](https://directory.archivists.org.au/index.php/repository/browse), AU, service does not appear to be working, 
 * South Australian Museum [WS](https://www.samuseum.sa.gov.au/), AU
 * The Australian Institute of Aboriginal and Torres Strait Islander Studies [WS](https://aiatsis.gov.au/family-history/family-history-sources/official-records/electoral-rolls-and-voter-records), AU
@@ -158,6 +158,7 @@ National Archives - civilian & service
 * Digitized microforms, [WS](https://recherche-collection-search.bac-lac.gc.ca/eng/digitized-archives/index), CA
 * Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), NZ
 * DigitalNZ, [WS](https://digitalnz.org/), NZ
+* Collections [WS](https://natlib.govt.nz/collections), NZ, National Library listing of searchable collections of things
 * Collections Search [WS](https://collections.archives.govt.nz/web/arena#/), Archive, NZ
 * New Zealand Archives and Libraries, [WS](https://www.familysearch.org/en/wiki/New_Zealand_Archives_and_Libraries), Family Search, NZ, <todo: consider, not sure what to think about Family Search, ponder more >
 * Births Deaths & Marriages [WS](https://www.bdmhistoricalrecords.dia.govt.nz/), NZ, excellent service, for first pass genealogical search
