@@ -32,7 +32,7 @@ DONE
 ### Libs
 
 Genealogy
-* Gramps, [WP](https://en.wikipedia.org/wiki/Gramps_(software)), wiki [WS](https://www.gramps-project.org/wiki/index.php/Main_page), Python, evaluating, 
+* Gramps, org [WP](https://en.wikipedia.org/wiki/Gramps_(software)), wiki [WS](https://www.gramps-project.org/wiki/index.php/Main_page), Discord [WS](https://gramps.discourse.group/), Python, evaluating, 
 * ...
 
 ## References

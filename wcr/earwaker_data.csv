@@ -26,13 +26,59 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0025],,Scotland,Country,,,,,
 [P0026],,Pakistan,Country,,,,,
 [P0027],,England,Country,,,,,
-[P0028],,"Winchester, Hampshire, England, United Kingdom",Unknown,,,,,
+[P0028],,"Winchester, Hampshire, England, United Kingdom",City,,,,,
 [P0029],,"Warwick, Warwickshire, England, United Kingdom",City,,,,,
+[P0030],,Chile,Country,,,,,
+[P0031],,"1 Sheppards Close, N6 5AG",Building,,,,[P0014],
+[P0032],,"15 Jack Barnett Way, N22 6SZ",Building,,,,[P0014],
+[P0033],,"13 Highworth Road, N11 2SL",Building,,,,[P0014],
+[P0034],,"Flat 2, 114B Langham Rd, N15 3LX",Building,,,,[P0014],
+[P0035],,"186? Tower Gardens Road, N17 7PE",Building,,,,[P0014],
+[P0036],,"Flat ??, Finchley Road? NW3 me 6?",Building,,,,[P0014],
+[P0037],,Elizabeth Ash's last dwelling <todo: get address>,Building,,,,[P0018],
+[P0038],,"Santiago, Region Metropolitana, Chile",City,,,,,
+[P0039],,House 1 - on a hill,Building,,,,[P0038],
+[P0040],,House 2 -  concrete,Building,,,,[P0038],
+[P0041],,"Ankara, Ankara, Turkey",City,,,,,
+[P0042],,"Flat, <todo: find address>",Unknown,,,,[P0041],
+[P0043],,School Nursery <todo: find name address>,Unknown,,,,[P0041],
+[P0044],,210? Duke St?,Building,,,,[P0007],
+[P0045],,2934 Newark St NW,Building,,,,[P0012],
+[P0046],,John Eaton Elementary School,Building,,,,[P0012],
+[P0047],,Washington International School,Building,,,,[P0012],
+[P0048],,"Fairfax County, Virginia, United States",County,,,,,
+[P0049],,"6208? Waterway Dr, Lake Barcroft,",Building,,,,[P0048],
+[P0050],,School,Building,,,,[P0048],
+[P0051],,Chilean school primary,Building,,,,[P0038],
+[P0052],,Nido de Aguilas,Building,,,,[P0038],
+[P0053],,Q St NW,Building,,,,[P0012],
+[P0054],,P St? NW,Building,,,,[P0012],
+[P0055],,"74A Andover Rd, Winchester SO22 6AG",Building,,,,[P0028],
+[P0056],,"Mahen's family home, <todo: get address>",Building,,,,[P0013],
+[P0057],,dad and carmen's last home together,Building,,,,[P0017],
+[P0058],,English Cemetary? FrJ ancis Earwaker grave,Building,,,,[P0017],
+[P0059],,Elizabeth D Ash's grave?,Unknown,,,,[P0018],
+[P0060],,"Creighton School, 65 Twyford Ave, N2 9NP",Building,,,,[P0014],
+[P0061],,Middlesex University,Building,,,,[P0014],
+[P0062],,"Primary School, NW3? Finchley Road?",Building,,,,[P0014],
+[P0063],,Tottenham College of Technology,Building,,,,[P0014],
+[P0064],,Turkey,Country,,,,,
+[P0065],,London School of Economics,Building,,,,[P0014],
+[P0066],,"Flat ??, Belzise Park me 0-2 62-64/5?",Building,,,,[P0014],
+[P0067],,Home 1 short stay on arrival,Building,,,,[P0048],
+[P0068],,"Camden Art Centre, Arkwright Road, NW3 6DG",Building,,,,[P0014],
+[P0069],,"Room 3?, 14 Lancaster Road, N11 1TB",Building,,,,[P0014],
+[P0070],,"Flat 2, 63B Belmont Ave, N17 6AX",Building,,,,[P0014],
+[P0071],,"Apt 2, 1564? 33rd St NW",Building,,,,[P0012],
+[P0072],,"Sandy Springs, Montgomery, Maryland, USA",Town,,,,,
+[P0073],,"Marden, Marden Lane, 1702 MD-108, Olney Sandy Spring Road",Building,,,,[P0072],
+[P0074],,"Georgetown University, McDonough Arena",Unknown,,,,[P0012],
+[P0075],,Tree House,Building,,,,[P0040],
+[P0076],,Tree House,Building,,,,[P0045],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
-[I0048],,? Brother of Ethel,,,,Bradley,Mr,male,,,,,,,,,,,,,
-[I0049],,? Father of Ethel D,,,,Bradley,Mr,male,,,,,,,,,,,,,
-[I0050],,? Mother of Ethel D,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0068],,? daughter of margarita v,,,,?,Mrs,female,,[P0022],,,,,,,,,,,
+[I0050],,Alice Annie,,,,Tribe,Mrs,female,1882,,,,,,,,,,,,
 [I0015],,Angela Eugenia,,,,Alcaine,Mrs,female,,[P0006],,,,,2013,,,,,,
 [I0028],,Ann,,,,Robson,Mrs,female,,,,,,,,,,,,,
 [I0041],,Arif,,,,Khan,Mr,male,,[P0016],,,,,,,,,,,
@@ -49,7 +95,11 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0029],,Eva,,,,Sicka,Mrs,female,1964-06-06,[P0013],,,,,,,,,,,
 [I0043],,Father of Arif,,,,Khan,Mr,male,,,,,,,,,,,,,
 [I0017],,Father of Carmen & Eugenia,,,,Alcaine,Snr,male,,,,,,,,,,,,,
+[I0065],,Fernanda,,,,?,Mrs,female,1958?,[P0030],,,,,,,,,,,
+[I0066],,Fernandas mother,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0000],,Francis Joseph,,Charlie,,Earwaker,Mr,male,1936-07-16,[P0001],,,,,,[P0017],,,,,
+[I0048],,Frederick,,,,Bradley,Mr,male,1907,[P0027],,,,,,,,,,,
+[I0049],,Frederick,,,,Bradley,Mr,male,1881,[P0027],,,,,,,,,,,
 [I0058],,George Charles,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0021],,Hannah Sarah,,,,Rose,Mrs,female,1837,[P0001],,,,,,,,,,,
 [I0034],,Helen,,,,?,Mrs,female,,,,,,,,,,,,,
@@ -66,10 +116,12 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0045],,Kieran,,,,O'Conner,Mr,male,,,,,,,,,,,,,
 [I0030],,Kiran York,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0039],,Laura,,,,Marshall,Mrs,female,,,,,,,,,,,,,
+[I0062],,Lilian,,,,Bradley,Mrs,female,1906,,,,,,,,,,,,
 [I0052],,Louisa Annie,,,,Smith,Mrs,female,1882,[P0027],,,,,1950,[P0027],,,,,
 [I0032],,Louise Rani,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0012],,Luis Eduardo,,,,Martinez,Mr,male,,,,,,,,,,,,,
 [I0035],,Mahendra,,,,Sicka,Mr,male,,,,,,,,,,,,,
+[I0067],,Margarita,,,,V,Mrs,female,,[P0022],,,,,,,,,,,
 [I0013],,Margarita Eugenia,,Daisy,,Martinez,Mrs,female,,,,,,,,,,,,,
 [I0025],,Mary,,,,Barrett,Mrs,female,1834,[P0011],,,,,,,,,,,
 [I0054],,Mary,,,,Reeves,Mrs,female,1854,[P0027],,,,,,,,,,,
@@ -81,6 +133,8 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0040],,Nicola,,,,Marshall,Mrs,female,,,,,,,,,,,,,
 [I0056],,Percival Henry,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0014],,Rene Fransisco,,,,Martinez,Mr,male,,,,,,,,,,,,,
+[I0063],,Robert,,,,Bradley,Mr,male,1909?,,,,,,,,,,,,
+[I0064],,Robert,,,,?,Mr,male,,,,,,,,,,,,,
 [I0016],,Ross,,,,Wotherspoon,Mr,male,,[P0015],,,,,,,,,,,
 [I0005],,Ruth,,,,Earwaker,Mrs,female,1964-06-02,[P0014],,,,,,,,,,,
 [I0057],,Ruth Maud Louisa,,,,Ash,Mrs,female,,,,,,,,,,,,,
@@ -101,7 +155,7 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0007],[I0016],[I0005],,[P0009],,
 [F0008],[I0000],[I0010],,,,
 [F0009],[I0017],[I0018],,,,
-[F0010],[I0019],[I0020],,,,
+[F0010],[I0019],[I0020],1934,[P0001],,
 [F0011],[I0022],[I0021],1859,[P0001],,
 [F0012],[I0023],[I0024],1863,[P0001],,
 [F0013],[I0026],[I0025],1855,[P0004],,
@@ -111,9 +165,12 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0017],[I0043],[I0044],,,,
 [F0018],[I0012],[I0045],,,,
 [F0019],,[I0046],,,,
-[F0020],[I0049],[I0050],1934,[P0001],,
+[F0020],[I0049],[I0050],,,,
 [F0021],[I0051],[I0052],1903,[P0027],,
 [F0022],[I0053],[I0054],,,,
+[F0023],[I0064],[I0013],,,,
+[F0024],,[I0066],,,,
+[F0025],,[I0067],,,,
 
 Family,Child
 [F0002],[I0000]
@@ -148,6 +205,8 @@ Family,Child
 [F0019],[I0034]
 [F0020],[I0020]
 [F0020],[I0048]
+[F0020],[I0062]
+[F0020],[I0063]
 [F0021],[I0019]
 [F0021],[I0055]
 [F0021],[I0056]
@@ -157,4 +216,6 @@ Family,Child
 [F0021],[I0060]
 [F0021],[I0061]
 [F0022],[I0051]
+[F0024],[I0065]
+[F0025],[I0068]
 
