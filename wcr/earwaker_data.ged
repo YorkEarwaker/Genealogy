@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 1 JUN 2026
-2 TIME 17:01:18
+1 DATE 2 JUN 2026
+2 TIME 12:45:22
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -39,8 +39,8 @@
 1 FAMS @F0008@
 1 FAMS @F0005@
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 13:50:37
+2 DATE 2 JUN 2026
+3 TIME 11:27:55
 0 @I0001@ INDI
 1 NAME Caroline /Freatherstone/
 2 TYPE birth
@@ -92,15 +92,19 @@
 1 EDUC Bob Marley and The Whalers
 2 DATE 24 APR 1976
 2 PLAC Georgetown University, McDonough Arena, Washington, District of Columbia, USA
-1 FAMC @F0008@
-2 PEDI birth
 1 FAMC @F0005@
 2 _FREL birth
 2 _MREL Step
+1 FAMC @F0026@
+2 _FREL None
+2 _MREL birth
+1 FAMC @F0008@
+2 PEDI birth
 1 FAMS @F0014@
+1 FAMS @F0028@
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 16:42:22
+2 DATE 2 JUN 2026
+3 TIME 12:35:21
 0 @I0005@ INDI
 1 NAME Ruth /Earwaker/
 2 TYPE birth
@@ -118,42 +122,48 @@
 2 DATE 2 JUN 1964
 2 PLAC London, England, United Kingdom
 1 EDUC Ruth Earwaker Ed CL
-2 DATE 1968?
+2 DATE 1969
 2 PLAC Chilean school primary, Santiago, Region Metropolitana, Chile
 1 EDUC Ruth Earwaker Ed CL
-2 DATE 1969-71?
+2 DATE FROM 1970 TO 1971
 2 PLAC Nido de Aguilas, Santiago, Region Metropolitana, Chile
 1 EDUC Ruth Earwaker Ed US
-2 DATE 1972?
-2 PLAC School, Fairfax County, Virginia, United States
+2 DATE 1972
+2 PLAC School, Elementary, Fairfax County, Virginia, United States
 1 EDUC Ruth Earwaker Ed US
 2 DATE 1973
 2 PLAC John Eaton Elementary School, Washington, District of Columbia, USA
-1 EDUC Ruth Earwaker Ed  US
-2 DATE 1974-75?
+1 EDUC Ruth Earwaker Ed US
+2 DATE FROM 1974 TO 1975
 2 PLAC Washington International School, Washington, District of Columbia, USA
 1 EDUC Bob Marley and The Whalers
 2 DATE 24 APR 1976
 2 PLAC Georgetown University, McDonough Arena, Washington, District of Columbia, USA
 1 EDUC Ruth Earwaker Ed UK
-2 DATE 1976-78?
+2 DATE FROM 1976 TO 1979
 2 PLAC Creighton School, 65 Twyford Ave, N2 9NP, London, England, United Kingdom
 1 EDUC Ruth Earwaker Ed US
-2 DATE 1979-80?
+2 DATE FROM 1980 TO 1981
 2 PLAC Washington International School, Washington, District of Columbia, USA
 1 _DEG
 2 TYPE Ruth Earwaker BSc
-2 DATE 1981-83?
+2 DATE FROM 1982 TO 1985
 2 PLAC United Kingdom
-1 FAMC @F0008@
-2 PEDI birth
+1 IMMI
+2 TYPE Ruth Earwaker from UK to AU
+2 PLAC Australia
 1 FAMC @F0005@
 2 _FREL birth
 2 _MREL Step
+1 FAMC @F0026@
+2 _FREL None
+2 _MREL birth
+1 FAMC @F0008@
+2 PEDI birth
 1 FAMS @F0007@
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 16:57:40
+2 DATE 2 JUN 2026
+3 TIME 12:35:21
 0 @I0006@ INDI
 1 NAME Caroline /Adams/
 2 TYPE birth
@@ -249,13 +259,15 @@
 1 FAMC @F0010@
 2 PEDI birth
 1 FAMS @F0008@
+1 FAMS @F0026@
+1 FAMS @F0027@
 1 ASSO @I0066@
 2 RELA House Keeper?
 1 ASSO @I0065@
 2 RELA Nanny
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 16:43:58
+2 DATE 2 JUN 2026
+3 TIME 11:47:00
 0 @I0011@ INDI
 1 NAME Carmen Elena /Alcaine/
 2 TYPE birth
@@ -369,10 +381,13 @@
 1 BIRT
 2 TYPE Ross Wotherspoon BD
 2 PLAC Glasgow, Lanarkshire, Scotland
+1 IMMI
+2 TYPE Ross Wotherspoon from UK to AU
+2 PLAC Australia
 1 FAMS @F0007@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 12:33:51
+2 DATE 2 JUN 2026
+3 TIME 07:53:35
 0 @I0017@ INDI
 1 NAME Father of Carmen & Eugenia /Alcaine/
 2 TYPE birth
@@ -552,12 +567,25 @@
 2 TYPE Eav Sicka BD
 2 DATE 6 JUN 1964
 2 PLAC Calcutta, West Bengal, India
+1 EDUC Eva Sicka Ed pri
+2 PLAC London, England, United Kingdom
+1 EDUC Eva Sicka Ed sec
+2 PLAC London, England, United Kingdom
+1 _DEG
+2 TYPE Eva Sicka Art Foundation
+2 PLAC Cat Hill, Middlesex University, London, England, United Kingdom
+1 EDUC Eva Sicka Ed Access Course
+2 PLAC Tottenham College of Technology, London, England, United Kingdom
+1 _DEG
+2 TYPE Eva Sicka BA Film?
+2 PLAC Trent Park, Middlesex University, London, England, United Kingdom
 1 FAMC @F0015@
 2 PEDI birth
 1 FAMS @F0014@
+1 FAMS @F0029@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 12:26:07
+2 DATE 2 JUN 2026
+3 TIME 12:04:06
 0 @I0030@ INDI
 1 NAME Kiran York /Earwaker/
 2 TYPE birth
@@ -565,11 +593,25 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 BIRT
+2 TYPE Kiran Earwaker BD
+2 DATE 1 FEB 1984
+2 PLAC London, England, United Kingdom
+1 EDUC Kiran Earwaker Ed
+2 PLAC Belmont Junior School, 30 Rusper Rd, N22 6RA,, London, England, United Kingdom
+1 EDUC Kiran Earwaker Ed
+2 PLAC Broomfield School, 56 Wilmer Way, N14 7HY, London, England, United Kingdom
+1 _DEG
+2 TYPE Kiran Earwaker BSc
+2 PLAC United Kingdom
 1 FAMC @F0014@
 2 PEDI birth
+1 FAMC @F0028@
+2 _FREL birth
+2 _MREL None
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 13:01:25
+2 DATE 2 JUN 2026
+3 TIME 12:13:01
 0 @I0031@ INDI
 1 NAME Matthew Harry /Earwaker/
 2 TYPE birth
@@ -577,11 +619,25 @@
 2 SPFX Earwaker
 2 NPFX Mr
 1 SEX M
+1 BIRT
+2 TYPE Mattew Harry Earwaker BD
+2 DATE 24 NOV 1998
+2 PLAC London, England, United Kingdom
+1 EDUC Matthew Harry Earwaker Ed
+2 PLAC Belmont Junior School, 30 Rusper Rd, N22 6RA,, London, England, United Kingdom
+1 EDUC Matthew Harry Earwaker Ed
+2 PLAC Broomfield School, 56 Wilmer Way, N14 7HY, London, England, United Kingdom
+1 _DEG
+2 TYPE Matthew Harry Earwaker BA
+2 PLAC United Kingdom
 1 FAMC @F0014@
 2 PEDI birth
+1 FAMC @F0028@
+2 _FREL birth
+2 _MREL None
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 13:01:25
+2 DATE 2 JUN 2026
+3 TIME 12:13:01
 0 @I0032@ INDI
 1 NAME Louise Rani /Earwaker/
 2 TYPE birth
@@ -589,26 +645,54 @@
 2 SPFX Earwaker
 2 NPFX Mrs
 1 SEX F
+1 BIRT
+2 TYPE Louise Rani Earwaker BD
+2 DATE 2 JUN 1996
+2 PLAC London, England, United Kingdom
+1 EDUC Louise Rani Earwaker Ed
+2 PLAC Belmont Junior School, 30 Rusper Rd, N22 6RA,, London, England, United Kingdom
+1 EDUC Louise Rani Earwaker Ed
+2 PLAC The Latymer School, Haselbury Rd, N9 9TN, London, England, United Kingdom
 1 FAMC @F0014@
 2 PEDI birth
+1 FAMC @F0028@
+2 _FREL birth
+2 _MREL None
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 13:01:25
+2 DATE 2 JUN 2026
+3 TIME 12:13:01
 0 @I0033@ INDI
 1 NAME Natasha Jasmin /Earwaker/
 2 TYPE birth
 2 GIVN Natasha Jasmin
 2 SPFX Earwaker
+2 NPFX Mrs
 1 SEX F
+1 BIRT
+2 TYPE Natasha Jasmine Earwaker BD
+2 DATE 4 MAR 2002
+2 PLAC London, England, United Kingdom
 1 EVEN Natasha Jasmin Earwaker to Arif Khan
 2 TYPE Marriage
 2 PLAC London, England, United Kingdom
+1 EDUC Natasha Jasmin Earwaker Ed
+2 PLAC Belmont Junior School, 30 Rusper Rd, N22 6RA,, London, England, United Kingdom
+1 EDUC Natasha Jasmine Earwaker Ed
+2 PLAC Heartlands High School, Station Rd, N22 7ST, London, England, United Kingdom
+1 EDUC Natasha Jasmine Earwaker Ed
+2 PLAC Broomfield School, 56 Wilmer Way, N14 7HY, London, England, United Kingdom
 1 FAMC @F0014@
 2 PEDI birth
+1 FAMC @F0028@
+2 _FREL birth
+2 _MREL None
+1 FAMC @F0029@
+2 _FREL None
+2 _MREL birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 13:01:25
+2 DATE 2 JUN 2026
+3 TIME 12:14:43
 0 @I0034@ INDI
 1 NAME Helen /?/
 2 TYPE birth
@@ -1080,16 +1164,33 @@
 1 CHAN
 2 DATE 1 JUN 2026
 3 TIME 11:00:05
+0 @I0069@ INDI
+1 NAME Victor /?/
+2 TYPE birth
+2 GIVN Victor
+2 SPFX ?
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0027@
+1 CHAN
+2 DATE 2 JUN 2026
+3 TIME 11:47:00
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
 1 MARR
 2 TYPE Caroline Feathersone to Joseph Earnest Earwaker
 2 DATE 1932
+1 EVEN Carroline (Carry) and Joseph (Joe) retirement bungalow
+2 TYPE Residence
+2 PLAC 10 Westlands, North Shields NE30 3SU????, Newcastle on Tyne, Northumberland, England, United Kingdom
+3 MAP
+4 LATI N55.02728
+4 LONG W1.427766
 1 CHIL @I0000@
 1 CHAN
-2 DATE 21 MAY 2026
-3 TIME 22:54:35
+2 DATE 2 JUN 2026
+3 TIME 11:27:55
 0 @F0003@ FAM
 1 HUSB @I0007@
 1 WIFE @I0006@
@@ -1151,11 +1252,43 @@
 1 WIFE @I0010@
 1 MARR
 2 TYPE Elizabeth Dorothy Ash to Francis Joseph Earwaker
+1 EVEN Elizabeth D Earwaker (nee Ash) and Francis J Earwaker, York, Ruth - UK
+2 TYPE Residence
+2 DATE ?-1965
+2 PLAC Flat ??, Belzise Park me 0-2 62-64/5?, London, England, United Kingdom
+1 EVEN Elizabeth D Earwaker(nee Ash) and Francis J Earwaker, York, Ruth - TR
+2 TYPE Residence
+2 DATE FROM 1965 TO 1967
+2 PLAC Flat, <todo: find address>, Ankara, Ankara, Turkey
+1 EVEN Elizabeth D Earwaker (nee Ash) and Francis J Earwaker, York, Ruth - UK
+2 TYPE Residence
+2 DATE 1967?
+2 PLAC Flat ??, Finchley Road? NW3 me 6?, London, England, United Kingdom
+1 EVEN Elizabeth D Earwaker (nee Ash) and Francis J Earwaker, York, Ruth - CL
+2 TYPE Residence
+2 DATE 1968?
+2 PLAC House 1 - on a hill, Santiago, Region Metropolitana, Chile
+1 EVEN Elizabeth D Earwaker (nee Ash) and Francis J Earwaker, York, Ruth - CL
+2 TYPE Residence
+2 DATE 1969-72?
+2 PLAC House 2 -  concrete, Santiago, Region Metropolitana, Chile
+1 EVEN Elizabeth D Earwaker (nee Ash) and Francis J Earwaker, York, Ruth - US
+2 TYPE Residence
+2 DATE 1972
+2 PLAC Home 1 short stay on arrival, Lake Barcroft, Fairfax County, Virginia, United States
+1 EVEN Elizabeth D Earwaker (nee Ash) and Francis J Earwaker, York, Ruth - US
+2 TYPE Residence
+2 DATE 1972-73?
+2 PLAC 6208? Waterway Dr, Lake Barcroft,, Fairfax County, Virginia, United States
+1 EVEN Elizabeth D Earwaker (nee Ash) and Francis J Earwaker, York, Ruth - US
+2 TYPE Residence
+2 DATE 1974-1976?
+2 PLAC 2934 Newark St NW, Washington, District of Columbia, USA
 1 CHIL @I0004@
 1 CHIL @I0005@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 12:34:38
+2 DATE 2 JUN 2026
+3 TIME 12:35:21
 0 @F0009@ FAM
 1 HUSB @I0017@
 1 WIFE @I0018@
@@ -1213,15 +1346,19 @@
 1 WIFE @I0029@
 1 MARR
 2 TYPE Eva Sick to York Earwaker
-2 DATE 1983?
+2 DATE 2007
+2 PLAC London, England, United Kingdom
+1 EVEN Eva Sicka from York Earwaker
+2 TYPE Separation
+2 DATE JUL 2010
 2 PLAC London, England, United Kingdom
 1 CHIL @I0030@
 1 CHIL @I0032@
 1 CHIL @I0031@
 1 CHIL @I0033@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 13:01:25
+2 DATE 2 JUN 2026
+3 TIME 07:40:16
 0 @F0015@ FAM
 1 HUSB @I0035@
 1 WIFE @I0034@
@@ -1313,4 +1450,54 @@
 1 CHAN
 2 DATE 1 JUN 2026
 3 TIME 10:33:06
+0 @F0026@ FAM
+1 WIFE @I0010@
+1 EVEN Elizabeth D Ash, York, Ruth - Home in the UK
+2 TYPE Residence
+2 DATE FROM 1976 TO 1986
+2 PLAC 1 Sheppards Close, N6 5AG, London, England, United Kingdom
+1 EVEN Elizabeth D Ash, York, Ruth -Grand Beth's house
+2 TYPE Residence
+2 DATE FROM 1986 TO 2008
+2 PLAC 74A Andover Rd, Winchester SO22 6AG, Winchester, Hampshire, England, United Kingdom
+1 CHIL @I0004@
+1 CHIL @I0005@
+1 CHAN
+2 DATE 2 JUN 2026
+3 TIME 12:13:33
+0 @F0027@ FAM
+1 HUSB @I0069@
+1 WIFE @I0010@
+1 EVEN Elizabeth Dorothy Ash - retirement
+2 TYPE Residence
+2 DATE 2008?
+2 PLAC Elizabeth Ash's last dwelling <todo: get address>, La Serena, Coquimbo, Chile
+1 EVEN Elizabeth Dorothy Ash - retirement
+2 TYPE Immigration
+2 DATE 2008?
+2 PLAC Chile
+1 CHAN
+2 DATE 2 JUN 2026
+3 TIME 11:47:00
+0 @F0028@ FAM
+1 HUSB @I0004@
+1 EVEN York Earwaker, Kiran, Louise, Matthew, Natasha - Escaped
+2 TYPE Residence
+2 DATE FROM 3 AUG 2012 TO 18 JUN 2025
+2 PLAC 13 Highworth Road, N11 2SL, London, England, United Kingdom
+1 FACT Single Father
+2 TYPE Occupation
+1 CHIL @I0030@
+1 CHIL @I0032@
+1 CHIL @I0031@
+1 CHIL @I0033@
+1 CHAN
+2 DATE 2 JUN 2026
+3 TIME 12:13:01
+0 @F0029@ FAM
+1 WIFE @I0029@
+1 CHIL @I0033@
+1 CHAN
+2 DATE 2 JUN 2026
+3 TIME 12:14:43
 0 TRLR
