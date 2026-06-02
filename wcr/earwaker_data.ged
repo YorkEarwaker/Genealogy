@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 2 JUN 2026
-2 TIME 19:06:08
+2 TIME 21:55:33
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -29,18 +29,21 @@
 1 DEAT
 2 TYPE Francis Joseph Earwaker DD
 2 PLAC Firenze, Firenze, Toscana, Italy
-1 OCCU Emp, Francis Joseph Earwaker - World Bank
-2 PLAC Washington, District of Columbia, USA
 1 _DEG
 2 TYPE Francis Joseph Earwaker, Ecomomics?, LSE
 2 PLAC London School of Economics, London, England, United Kingdom
+1 OCCU Emp, Francis Joseph Earwaker - World Bank
+2 PLAC Washington, District of Columbia, USA
+1 BURI
+2 TYPE Francis Joeseph Earwaker BrlD
+2 PLAC Cimitero degli inglesi - last resting place of Francis J Earwaker, Firenze, Firenze, Toscana, Italy
 1 FAMC @F0002@
 2 PEDI birth
 1 FAMS @F0008@
 1 FAMS @F0005@
 1 CHAN
 2 DATE 2 JUN 2026
-3 TIME 11:27:55
+3 TIME 21:52:14
 0 @I0001@ INDI
 1 NAME Caroline /Freatherstone/
 2 TYPE birth
@@ -92,18 +95,18 @@
 1 EDUC Bob Marley and The Whalers
 2 DATE 24 APR 1976
 2 PLAC Georgetown University, McDonough Arena, Washington, District of Columbia, USA
-1 FAMC @F0005@
-2 _FREL birth
-2 _MREL Step
 1 FAMC @F0008@
 2 PEDI birth
 1 FAMC @F0026@
 2 PEDI birth
+1 FAMC @F0005@
+2 _FREL birth
+2 _MREL Step
 1 FAMS @F0014@
 1 FAMS @F0028@
 1 CHAN
 2 DATE 2 JUN 2026
-3 TIME 18:38:00
+3 TIME 20:57:02
 0 @I0005@ INDI
 1 NAME Ruth /Earwaker/
 2 TYPE birth
@@ -151,17 +154,17 @@
 1 IMMI
 2 TYPE Ruth Earwaker from UK to AU
 2 PLAC Australia
-1 FAMC @F0005@
-2 _FREL birth
-2 _MREL Step
 1 FAMC @F0008@
 2 PEDI birth
 1 FAMC @F0026@
 2 PEDI birth
+1 FAMC @F0005@
+2 _FREL birth
+2 _MREL Step
 1 FAMS @F0007@
 1 CHAN
 2 DATE 2 JUN 2026
-3 TIME 18:38:00
+3 TIME 20:57:02
 0 @I0006@ INDI
 1 NAME Caroline /Adams/
 2 TYPE birth
@@ -310,8 +313,8 @@
 2 _MREL birth
 1 FAMS @F0018@
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 16:09:53
+2 DATE 2 JUN 2026
+3 TIME 20:57:02
 0 @I0013@ INDI
 1 NAME Margarita Eugenia /Martinez/
 2 TYPE birth
@@ -332,8 +335,8 @@
 2 _MREL birth
 1 FAMS @F0023@
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 16:11:19
+2 DATE 2 JUN 2026
+3 TIME 20:57:02
 0 @I0014@ INDI
 1 NAME Rene Fransisco /Martinez/
 2 TYPE birth
@@ -1211,13 +1214,24 @@
 1 MARR
 2 TYPE Carmen Elena Martinez to Francis Joseph Earwaker
 2 PLAC Alexandria, Virginia, USA
+1 EVEN Carmen E Alcaine and Francis J Earwaker, York, Margarita, Ruth, Luis
+2 TYPE Residence
+2 DATE 1979?
+2 PLAC 210? Duke St?, Alexandria, Virginia, USA
+1 EVEN Carmen E Alcaine and Francis J Earwaker
+2 TYPE Residence
+2 DATE 2016?
+2 PLAC Via della Concezione, 27, 50139, Firenze, Firenze, Toscana, Italy
+1 EVEN Carmen E Alcaine and Francis J Earwaker
+2 TYPE Residence
+2 PLAC 6 Vocabolo Il Poggio?, Città della Pieve, Perugia, Umbria, Italy
 1 CHIL @I0004@
 1 CHIL @I0005@
 1 CHIL @I0013@
 1 CHIL @I0012@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 11:44:05
+2 DATE 2 JUN 2026
+3 TIME 20:57:02
 0 @F0006@ FAM
 1 HUSB @I0014@
 1 WIFE @I0011@
