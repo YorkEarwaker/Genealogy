@@ -96,13 +96,19 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0095],,"Città della Pieve, Perugia, Umbria, Italy",Village,,,,,
 [P0096],,6 Vocabolo Il Poggio?,Building,,,,[P0095],
 [P0097],,"Carmen E Alcaine and Francis J Earwaker, Umbria? Lazio?",Unknown,,,,[P0091],
+[P0098],,C&J house in ilford?,Building,,,,[P0014],
+[P0099],,E&H house in Ruislip?,Building,,,,[P0014],
+[P0100],,"Howard Johnson's, Restaurant, 825 N. Washington St",Building,,,,[P0007],
+[P0101],,"Tottenham, Art Workshop",Building,,,,[P0014],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
+[I0075],,?,,,,Sicka,Mr,male,,,,,,,,,,,,,
 [I0068],,? daughter of margarita v,,,,?,Mrs,female,,[P0022],,,,,,,,,,,
 [I0050],,Alice Annie,,,,Tribe,Mrs,female,1882,,,,,,,,,,,,
 [I0015],,Angela Eugenia,,,,Alcaine,Mrs,female,,[P0006],,,,,2013,,,,,,
 [I0028],,Ann,,,,Robson,Mrs,female,,,,,,,,,,,,,
 [I0041],,Arif,,,,Khan,Mr,male,,[P0016],,,,,,,,,,,
+[I0073],,Arun?,,,,Sicka,Mr,male,,,,,,,,,,,,,
 [I0011],,Carmen Elena,,Charlie,,Alcaine,Mrs,female,,[P0006],,,,,,,,,,,
 [I0001],,Caroline,,,,Freatherstone,Miss,female,1903-02-19,[P0002],,,,,,,,,,,
 [I0006],,Caroline,,,,Adams,,female,1881,[P0005],,,,,1956,,,,,,
@@ -116,11 +122,12 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0029],,Eva,,,,Sicka,Mrs,female,1964-06-06,[P0013],,,,,,,,,,,
 [I0043],,Father of Arif,,,,Khan,Mr,male,,,,,,,,,,,,,
 [I0017],,Father of Carmen & Eugenia,,,,Alcaine,Snr,male,,,,,,,,,,,,,
+[I0071],,Father of Mahendra,,,,Sicka,Mr,male,,,,,,,,,,,,,
 [I0065],,Fernanda Consuela?,,,,Contreras?,Mrs,female,1958?,[P0030],,,,,,,,,,,
-[I0066],,Fernandas mother,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0000],,Francis Joseph,,Charlie,,Earwaker,Mr,male,1936-07-16,[P0001],,,,,,[P0017],,,[P0058],,
 [I0048],,Frederick,,,,Bradley,Mr,male,1907,[P0027],,,,,,,,,,,
 [I0049],,Frederick,,,,Bradley,Mr,male,1881,[P0027],,,,,,,,,,,
+[I0070],,Geoff?,,,,?,Mr,male,,,,,,,,,,,,,
 [I0058],,George Charles,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0021],,Hannah Sarah,,,,Rose,Mrs,female,1837,[P0001],,,,,,,,,,,
 [I0034],,Helen,,,,?,Mrs,female,,,,,,,,,,,,,
@@ -150,6 +157,8 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0038],,Michelle,,,,Sicka,,female,,,,,,,,,,,,,
 [I0044],,Mother of Arif,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0018],,Mother of Carmen & Eugenia,,,,Caceres,,female,,,,,,,,,,,,,
+[I0066],,Mother of Fernanda,,,,?,Mrs,female,,,,,,,,,,,,,
+[I0072],,Mother of Mahendra,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0033],,Natasha Jasmin,,,,Earwaker,Mrs,female,2002-03-04,[P0014],,,,,,,,,,,
 [I0040],,Nicola,,,,Marshall,Mrs,female,,,,,,,,,,,,,
 [I0056],,Percival Henry,,,,Ash,Mr,male,,,,,,,,,,,,,
@@ -166,22 +175,23 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0055],,Stephen Charles,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0051],,Stephen Henry,,,,Ash,Mr,male,1879,[P0029],,,,,,,,,,,
 [I0069],,Victor,,,,?,Mr,male,,,,,,,,,,,,,
+[I0074],,Vijay,,,,Sicka,Mr,male,,,,,,,,,,,,,
 [I0004],,York,,,,Earwaker,Mr,male,1962-12-17,[P0014],,,,,,,,,,,
 
 Marriage,Husband,Wife,Date,Place,Source,Note
 [F0002],[I0002],[I0001],1932,,,
 [F0003],[I0007],[I0006],1900,,,
 [F0004],[I0008],[I0009],1893,[P0001],,
-[F0005],[I0000],[I0011],,[P0007],,
-[F0006],[I0014],[I0011],,[P0008],,
-[F0007],[I0016],[I0005],,[P0009],,
-[F0008],[I0000],[I0010],,,,
+[F0005],[I0000],[I0011],1981?,[P0007],,
+[F0006],[I0014],[I0011],1960?,[P0008],,
+[F0007],[I0016],[I0005],1990?,[P0009],,
+[F0008],[I0000],[I0010],1960?,,,
 [F0009],[I0017],[I0018],,,,
 [F0010],[I0019],[I0020],1934,[P0001],,
 [F0011],[I0022],[I0021],1859,[P0001],,
 [F0012],[I0023],[I0024],1863,[P0001],,
 [F0013],[I0026],[I0025],1855,[P0004],,
-[F0014],[I0004],[I0029],2007,[P0014],,
+[F0014],[I0004],[I0029],2007?,[P0014],,
 [F0015],[I0035],[I0034],,,,
 [F0016],[I0041],[I0033],,,,
 [F0017],[I0043],[I0044],,,,
@@ -197,6 +207,8 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0027],[I0069],[I0010],,,,
 [F0028],[I0004],[I0004],,,,
 [F0029],[I0029],[I0029],,,,
+[F0030],[I0070],[I0029],,,,
+[F0031],[I0071],[I0072],,,,
 
 Family,Child
 [F0002],[I0000]
@@ -251,4 +263,9 @@ Family,Child
 [F0028],[I0031]
 [F0028],[I0033]
 [F0029],[I0033]
+[F0030],[I0030]
+[F0031],[I0035]
+[F0031],[I0073]
+[F0031],[I0074]
+[F0031],[I0075]
 

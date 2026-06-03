@@ -88,6 +88,7 @@ earwaker_data
 * <todo: consider, rectictify, currently contains errors re some birth dates and marriage dates? as part of learning curve for Gramps, first steps, >
 * <todo: consider, attempt to find one link from decendants of this list earwaker_data and service records earwaker_ms_data which is extant, other data sets as and when>
 * <todo: consider, attempt to find one link from decendants of this list earwaker_data and civic records earwaker_cv_data which is yet to be created, other data sets as and when>
+* <todo: consider, this is morphing into a life of york model, how to set heuristics to stop this conflation of immediate generations of earwarkers and other lines, with life of york? >
 
 earwaker_ms_data
 * <info: non military civilian relatives people are tagged Next of Kin (NOK), which shows light blue in the Gramps people list display, >
