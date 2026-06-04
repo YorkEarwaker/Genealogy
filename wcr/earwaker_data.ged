@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 4 JUN 2026
-2 TIME 20:55:21
+2 TIME 21:30:28
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -727,16 +727,16 @@
 2 PLAC Heartlands High School, Station Rd, N22 7ST, London, England, United Kingdom
 1 EDUC Natasha Jasmine Earwaker Ed
 2 PLAC Broomfield School, 56 Wilmer Way, N14 7HY, London, England, United Kingdom
-1 FAMC @F0029@
-2 PEDI birth
 1 FAMC @F0014@
 2 PEDI birth
 1 FAMC @F0028@
 2 PEDI birth
+1 FAMC @F0029@
+2 PEDI birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 13:53:54
+2 DATE 4 JUN 2026
+3 TIME 21:19:46
 0 @I0034@ INDI
 1 NAME Helen /?/
 2 TYPE birth
@@ -1169,9 +1169,10 @@
 2 PLAC Chile
 1 FAMC @F0024@
 2 PEDI birth
+1 FAMS @F0034@
 1 CHAN
-2 DATE 2 JUN 2026
-3 TIME 15:19:53
+2 DATE 4 JUN 2026
+3 TIME 21:29:50
 0 @I0066@ INDI
 1 NAME Mother of Fernanda /?/
 2 TYPE birth
@@ -1341,6 +1342,17 @@
 1 CHAN
 2 DATE 4 JUN 2026
 3 TIME 07:26:17
+0 @I0080@ INDI
+1 NAME Chris /?/
+2 TYPE birth
+2 GIVN Chris
+2 SPFX ?
+2 NPFX Mr
+1 SEX M
+1 FAMS @F0034@
+1 CHAN
+2 DATE 4 JUN 2026
+3 TIME 21:29:50
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
@@ -1790,4 +1802,10 @@
 1 CHAN
 2 DATE 4 JUN 2026
 3 TIME 07:26:17
+0 @F0034@ FAM
+1 HUSB @I0080@
+1 WIFE @I0065@
+1 CHAN
+2 DATE 4 JUN 2026
+3 TIME 21:29:50
 0 TRLR
