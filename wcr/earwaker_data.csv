@@ -90,7 +90,7 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0089],,"17 Baronsmede, Branksome Wood Rd, Bournemouth BH2 6DE",Building,,,,[P0088],
 [P0090],,"The Annexe, 74 Andover Rd, Winchester SO22 6AG",Building,,,,[P0028],
 [P0091],,Italy,Country,,,,,
-[P0092],,France,Unknown,,,,,
+[P0092],,France,Country,,,,,
 [P0093],,"Paris, France",City,,,,,
 [P0094],,The Rue du Faubourg Saint-Honoré,Street,,,,[P0093],
 [P0095],,"Città della Pieve, Perugia, Umbria, Italy",Village,,,,,
@@ -103,6 +103,8 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0075],,?,,,,Sicka,Mr,male,,,,,,,,,,,,,
+[I0077],,?,,,,?,Mr,male,,,,,,,,,,,,,
+[I0078],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0068],,? daughter of margarita v,,,,?,Mrs,female,,[P0022],,,,,,,,,,,
 [I0050],,Alice Annie,,,,Tribe,Mrs,female,1882,,,,,,,,,,,,
 [I0015],,Angela Eugenia,,,,Alcaine,Mrs,female,,[P0006],,,,,2013,,,,,,
@@ -136,6 +138,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0022],,James,,,,Earwaker,Mr,male,1835,[P0001],,,,,,,,,,,
 [I0027],,James Frederick,,,,Adams,Mr,male,,,,,,,,,,,,,
 [I0023],,James Moxey,,,,Orpwood,Mr,male,,,,,,,,,,,,,
+[I0079],,Joel,,,,Sicka,Mr,male,,,,,,,,,,,,,
 [I0008],,John,,,,Earwaker,Mr,male,1871,[P0001],,,,,,,,,,,
 [I0026],,John,,,,Featherstone,Mr,male,1834,[P0010],,,,,,,,,,,
 [I0007],,Joseph,,,,Freatherstone,Mr,male,1872,[P0004],,,,,,,,,,,
@@ -171,6 +174,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0042],,Sami,,,,Khan,Mr,male,,,,,,,,,,,,,
 [I0036],,Sanjay,,,,Sicka,,male,,,,,,,,,,,,,
 [I0047],,Sid (uncle),,,,?,Mr,male,,,,,,,,,,,,,
+[I0076],,Simon,,,,?,Mr,male,,,,,,,2026-05,[P0020],,,,,
 [I0059],,Stanley Ambrose,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0055],,Stephen Charles,,,,Ash,Mr,male,,,,,,,,,,,,,
 [I0051],,Stephen Henry,,,,Ash,Mr,male,1879,[P0029],,,,,,,,,,,
@@ -209,6 +213,8 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0029],[I0029],[I0029],,,,
 [F0030],[I0070],[I0029],,,,
 [F0031],[I0071],[I0072],,,,
+[F0032],[I0076],[I0038],,,,
+[F0033],[I0036],[I0078],,,,
 
 Family,Child
 [F0002],[I0000]
@@ -268,4 +274,6 @@ Family,Child
 [F0031],[I0073]
 [F0031],[I0074]
 [F0031],[I0075]
+[F0032],[I0077]
+[F0033],[I0079]
 
