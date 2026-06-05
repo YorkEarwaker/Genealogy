@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 30 MAY 2026
-2 TIME 18:32:33
+1 DATE 5 JUN 2026
+2 TIME 12:10:15
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_cv_data.ged
 1 COPR Copyright (c) 2026 .
@@ -1481,6 +1481,315 @@
 1 CHAN
 2 DATE 30 MAY 2026
 3 TIME 18:21:43
+0 @I0079@ INDI
+1 NAME Elinor /?/
+2 TYPE birth
+2 GIVN Elinor
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Elinor Earwaker BD
+2 DATE 1842
+2 PLAC England
+1 CENS
+2 TYPE Elinor Earwaker CD - Census of Canada
+2 DATE 1881
+2 PLAC St Gabrial, Hochelaga, Quebec, Canada
+1 RELI Episcopalian
+1 FAMS @F0022@
+1 NOTE @N0036@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 08:45:15
+0 @I0080@ INDI
+1 NAME Henry /Earwaker/
+2 TYPE birth
+2 GIVN Henry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Henry Earwaker BD
+2 DATE 1835
+2 PLAC England
+1 CENS
+2 TYPE Henry Earwaker CD - Census of Canada
+2 DATE 1881
+2 PLAC St Gabrial, Hochelaga, Quebec, Canada
+1 RELI Episcopalian
+1 FAMS @F0022@
+1 NOTE @N0040@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 09:46:32
+0 @I0081@ INDI
+1 NAME Henry James /Earwaker/
+2 TYPE birth
+2 GIVN Henry James
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Henry James Earwaker BD
+2 DATE 1873
+2 PLAC Quebec. Canada
+1 CENS
+2 TYPE Henry James CD - Census of Canada
+2 DATE 1881
+2 PLAC St Gabrial, Hochelaga, Quebec, Canada
+1 RELI Episcopalian
+1 FAMC @F0022@
+2 PEDI birth
+1 NOTE @N0041@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 09:47:43
+0 @I0082@ INDI
+1 NAME Henry /Earwaker/
+2 TYPE birth
+2 GIVN Henry
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Henry Earwaker BD
+2 DATE 1876
+2 PLAC Ontario, Canada
+1 CENS
+2 TYPE Henry Earwaker CD - Census of Canada
+2 DATE 1881
+2 PLAC Culross, Bruce South, Ontario, Canada
+1 RELI Church of England CoE
+1 FAMC @F0023@
+2 PEDI birth
+1 NOTE @N0042@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 09:48:59
+0 @I0083@ INDI
+1 NAME Samuel /Earwaker/
+2 TYPE birth
+2 GIVN Samuel
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE Samuel Earwaker BD
+2 DATE 1851
+2 PLAC England
+1 CENS
+2 TYPE Samual Earwaker CD - Census of Canada
+2 DATE 1881
+2 PLAC Culross, Bruce South, Ontario, Canada
+1 RELI Church of England CoE
+1 FAMS @F0023@
+1 NOTE @N0039@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 09:59:53
+0 @I0084@ INDI
+1 NAME Sarah /?/
+2 TYPE birth
+2 GIVN Sarah
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Sarah ? BD
+2 DATE 1855
+2 PLAC England
+1 CENS
+2 TYPE Sarah ? CD - Census of Canada
+2 DATE 1881
+2 PLAC Culross, Bruce South, Ontario, Canada
+1 FAMS @F0023@
+1 NOTE @N0043@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 09:53:33
+0 @I0085@ INDI
+1 NAME Mary /Earwaker/
+2 TYPE birth
+2 GIVN Mary
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Mary Earwaker BD
+2 DATE 1880
+2 PLAC Ontario, Canada
+1 CENS
+2 TYPE Mary Earwaker CD - Census of Canada
+2 DATE 1881
+2 PLAC Culross, Bruce South, Ontario, Canada
+1 RELI Church of England CoE
+1 FAMC @F0023@
+2 PEDI birth
+1 NOTE @N0038@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 09:27:39
+0 @I0086@ INDI
+1 NAME A E /Earwaker/
+2 TYPE birth
+2 GIVN A E
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE A E Earwaker BD
+2 DATE 1871
+2 PLAC Ontario, Canada
+1 CENS
+2 TYPE A E Earwaker CD - Census of Canada
+2 DATE 1921
+2 PLAC Polling Division no 9, Hamilton East, Ontario, Canada
+1 NOTE @N0044@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 10:22:15
+0 @I0087@ INDI
+1 NAME Ada /Earwaker/
+2 TYPE birth
+2 GIVN Ada
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Ada Earwaker BD
+2 DATE 1893
+2 PLAC Ontario, Canada
+1 CENS
+2 TYPE Ada Earwaker CD - Census of Canada
+2 DATE 1911
+2 PLAC Township 15, Portage La Prairie, Manitoba, Ontario, Canada
+1 NOTE @N0045@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 10:33:20
+0 @I0088@ INDI
+1 NAME Ada /?/
+2 TYPE birth
+2 GIVN Ada
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Ada Earwaker BD
+2 DATE 1874
+2 PLAC England
+1 CENS
+2 TYPE Ada Earwaker CD - Census of the Prairie Provinces
+2 DATE 1916
+2 PLAC City of Edmonton, Edmonton East, Alberta, Canada
+1 RELI Anglican
+1 FAMS @F0024@
+1 NOTE @N0046@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 11:21:30
+0 @I0089@ INDI
+1 NAME Charles W /Earwaker/
+2 TYPE birth
+2 GIVN Charles W
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 RELI Anglican
+1 FAMS @F0024@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 10:55:41
+0 @I0090@ INDI
+1 NAME Ivy B /Earwaker/
+2 TYPE birth
+2 GIVN Ivy B
+2 SPFX Earwaker
+2 NPFX Mrs
+1 SEX F
+1 RELI Anglican
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 10:56:04
+0 @I0091@ INDI
+1 NAME William ? /Earwaker/
+2 TYPE birth
+2 GIVN William ?
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 RELI Anglican
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 10:56:22
+0 @I0092@ INDI
+1 NAME William /Earwaker/
+2 TYPE birth
+2 GIVN William
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 RELI Baptist
+1 FAMS @F0025@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 11:45:00
+0 @I0093@ INDI
+1 NAME Ada /?/
+2 TYPE birth
+2 GIVN Ada
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Ada ? BD
+2 DATE 1873
+2 PLAC England
+1 CENS
+2 TYPE Ada ? CD - Census of Canada
+2 DATE 1931
+2 PLAC City of Edmonton, Edmonton West, Alberta, Canada
+1 RELI Baptist
+1 FAMS @F0025@
+1 NOTE @N0047@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 12:02:09
+0 @I0094@ INDI
+1 NAME Ellen /?/
+2 TYPE birth
+2 GIVN Ellen
+2 SPFX ?
+2 NPFX Mrs
+1 SEX F
+1 BIRT
+2 TYPE Ellen ? BD
+2 DATE 1890
+2 PLAC England
+1 FAMS @F0026@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 11:58:49
+0 @I0095@ INDI
+1 NAME H /Earwaker/
+2 TYPE birth
+2 GIVN H
+2 SPFX Earwaker
+2 NPFX Mr
+1 SEX M
+1 BIRT
+2 TYPE H Earwaker BD
+2 DATE 1876
+2 PLAC Ontario, Canada
+1 FAMS @F0026@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 11:58:49
 0 @F0000@ FAM
 1 HUSB @I0002@
 1 WIFE @I0015@
@@ -1703,6 +2012,45 @@
 1 CHAN
 2 DATE 30 MAY 2026
 3 TIME 17:35:01
+0 @F0022@ FAM
+1 HUSB @I0080@
+1 WIFE @I0079@
+1 MARR
+2 TYPE Elinor ? to Henry Earwaker
+1 CHIL @I0081@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 08:43:22
+0 @F0023@ FAM
+1 HUSB @I0083@
+1 WIFE @I0084@
+1 MARR
+2 TYPE Sarah ? to Samuel Earwaker
+1 CHIL @I0082@
+1 CHIL @I0085@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 08:42:48
+0 @F0024@ FAM
+1 HUSB @I0089@
+1 WIFE @I0088@
+1 CHIL @I0090@
+1 CHIL @I0091@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 10:51:50
+0 @F0025@ FAM
+1 HUSB @I0092@
+1 WIFE @I0093@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 11:33:44
+0 @F0026@ FAM
+1 HUSB @I0095@
+1 WIFE @I0094@
+1 CHAN
+2 DATE 5 JUN 2026
+3 TIME 11:58:57
 0 @N0000@ NOTE https://www.wikitree.com/wiki/Earwaker-31
 1 CONT https://www.findagrave.com/memorial/184433900/mary-liddle
 1 CONT https://www.geni.com/people/Mary-Liddle/6000000039826065022
@@ -1761,6 +2109,8 @@
 0 @N0014@ NOTE https://central.bac-lac.gc.ca/.redirect?app=cangaz&id=11041&lang=en
 1 CONC g&
 1 CONT https://central.bac-lac.gc.ca/.redirect?app=cangaz&id=11543&lang=eng&
+1 CONT 
+1 CONT 
 1 CONT 
 1 CONT 
 1 CONT 
@@ -1931,4 +2281,36 @@
 1 CONT 
 1 CONT 
 1 CONT 
+0 @N0036@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=22278405&lang
+1 CONC =eng&ecopy=e008163281
+1 CONT 
+1 CONT 
+1 CONT 
+1 CONT 
+0 @N0037@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=22278404&lang
+1 CONC =eng&ecopy=e008163281
+1 CONT 
+1 CONT 
+0 @N0038@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=20529591&lang
+1 CONC =eng&ecopy=e008204349
+0 @N0039@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=20529588&lang
+1 CONC =eng&ecopy=e008204349
+0 @N0040@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=22278404&lang
+1 CONC =eng&ecopy=e008163281
+0 @N0041@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=22278406&lang
+1 CONC =eng&ecopy=e008163281
+0 @N0042@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=20529590&lang
+1 CONC =eng&ecopy=e008204349
+0 @N0043@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=20529589&lang
+1 CONC =eng&ecopy=e008204349
+0 @N0044@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=64292514&lang
+1 CONC =eng&ecopy=e002930573
+0 @N0045@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=7015140&lang=
+1 CONC eng&ecopy=e001949340
+0 @N0046@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=42493220&lang
+1 CONC =eng&ecopy=31228_4363979-00349
+1 CONT 
+1 CONT 
+0 @N0047@ NOTE https://central.bac-lac.gc.ca/.redirect?app=census&id=85033793&lang
+1 CONC =eng&ecopy=e011751736
 0 TRLR

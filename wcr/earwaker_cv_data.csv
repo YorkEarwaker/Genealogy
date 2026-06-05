@@ -16,12 +16,25 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0014],,"Ashburton, Canterbury, New Zealand",City,-43.905556,171.745556,,,
 [P0015],,St. Stephen's Church,Building,,,,[P0014],
 [P0016],,"Primitive Methodist Church, Cambridge terrace",Building,,,,[P0009],
+[P0017],,England,Country,,,,,
+[P0018],,"St Gabrial, Hochelaga, Quebec, Canada",Town,,,,,
+[P0019],,Quebec. Canada,Province,,,,,
+[P0020],,"Ontario, Canada",Province,,,,,
+[P0021],,"Culross, Bruce South, Ontario, Canada",Unknown,,,,,
+[P0022],,"Polling Division no 9, Hamilton East, Ontario, Canada",Unknown,,,,,
+[P0023],,"Township 15, Portage La Prairie, Manitoba, Ontario, Canada",Town,,,,,
+[P0024],,"City of Edmonton, Edmonton East, Alberta, Canada",Unknown,,,,,
+[P0025],,"City of Edmonton, Edmonton West, Alberta, Canada",Unknown,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0008],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0011],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0014],,?,,,,?,Mrs,female,,,,,,,,,,,,,
 [I0028],,?,,,,Earwaker,,female,,,,,,,,,,,,,
+[I0086],,A E,,,,Earwaker,Mr,male,1871,[P0020],,,,,,,,,,,
+[I0087],,Ada,,,,Earwaker,Mrs,female,1893,[P0020],,,,,,,,,,,
+[I0088],,Ada,,,,?,Mrs,female,1874,[P0017],,,,,,,,,,,
+[I0093],,Ada,,,,?,Mrs,female,1873,[P0017],,,,,,,,,,,
 [I0031],,Agnes,,,,Riddle,Mrs,female,,,,,,,1944,[P0008],,,,,
 [I0034],,Agnes Dorothy,,,,Earwaker,Mrs,female,1897,[P0008],,,,,1928,[P0008],,,,,
 [I0015],,Alice,,,,Nagalia,Mrs,female,,,,,,,,,,,,,
@@ -30,6 +43,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0017],,Bob,,,,Purvis,Mr,male,,,,,,,,,,,,,
 [I0027],,Charles Henry,,,,Earwaker,Mr,male,,,,,,,1921-10-03,[P0009],,1921-10,[P0013],,
 [I0048],,Charles Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0089],,Charles W,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0025],,D,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0032],,Daisy,,,,Earwaker,Mrs,female,1893,[P0008],,,,,,,,,,,
 [I0029],,David  Sams,,,,Earwaker,Mr,male,1886-03-08,[P0008],,,,,1975,[P0008],,,,,
@@ -38,7 +52,9 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0060],,Dorothy Mae,,,,Earwaker,Mrs,female,1944,[P0008],,,,,,,,,,,
 [I0052],,Edgar,,,,Earwaker,Mr,male,1890,[P0008],,,,,1966,[P0008],,,,,
 [I0071],,Edgar Charles,,,,Earwaker,Mr,male,1918,[P0008],,,,,,,,,,,
+[I0079],,Elinor,,,,?,Mrs,female,1842,[P0017],,,,,,,,,,,
 [I0074],,Elizabeth Ellen,,,,Earwaker,Mrs,female,,,,,,,1941,[P0008],,,,,
+[I0094],,Ellen,,,,?,Mrs,female,1890,[P0017],,,,,,,,,,,
 [I0068],,Ellen Margaret,,,,Carrie,Mrs,female,,,,,,,,,,,,,
 [I0046],,Elsie Elizabeth,,,,Earwaker,Mrs,female,1896,[P0008],,,,,1939,[P0008],,,,,
 [I0059],,Emily May,,,,Struthers,Mrs,female,,,,,,,,,,,,,
@@ -51,9 +67,14 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0004],,Gertrude May,,,,Duminski,Mrs,female,,,,,,,,,,,,,
 [I0064],,Gladys Phyllis Alice,,,,Cain,Mrs,female,,,,,,,,,,,,,
 [I0066],,Graham Jan,,,,Earwaker,Mr,male,1939,[P0008],,,,,,,,,,,
+[I0095],,H,,,,Earwaker,Mr,male,1876,[P0020],,,,,,,,,,,
 [I0077],,Harry,,,,Earwaker,Mr,male,1917-01-13,[P0008],,,,,1997,[P0008],,,,,
 [I0033],,Hazel,,,,Earwaker,Mrs,female,1892,[P0008],,,,,,,,,,,
 [I0002],,Henry,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0080],,Henry,,,,Earwaker,Mr,male,1835,[P0017],,,,,,,,,,,
+[I0082],,Henry,,,,Earwaker,Mr,male,1876,[P0020],,,,,,,,,,,
+[I0081],,Henry James,,,,Earwaker,Mr,male,1873,[P0019],,,,,,,,,,,
+[I0090],,Ivy B,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
 [I0003],,J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0007],,J,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0013],,J E,,,,Earwaker,Mr,male,,,,,,,,,,,,,
@@ -76,6 +97,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0009],,Marjorie C.,,,,Woolnough,Mrs,female,,,,,,,,,,,,,
 [I0056],,Marjorie May,,,,?,Mrs,female,,,,,,,1938,[P0008],,,,,
 [I0000],,Mary,,,,Earwaker,Mrs,female,,,,,,,1965-01-29,[P0006],,1965-02-01,[P0007],,
+[I0085],,Mary,,,,Earwaker,Mrs,female,1880,[P0020],,,,,,,,,,,
 [I0070],,Mary Francies,,,,Robertson,Mrs,female,,,,,,,,,,,,,
 [I0036],,May,,,,Earwaker,Mrs,female,1892-11-15,[P0008],,,,,1996,[P0008],,,,,
 [I0041],,Michael David,,,,Earwaker,Mr,male,1937-09-27,[P0008],,,,,2012,[P0008],,,,,
@@ -83,7 +105,9 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0022],,Richard,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0072],,Rosa Helen,,,,Earwaker,Mrs,female,1916,,,,,,,,,,,,
 [I0001],,Rose,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
+[I0083],,Samuel,,,,Earwaker,Mr,male,1851,[P0017],,,,,,,,,,,
 [I0049],,Samuel David,,,,Earwaker,Mr,male,,,,,,,,,,,,,
+[I0084],,Sarah,,,,?,Mrs,female,1855,[P0017],,,,,,,,,,,
 [I0047],,Sarah Elizabeth,,,,Henderson,Mrs,female,,,,,,,1938-10-11,[P0009],,1938,[P0013],,
 [I0020],,Steve,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0019],,Suzanne M.,,,,Earwaker,Mrs,female,,,,,,,,,,,,,
@@ -91,7 +115,9 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0040],,Timothy Kay,,,,Earwaker,Mr,male,1943-08-27,[P0008],,,,,1943-08-27,[P0008],,,,,
 [I0078],,Violet Beatrice,,,,Earwaker,Mrs,female,,,,,,,1934,[P0008],,,,,
 [I0076],,Walter John,,,,Earwaker,Mr,male,,,,,,,1965,[P0008],,,,,
+[I0092],,William,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0016],,William ?,,,,Liddle,Mr,male,,,,,,,,,,,,,
+[I0091],,William ?,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0067],,William Alfred,,,,Earwaker,Mr,male,,,,,,,,,,,,,
 [I0063],,William Benjamin,,,,Earwaker,Mr,male,1913-04-08,[P0008],,,,,1997,[P0008],,,,,
 [I0030],,William Samuel,,,,Earwaker,Mr,male,1884-06-18,[P0008],,,,,1978,[P0008],,,,,
@@ -120,6 +146,11 @@ Marriage,Husband,Wife,Date,Place,Source,Note
 [F0019],[I0058],[I0069],1951,[P0008],,
 [F0020],[I0052],[I0070],1913,[P0008],,
 [F0021],[I0071],[I0073],1946,[P0008],,
+[F0022],[I0080],[I0079],,,,
+[F0023],[I0083],[I0084],,,,
+[F0024],[I0089],[I0088],,,,
+[F0025],[I0092],[I0093],,,,
+[F0026],[I0095],[I0094],,,,
 
 Family,Child
 [F0000],[I0000]
@@ -155,4 +186,9 @@ Family,Child
 [F0017],[I0066]
 [F0020],[I0071]
 [F0020],[I0072]
+[F0022],[I0081]
+[F0023],[I0082]
+[F0023],[I0085]
+[F0024],[I0090]
+[F0024],[I0091]
 
