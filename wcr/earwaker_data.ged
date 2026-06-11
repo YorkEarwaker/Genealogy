@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 11 JUN 2026
-2 TIME 10:15:37
+2 TIME 11:10:58
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -37,14 +37,15 @@
 1 BURI
 2 TYPE Francis Joeseph Earwaker BrlD
 2 PLAC Cimitero degli inglesi - last resting place of Francis J Earwaker, Firenze, Firenze, Toscana, Italy
-1 RELI Atheism
+1 RELI Atheism (positive)
+1 RELI None
 1 FAMC @F0002@
 2 PEDI birth
 1 FAMS @F0008@
 1 FAMS @F0005@
 1 CHAN
 2 DATE 11 JUN 2026
-3 TIME 10:14:19
+3 TIME 11:03:52
 0 @I0001@ INDI
 1 NAME Caroline /Freatherstone/
 2 TYPE birth
@@ -138,7 +139,8 @@
 2 TYPE York Earwaker BSc
 2 DATE FROM AUG 1989 TO JUN 1993
 2 PLAC Middlesex University, London, England, United Kingdom
-1 RELI Atheism
+1 RELI Atheism (positive)
+1 RELI None
 1 FAMC @F0008@
 2 PEDI birth
 1 FAMC @F0026@
@@ -150,7 +152,7 @@
 1 FAMS @F0028@
 1 CHAN
 2 DATE 11 JUN 2026
-3 TIME 10:07:52
+3 TIME 11:03:16
 0 @I0005@ INDI
 1 NAME Ruth /Earwaker/
 2 TYPE birth
