@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 11 JUN 2026
-2 TIME 11:10:58
+1 DATE 12 JUN 2026
+2 TIME 07:08:15
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -37,7 +37,8 @@
 1 BURI
 2 TYPE Francis Joeseph Earwaker BrlD
 2 PLAC Cimitero degli inglesi - last resting place of Francis J Earwaker, Firenze, Firenze, Toscana, Italy
-1 RELI Atheism (positive)
+1 GRAD
+2 TYPE Atheism (positive)
 1 RELI None
 1 FAMC @F0002@
 2 PEDI birth
@@ -139,7 +140,8 @@
 2 TYPE York Earwaker BSc
 2 DATE FROM AUG 1989 TO JUN 1993
 2 PLAC Middlesex University, London, England, United Kingdom
-1 RELI Atheism (positive)
+1 GRAD
+2 TYPE Atheism (positive)
 1 RELI None
 1 FAMC @F0008@
 2 PEDI birth
