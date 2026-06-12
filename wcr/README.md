@@ -89,7 +89,7 @@ earwaker_data
 * <todo: consider, attempt to find one link from decendants of this list earwaker_data and service records earwaker_ms_data which is extant, other data sets as and when>
 * <todo: consider, attempt to find one link from decendants of this list earwaker_data and civic records earwaker_cv_data which is yet to be created, other data sets as and when>
 * <todo: consider, this is morphing into a life of york model, how to set heuristics to stop this conflation of immediate generations of earwarkers and other lines, with life of york? >
-* <todo: consider, ask individuals in the model if they might be categorised as a having an ontological commitent to a metaphysical supernatural superstition or whether they have graduated to positive atheism, Religion = None, Graduation = Atheism (positive),  >
+* <todo: consider, ask individuals in the model if they might be categorised as a having an ontological commitent to a metaphysical supernatural superstition or whether they have graduated to positive atheism, Religion = None, Graduation = Atheism (positive), where graduation is not a formal event confered by others but an individual personal ontological commitment to material reality and its limts, >
 
 earwaker_ms_data
 * <info: non military civilian relatives people are tagged Next of Kin (NOK), which shows light blue in the Gramps people list display, >
