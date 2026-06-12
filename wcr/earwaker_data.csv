@@ -101,6 +101,8 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0100],,"Howard Johnson's, Restaurant, 825 N. Washington St",Building,,,,[P0007],
 [P0101],,"Tottenham, Art Workshop",Building,,,,[P0014],
 [P0102],,Earth,Planet,,,,,
+[P0103],,"Arizon, USA",Unknown,,,,,
+[P0104],,"Flagstaff?Phonix?, trailer park",Unknown,,,,[P0103],
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0077],,?,,,,?,Mr,male,,,,,,,,,,,,,
@@ -122,7 +124,7 @@ Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth p
 [I0053],,Edwin,,,,Ash,Mr,male,1853,[P0027],,,,,,,,,,,
 [I0010],,Elizabeth Dorothy,,,,Ash,Mrs,female,1938,[P0019],,,,,,[P0018],,,,,
 [I0020],,Ethel Dorothy,,,,Bradley,Mrs,female,1910,[P0014],,,,,,,,,,,
-[I0029],,Eva,,,,Sicka,Mrs,female,1964-06-06,[P0013],,,,,,,,,,,
+[I0029],,Eva,,,,Sicka,Mrs,female,1964-06-07,[P0013],,,,,,,,,,,
 [I0043],,Father of Arif,,,,Khan,Mr,male,,,,,,,,,,,,,
 [I0017],,Father of Carmen & Eugenia,,,,Alcaine,Snr,male,,,,,,,,,,,,,
 [I0071],,Father of Mahendra,,,,Sicka,Mr,male,,,,,,,,,,,,,

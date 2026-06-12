@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 12 JUN 2026
-2 TIME 08:44:47
+2 TIME 15:24:37
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -98,6 +98,10 @@
 1 EDUC York Earwaker Ed TR
 2 DATE 1968
 2 PLAC School Nursery <todo: find name address>, Ankara, Ankara, Turkey
+1 RESI
+2 TYPE Ruth & York 3 month stay before CL
+2 DATE 1968
+2 PLAC Flagstaff?Phonix?, trailer park, Arizon, USA
 1 EDUC York Earwaker Ed CL
 2 DATE 1969
 2 PLAC Chilean school primary, Santiago, Region Metropolitana, Chile
@@ -157,8 +161,8 @@
 1 FAMS @F0014@
 1 FAMS @F0028@
 1 CHAN
-2 DATE 11 JUN 2026
-3 TIME 11:03:16
+2 DATE 12 JUN 2026
+3 TIME 15:13:41
 0 @I0005@ INDI
 1 NAME Ruth /Earwaker/
 2 TYPE birth
@@ -175,6 +179,10 @@
 2 TYPE Ruth Earwaker BD
 2 DATE 2 JUN 1964
 2 PLAC London, England, United Kingdom
+1 RESI
+2 TYPE Ruth & York 3 month stay before CL
+2 DATE 1968
+2 PLAC Flagstaff?Phonix?, trailer park, Arizon, USA
 1 EDUC Ruth Earwaker Ed CL
 2 DATE 1969
 2 PLAC Chilean school primary, Santiago, Region Metropolitana, Chile
@@ -215,8 +223,8 @@
 2 _MREL Step
 1 FAMS @F0007@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 12:45:08
+2 DATE 12 JUN 2026
+3 TIME 15:15:00
 0 @I0006@ INDI
 1 NAME Caroline /Adams/
 2 TYPE birth
@@ -621,7 +629,7 @@
 1 SEX F
 1 BIRT
 2 TYPE Eav Sicka BD
-2 DATE 6 JUN 1964
+2 DATE 7 JUN 1964
 2 PLAC Calcutta, West Bengal, India
 1 EDUC Eva Sicka Ed pri
 2 PLAC London, England, United Kingdom
