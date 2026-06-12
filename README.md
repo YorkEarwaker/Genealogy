@@ -22,6 +22,8 @@ Goals
 ## Status
 TODO
 * <todo: consider, survey of foss software for linux, Gramps, others, >
+* <todo: consider, refine defintion and notes of Graduation to Atheism (positive), find relevant sources, link to sources, >
+* <todo: consider, Graduation to Atheism (positive), where the commitment is made to material reality and its limits needs further consideration, currently only Earth is identified as that is the only place known to contain sentient life capable of this ontological commitment. consider, Solar System instead of Earth as if humanity survives anthropogenic global heating/warming likely humanity may set up permanent habitation on other solar system bodies where the ontological commitment to material reality can be commenced, commencement of an ontological commitement to material reality somewhere in the solar system, in the comming decades and centuries if anthropogenic global heating does not reduce planet Earth to a sink environment where humanity barely hangs on or cannot survive at all, >
 
 DONE
 * <done: consider, intent to commit>

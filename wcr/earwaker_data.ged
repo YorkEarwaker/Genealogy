@@ -3,7 +3,7 @@
 2 VERS 6.0.8
 2 NAME Gramps
 1 DATE 12 JUN 2026
-2 TIME 07:08:15
+2 TIME 08:44:47
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -39,6 +39,8 @@
 2 PLAC Cimitero degli inglesi - last resting place of Francis J Earwaker, Firenze, Firenze, Toscana, Italy
 1 GRAD
 2 TYPE Atheism (positive)
+2 PLAC Earth
+3 NOTE @N0000@
 1 RELI None
 1 FAMC @F0002@
 2 PEDI birth
@@ -142,6 +144,8 @@
 2 PLAC Middlesex University, London, England, United Kingdom
 1 GRAD
 2 TYPE Atheism (positive)
+2 PLAC Earth
+3 NOTE @N0000@
 1 RELI None
 1 FAMC @F0008@
 2 PEDI birth
@@ -1818,4 +1822,6 @@
 1 CHAN
 2 DATE 4 JUN 2026
 3 TIME 21:29:50
+0 @N0000@ NOTE Somewhere on Earth someone starts to make an ontological commitmen
+1 CONC t to material reality
 0 TRLR

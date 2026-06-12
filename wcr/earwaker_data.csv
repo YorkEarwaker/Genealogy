@@ -100,6 +100,7 @@ Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
 [P0099],,E&H house in Ruislip?,Building,,,,[P0014],
 [P0100],,"Howard Johnson's, Restaurant, 825 N. Washington St",Building,,,,[P0007],
 [P0101],,"Tottenham, Art Workshop",Building,,,,[P0014],
+[P0102],,Earth,Planet,,,,,
 
 Person,Surname,Given,Call,Nickname,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
 [I0077],,?,,,,?,Mr,male,,,,,,,,,,,,,
