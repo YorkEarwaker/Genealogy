@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 12 JUN 2026
-2 TIME 15:24:37
+1 DATE 13 JUN 2026
+2 TIME 09:49:15
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -105,8 +105,7 @@
 1 EDUC York Earwaker Ed CL
 2 DATE 1969
 2 PLAC Chilean school primary, Santiago, Region Metropolitana, Chile
-1 EMIG
-2 TYPE York Earwaker Ed CL
+1 EDUC York Earwaker Ed CL
 2 DATE FROM 1970 TO 1971
 2 PLAC Nido de Aguilas, Santiago, Region Metropolitana, Chile
 1 EDUC York Earwaker Ed US
@@ -481,8 +480,8 @@
 2 NPFX Mr
 1 SEX M
 1 BIRT
-2 TYPE Henry Herbert Ash
-2 DATE 1907
+2 TYPE Henry Herbert Ash BD
+2 DATE 16 NOV 1907
 2 PLAC Middelsex, England, United Kingdom
 1 DEAT
 2 TYPE Henry Herbert Ash DD
@@ -704,9 +703,9 @@
 2 DATE 3 JUN 2026
 3 TIME 13:53:54
 0 @I0032@ INDI
-1 NAME Louise Rani /Earwaker/
+1 NAME Louise Eva Rani /Earwaker/
 2 TYPE birth
-2 GIVN Louise Rani
+2 GIVN Louise Eva Rani
 2 SPFX Earwaker
 2 NPFX Mrs
 1 SEX F
@@ -723,8 +722,8 @@
 1 FAMC @F0028@
 2 PEDI birth
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 13:53:54
+2 DATE 13 JUN 2026
+3 TIME 08:18:41
 0 @I0033@ INDI
 1 NAME Natasha Jasmin /Earwaker/
 2 TYPE birth
@@ -1371,10 +1370,11 @@
 2 SPFX ?
 2 NPFX Mr
 1 SEX M
+1 OCCU Semper fidelis?
 1 FAMS @F0034@
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 21:29:50
+2 DATE 13 JUN 2026
+3 TIME 08:27:03
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
