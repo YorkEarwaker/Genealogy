@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 13 JUN 2026
-2 TIME 09:49:15
+1 DATE 14 JUN 2026
+2 TIME 22:27:50
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -777,12 +777,13 @@
 1 EVEN Helen ? ? to Mahendra Sicka
 2 TYPE Marriage
 2 PLAC Calcutta, West Bengal, India
+1 RELI Hindusim
 1 FAMC @F0031@
 2 PEDI birth
 1 FAMS @F0015@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 14:07:40
+2 DATE 14 JUN 2026
+3 TIME 22:25:33
 0 @I0036@ INDI
 1 NAME Sanjay /Sicka/
 2 TYPE birth
@@ -1191,9 +1192,9 @@
 2 DATE 4 JUN 2026
 3 TIME 21:29:50
 0 @I0066@ INDI
-1 NAME Mother of Fernanda /?/
+1 NAME Tina /?/
 2 TYPE birth
-2 GIVN Mother of Fernanda
+2 GIVN Tina
 2 SPFX ?
 2 NPFX Mrs
 1 SEX F
@@ -1203,8 +1204,8 @@
 2 PLAC Chile
 1 FAMS @F0024@
 1 CHAN
-2 DATE 5 JUN 2026
-3 TIME 06:55:02
+2 DATE 13 JUN 2026
+3 TIME 17:04:38
 0 @I0067@ INDI
 1 NAME Margarita /V/
 2 TYPE birth
@@ -1364,17 +1365,17 @@
 2 DATE 4 JUN 2026
 3 TIME 07:26:17
 0 @I0080@ INDI
-1 NAME Chris /?/
+1 NAME Chris Eric? /Horn?/
 2 TYPE birth
-2 GIVN Chris
-2 SPFX ?
+2 GIVN Chris Eric?
+2 SPFX Horn?
 2 NPFX Mr
 1 SEX M
 1 OCCU Semper fidelis?
 1 FAMS @F0034@
 1 CHAN
 2 DATE 13 JUN 2026
-3 TIME 08:27:03
+3 TIME 17:03:28
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
