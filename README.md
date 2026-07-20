@@ -38,7 +38,7 @@ Genealogy
 * ...
 
 Tools - social archaeology 
-* Demographic Profiles [WS](https://visquill.com/gallery/world-demographics/), UN data, date by decade, 
+* Demographic Profiles [WS](https://visquill.com/gallery/world-demographics/), UN data, date by decade, Data source: United Nations Department of Economic and Social Affairs, Population Division. World Population Prospects 2024. 
 
 ## References
 
