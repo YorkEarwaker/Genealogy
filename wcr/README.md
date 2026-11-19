@@ -156,6 +156,7 @@ National Archives - civilian & service
 * The Australian Institute of Aboriginal and Torres Strait Islander Studies [WS](https://aiatsis.gov.au/family-history/family-history-sources/official-records/electoral-rolls-and-voter-records), AU
 * Australian Voting Records [WS](https://www.familysearch.org/en/wiki/Australia_Voting_Records), AU
 * National Library of Australia, [WS](https://www.library.gov.au/), AU
+* Irish Genealogy, [WS](https://www.irishgenealogy.ie/), IE
 * Library and Archives Canada, [WS](https://www.canada.ca/en/library-archives.html), CA, good quality, lots or records, immigration, marriages, of people named earwaker, 
 * Digitized microforms, [WS](https://recherche-collection-search.bac-lac.gc.ca/eng/digitized-archives/index), CA
 * Archives of New Zealand [WS](https://www.archives.govt.nz/find-a-record), NZ
