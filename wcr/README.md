@@ -170,7 +170,9 @@ National Archives - civilian & service
 * Christchurch Libraries, Family History, [WS](https://my.christchurchcitylibraries.com/family-history/), NZ
 * National Archives [WS](https://www.nationalarchives.gov.uk/), UK
 * Emigration Records, [WS](https://www.nls.uk/tools-for-research/family-history/emigration/), UK, NLS
-* Free Cen, [WS](https://www.freecen.org.uk/), UK, 
+* Free Cen, [WS](https://www.freecen.org.uk/), Emerald Isles, Eng, Irl, Sct, Wls, Census Records
+* Free Reg, [WS](https://www.freereg.org.uk/), Emerald Isles, Eng, Irl, Sct, Wls, Parish Registers
+* Free BMD, [WS](https://www.freebmd2.org.uk/), Emerald Isles, Eng, Irl, Sct, Wls, Births Marriages Deaths
 
 Service Records - service, army, navy, 
 * Where to find royal navy service records, [WS](https://www.iwm.org.uk/research/tracing-your-family-history/tracing-your-royal-naval-history/where-to-find-royal-navy-service-records), UK, Imperial War Museum, 
