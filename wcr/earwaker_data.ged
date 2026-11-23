@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 14 JUN 2026
-2 TIME 22:27:50
+1 DATE 23 NOV 2026
+2 TIME 19:29:52
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_data.ged
 1 COPR Copyright (c) 2026 .
@@ -18,14 +18,15 @@
 1 NAME Francis Joseph /Earwaker/
 2 TYPE birth
 2 GIVN Francis Joseph
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 2 NICK Charlie
 1 SEX M
 1 BIRT
 2 TYPE Francis Joseph Earwaker BD
 2 DATE 16 JUL 1936
-2 PLAC Middelsex, England, United Kingdom
+2 PLAC Romford, Middelsex, England, United Kingdom
+2 NOTE @N0001@
 1 DEAT
 2 TYPE Francis Joseph Earwaker DD
 2 PLAC Firenze, Firenze, Toscana, Italy
@@ -47,13 +48,13 @@
 1 FAMS @F0008@
 1 FAMS @F0005@
 1 CHAN
-2 DATE 11 JUN 2026
-3 TIME 11:03:52
+2 DATE 23 NOV 2026
+3 TIME 19:16:44
 0 @I0001@ INDI
-1 NAME Caroline /Freatherstone/
+1 NAME Caroline /Featherstone/
 2 TYPE birth
 2 GIVN Caroline
-2 SPFX Freatherstone
+2 SURN Featherstone
 2 NPFX Miss
 1 SEX F
 1 BIRT
@@ -65,13 +66,13 @@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 19:18:55
+2 DATE 23 NOV 2026
+3 TIME 19:25:44
 0 @I0002@ INDI
 1 NAME Joseph Ernest /Earwaker/
 2 TYPE birth
 2 GIVN Joseph Ernest
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -82,13 +83,13 @@
 2 PEDI birth
 1 FAMS @F0002@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 08:19:13
+2 DATE 23 NOV 2026
+3 TIME 19:16:16
 0 @I0004@ INDI
 1 NAME York /Earwaker/
 2 TYPE birth
 2 GIVN York
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -160,13 +161,13 @@
 1 FAMS @F0014@
 1 FAMS @F0028@
 1 CHAN
-2 DATE 12 JUN 2026
-3 TIME 15:13:41
+2 DATE 23 NOV 2026
+3 TIME 19:15:23
 0 @I0005@ INDI
 1 NAME Ruth /Earwaker/
 2 TYPE birth
 2 GIVN Ruth
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mrs
 1 NAME Ruth Marshall /Miss Earwaker Mrs Marshall/
 2 TYPE aka
@@ -222,13 +223,13 @@
 2 _MREL Step
 1 FAMS @F0007@
 1 CHAN
-2 DATE 12 JUN 2026
-3 TIME 15:15:00
+2 DATE 23 NOV 2026
+3 TIME 19:15:32
 0 @I0006@ INDI
 1 NAME Caroline /Adams/
 2 TYPE birth
 2 GIVN Caroline
-2 SPFX Adams
+2 SURN Adams
 1 SEX F
 1 BIRT
 2 TYPE Caroline Adams BD
@@ -239,13 +240,13 @@
 2 DATE 1956
 1 FAMS @F0003@
 1 CHAN
-2 DATE 21 MAY 2026
-3 TIME 22:56:23
+2 DATE 23 NOV 2026
+3 TIME 19:20:50
 0 @I0007@ INDI
-1 NAME Joseph /Freatherstone/
+1 NAME Joseph /Featherstone/
 2 TYPE birth
 2 GIVN Joseph
-2 SPFX Freatherstone
+2 SURN Featherstone
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -256,13 +257,13 @@
 2 PEDI birth
 1 FAMS @F0003@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 15:37:09
+2 DATE 23 NOV 2026
+3 TIME 19:25:53
 0 @I0008@ INDI
 1 NAME John /Earwaker/
 2 TYPE birth
 2 GIVN John
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -274,13 +275,13 @@
 2 PEDI birth
 1 FAMS @F0004@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 15:58:42
+2 DATE 23 NOV 2026
+3 TIME 19:16:26
 0 @I0009@ INDI
 1 NAME Charlotte Eleanor /Orpwood/
 2 TYPE birth
 2 GIVN Charlotte Eleanor
-2 SPFX Orpwood
+2 SURN Orpwood
 2 NPFX Miss
 1 SEX F
 1 BIRT
@@ -291,13 +292,13 @@
 2 PEDI birth
 1 FAMS @F0004@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 15:14:32
+2 DATE 23 NOV 2026
+3 TIME 19:12:50
 0 @I0010@ INDI
 1 NAME Elizabeth Dorothy /Ash/
 2 TYPE birth
 2 GIVN Elizabeth Dorothy
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mrs
 1 NAME Elizabeth Dorothy Earwaker //
 2 TYPE married
@@ -326,13 +327,13 @@
 1 ASSO @I0065@
 2 RELA Nanny
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 08:27:08
+2 DATE 23 NOV 2026
+3 TIME 19:19:26
 0 @I0011@ INDI
 1 NAME Carmen Elena /Alcaine/
 2 TYPE birth
 2 GIVN Carmen Elena
-2 SPFX Alcaine
+2 SURN Alcaine
 2 NPFX Mrs
 2 NICK Charlie
 1 NAME Carmen Elena Martinez //
@@ -351,13 +352,13 @@
 1 ASSO @I0067@
 2 RELA House Keeper?
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 10:30:38
+2 DATE 23 NOV 2026
+3 TIME 19:20:15
 0 @I0012@ INDI
 1 NAME Luis Eduardo /Martinez/
 2 TYPE birth
 2 GIVN Luis Eduardo
-2 SPFX Martinez
+2 SURN Martinez
 2 NPFX Mr
 1 SEX M
 1 EDUC Luis Eduardo Martinez Ed US
@@ -372,13 +373,13 @@
 2 _MREL birth
 1 FAMS @F0018@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 12:45:08
+2 DATE 23 NOV 2026
+3 TIME 19:13:27
 0 @I0013@ INDI
 1 NAME Margarita Eugenia /Martinez/
 2 TYPE birth
 2 GIVN Margarita Eugenia
-2 SPFX Martinez
+2 SURN Martinez
 2 NPFX Mrs
 2 NICK Daisy
 1 SEX F
@@ -394,24 +395,24 @@
 2 _MREL birth
 1 FAMS @F0023@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 12:45:08
+2 DATE 23 NOV 2026
+3 TIME 19:13:19
 0 @I0014@ INDI
 1 NAME Rene Fransisco /Martinez/
 2 TYPE birth
 2 GIVN Rene Fransisco
-2 SPFX Martinez
+2 SURN Martinez
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0006@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 09:31:13
+2 DATE 23 NOV 2026
+3 TIME 19:13:09
 0 @I0015@ INDI
 1 NAME Angela Eugenia /Alcaine/
 2 TYPE birth
 2 GIVN Angela Eugenia
-2 SPFX Alcaine
+2 SURN Alcaine
 2 NPFX Mrs
 1 NAME Eugenia Alcaine Stillman //
 2 TYPE married
@@ -432,13 +433,13 @@
 1 FAMC @F0009@
 2 PEDI birth
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:28:46
+2 DATE 23 NOV 2026
+3 TIME 19:20:30
 0 @I0016@ INDI
 1 NAME Ross /Wotherspoon/
 2 TYPE birth
 2 GIVN Ross
-2 SPFX Wotherspoon
+2 SURN Wotherspoon
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -449,34 +450,34 @@
 2 PLAC Australia
 1 FAMS @F0007@
 1 CHAN
-2 DATE 2 JUN 2026
-3 TIME 07:53:35
+2 DATE 23 NOV 2026
+3 TIME 19:08:29
 0 @I0017@ INDI
 1 NAME Father of Carmen & Eugenia /Alcaine/
 2 TYPE birth
 2 GIVN Father of Carmen & Eugenia
-2 SPFX Alcaine
+2 SURN Alcaine
 2 NPFX Snr
 1 SEX M
 1 FAMS @F0009@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 11:59:14
+2 DATE 23 NOV 2026
+3 TIME 19:20:04
 0 @I0018@ INDI
 1 NAME Mother of Carmen & Eugenia /Caceres/
 2 TYPE birth
 2 GIVN Mother of Carmen & Eugenia
-2 SPFX Caceres
+2 SURN Caceres
 1 SEX F
 1 FAMS @F0009@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 10:41:57
+2 DATE 23 NOV 2026
+3 TIME 19:17:09
 0 @I0019@ INDI
 1 NAME Henry Herbert /Ash/
 2 TYPE birth
 2 GIVN Henry Herbert
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -491,13 +492,13 @@
 2 PEDI birth
 1 FAMS @F0010@
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:19:08
 0 @I0020@ INDI
 1 NAME Ethel Dorothy /Bradley/
 2 TYPE birth
 2 GIVN Ethel Dorothy
-2 SPFX Bradley
+2 SURN Bradley
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -509,13 +510,13 @@
 2 PEDI birth
 1 FAMS @F0010@
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 10:56:09
+2 DATE 23 NOV 2026
+3 TIME 19:17:55
 0 @I0021@ INDI
 1 NAME Hannah Sarah /Rose/
 2 TYPE birth
 2 GIVN Hannah Sarah
-2 SPFX Rose
+2 SURN Rose
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -525,13 +526,13 @@
 1 RELI Judaism
 1 FAMS @F0011@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 19:22:58
+2 DATE 23 NOV 2026
+3 TIME 19:12:13
 0 @I0022@ INDI
 1 NAME James /Earwaker/
 2 TYPE birth
 2 GIVN James
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -540,35 +541,35 @@
 2 PLAC Middelsex, England, United Kingdom
 1 FAMS @F0011@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 14:34:33
+2 DATE 23 NOV 2026
+3 TIME 19:16:34
 0 @I0023@ INDI
 1 NAME James Moxey /Orpwood/
 2 TYPE birth
 2 GIVN James Moxey
-2 SPFX Orpwood
+2 SURN Orpwood
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0012@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 15:12:19
+2 DATE 23 NOV 2026
+3 TIME 19:12:31
 0 @I0024@ INDI
 1 NAME Charlotte Elizabeth /Flindall/
 2 TYPE birth
 2 GIVN Charlotte Elizabeth
-2 SPFX Flindall
+2 SURN Flindall
 2 NPFX Mrs
 1 SEX F
 1 FAMS @F0012@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 15:12:19
+2 DATE 23 NOV 2026
+3 TIME 19:15:01
 0 @I0025@ INDI
 1 NAME Mary /Barrett/
 2 TYPE birth
 2 GIVN Mary
-2 SPFX Barrett
+2 SURN Barrett
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -579,13 +580,13 @@
 1 OCCU Wife
 1 FAMS @F0013@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 19:22:11
+2 DATE 23 NOV 2026
+3 TIME 19:18:05
 0 @I0026@ INDI
 1 NAME John /Featherstone/
 2 TYPE birth
 2 GIVN John
-2 SPFX Featherstone
+2 SURN Featherstone
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -594,33 +595,33 @@
 2 PLAC Roscommon, Ireland
 1 FAMS @F0013@
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 15:56:14
+2 DATE 23 NOV 2026
+3 TIME 19:15:09
 0 @I0027@ INDI
 1 NAME James Frederick /Adams/
 2 TYPE birth
 2 GIVN James Frederick
-2 SPFX Adams
+2 SURN Adams
 2 NPFX Mr
 1 SEX M
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 16:06:06
+2 DATE 23 NOV 2026
+3 TIME 19:20:39
 0 @I0028@ INDI
 1 NAME Ann /Robson/
 2 TYPE birth
 2 GIVN Ann
-2 SPFX Robson
+2 SURN Robson
 2 NPFX Mrs
 1 SEX F
 1 CHAN
-2 DATE 22 MAY 2026
-3 TIME 16:07:09
+2 DATE 23 NOV 2026
+3 TIME 19:12:23
 0 @I0029@ INDI
 1 NAME Eva /Sicka/
 2 TYPE birth
 2 GIVN Eva
-2 SPFX Sicka
+2 SURN Sicka
 2 NPFX Mrs
 1 NAME Eva Earwaker //
 2 TYPE married
@@ -647,13 +648,13 @@
 1 FAMS @F0029@
 1 FAMS @F0030@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 13:23:36
+2 DATE 23 NOV 2026
+3 TIME 19:11:53
 0 @I0030@ INDI
 1 NAME Kiran York /Earwaker/
 2 TYPE birth
 2 GIVN Kiran York
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -675,13 +676,13 @@
 2 _FREL None
 2 _MREL birth
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 13:55:15
+2 DATE 23 NOV 2026
+3 TIME 19:16:07
 0 @I0031@ INDI
 1 NAME Matthew Harry /Earwaker/
 2 TYPE birth
 2 GIVN Matthew Harry
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -700,13 +701,13 @@
 1 FAMC @F0028@
 2 PEDI birth
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 13:53:54
+2 DATE 23 NOV 2026
+3 TIME 19:15:49
 0 @I0032@ INDI
 1 NAME Louise Eva Rani /Earwaker/
 2 TYPE birth
 2 GIVN Louise Eva Rani
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -722,13 +723,13 @@
 1 FAMC @F0028@
 2 PEDI birth
 1 CHAN
-2 DATE 13 JUN 2026
-3 TIME 08:18:41
+2 DATE 23 NOV 2026
+3 TIME 19:15:59
 0 @I0033@ INDI
 1 NAME Natasha Jasmin /Earwaker/
 2 TYPE birth
 2 GIVN Natasha Jasmin
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -752,26 +753,26 @@
 2 PEDI birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 21:19:46
+2 DATE 23 NOV 2026
+3 TIME 19:15:41
 0 @I0034@ INDI
 1 NAME Helen /?/
 2 TYPE birth
 2 GIVN Helen
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 FAMC @F0019@
 2 PEDI birth
 1 FAMS @F0015@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 21:38:44
+2 DATE 23 NOV 2026
+3 TIME 19:23:45
 0 @I0035@ INDI
 1 NAME Mahendra /Sicka/
 2 TYPE birth
 2 GIVN Mahendra
-2 SPFX Sicka
+2 SURN Sicka
 2 NPFX Mr
 1 SEX M
 1 EVEN Helen ? ? to Mahendra Sicka
@@ -782,72 +783,72 @@
 2 PEDI birth
 1 FAMS @F0015@
 1 CHAN
-2 DATE 14 JUN 2026
-3 TIME 22:25:33
+2 DATE 23 NOV 2026
+3 TIME 19:11:08
 0 @I0036@ INDI
 1 NAME Sanjay /Sicka/
 2 TYPE birth
 2 GIVN Sanjay
-2 SPFX Sicka
+2 SURN Sicka
 1 SEX M
 1 FAMC @F0015@
 2 PEDI birth
 1 FAMS @F0033@
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:26:17
+2 DATE 23 NOV 2026
+3 TIME 19:10:36
 0 @I0037@ INDI
 1 NAME Justin /Sicka/
 2 TYPE birth
 2 GIVN Justin
-2 SPFX Sicka
+2 SURN Sicka
 1 SEX M
 1 FAMC @F0015@
 2 PEDI birth
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:26:17
+2 DATE 23 NOV 2026
+3 TIME 19:11:19
 0 @I0038@ INDI
 1 NAME Michelle /Sicka/
 2 TYPE birth
 2 GIVN Michelle
-2 SPFX Sicka
+2 SURN Sicka
 1 SEX F
 1 FAMC @F0015@
 2 PEDI birth
 1 FAMS @F0032@
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:22:48
+2 DATE 23 NOV 2026
+3 TIME 19:10:59
 0 @I0039@ INDI
 1 NAME Laura /Marshall/
 2 TYPE birth
 2 GIVN Laura
-2 SPFX Marshall
+2 SURN Marshall
 2 NPFX Mrs
 1 SEX F
 1 FAMC @F0007@
 2 PEDI birth
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 12:29:36
+2 DATE 23 NOV 2026
+3 TIME 19:13:47
 0 @I0040@ INDI
 1 NAME Nicola /Marshall/
 2 TYPE birth
 2 GIVN Nicola
-2 SPFX Marshall
+2 SURN Marshall
 2 NPFX Mrs
 1 SEX F
 1 FAMC @F0007@
 2 PEDI birth
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 12:29:36
+2 DATE 23 NOV 2026
+3 TIME 19:13:37
 0 @I0041@ INDI
 1 NAME Arif /Khan/
 2 TYPE birth
 2 GIVN Arif
-2 SPFX Khan
+2 SURN Khan
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -861,80 +862,80 @@
 2 PEDI birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 16:28:46
+2 DATE 23 NOV 2026
+3 TIME 19:14:15
 0 @I0042@ INDI
 1 NAME Sami /Khan/
 2 TYPE birth
 2 GIVN Sami
-2 SPFX Khan
+2 SURN Khan
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0016@
 2 PEDI birth
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 12:48:13
+2 DATE 23 NOV 2026
+3 TIME 19:13:56
 0 @I0043@ INDI
 1 NAME Father of Arif /Khan/
 2 TYPE birth
 2 GIVN Father of Arif
-2 SPFX Khan
+2 SURN Khan
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0017@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 16:30:12
+2 DATE 23 NOV 2026
+3 TIME 19:14:05
 0 @I0044@ INDI
 1 NAME Mother of Arif /?/
 2 TYPE birth
 2 GIVN Mother of Arif
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 FAMS @F0017@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 16:30:28
+2 DATE 23 NOV 2026
+3 TIME 19:23:23
 0 @I0045@ INDI
 1 NAME Kieran /O'Conner/
 2 TYPE birth
 2 GIVN Kieran
-2 SPFX O'Conner
+2 SURN O'Conner
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0018@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 16:34:59
+2 DATE 23 NOV 2026
+3 TIME 19:13:00
 0 @I0046@ INDI
 1 NAME Helen /?/
 2 TYPE birth
 2 GIVN Helen
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 FAMS @F0019@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 21:38:44
+2 DATE 23 NOV 2026
+3 TIME 19:23:33
 0 @I0047@ INDI
 1 NAME Sid (uncle) /?/
 2 TYPE birth
 2 GIVN Sid (uncle)
-2 SPFX ?
+2 SURN ?
 2 NPFX Mr
 1 SEX M
 1 DSCR Uncle to Ethel? or Elizabeth? Ash or Bradley
 1 CHAN
-2 DATE 2 JUN 2026
-3 TIME 18:32:35
+2 DATE 23 NOV 2026
+3 TIME 19:22:48
 0 @I0048@ INDI
 1 NAME Frederick /Bradley/
 2 TYPE birth
 2 GIVN Frederick
-2 SPFX Bradley
+2 SURN Bradley
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -949,13 +950,13 @@
 3 STAE Tasmania
 3 CTRY Australia
 1 CHAN
-2 DATE 31 MAY 2026
-3 TIME 12:21:00
+2 DATE 23 NOV 2026
+3 TIME 19:17:37
 0 @I0049@ INDI
 1 NAME Frederick /Bradley/
 2 TYPE birth
 2 GIVN Frederick
-2 SPFX Bradley
+2 SURN Bradley
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -964,13 +965,13 @@
 2 PLAC England
 1 FAMS @F0020@
 1 CHAN
-2 DATE 31 MAY 2026
-3 TIME 11:05:57
+2 DATE 23 NOV 2026
+3 TIME 19:17:46
 0 @I0050@ INDI
 1 NAME Alice Annie /Tribe/
 2 TYPE birth
 2 GIVN Alice Annie
-2 SPFX Tribe
+2 SURN Tribe
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -978,13 +979,13 @@
 2 DATE 1882
 1 FAMS @F0020@
 1 CHAN
-2 DATE 31 MAY 2026
-3 TIME 11:18:08
+2 DATE 23 NOV 2026
+3 TIME 19:08:51
 0 @I0051@ INDI
 1 NAME Stephen Henry /Ash/
 2 TYPE birth
 2 GIVN Stephen Henry
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -995,13 +996,13 @@
 2 PEDI birth
 1 FAMS @F0021@
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:26:39
+2 DATE 23 NOV 2026
+3 TIME 19:18:18
 0 @I0052@ INDI
 1 NAME Louisa Annie /Smith/
 2 TYPE birth
 2 GIVN Louisa Annie
-2 SPFX Smith
+2 SURN Smith
 2 NPFX Mrs
 1 NAME Louisa Annie Earwaker //
 2 TYPE married
@@ -1017,13 +1018,13 @@
 2 PLAC England
 1 FAMS @F0021@
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:21:10
+2 DATE 23 NOV 2026
+3 TIME 19:09:00
 0 @I0053@ INDI
 1 NAME Edwin /Ash/
 2 TYPE birth
 2 GIVN Edwin
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -1032,13 +1033,13 @@
 2 PLAC England
 1 FAMS @F0022@
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:26:39
+2 DATE 23 NOV 2026
+3 TIME 19:19:34
 0 @I0054@ INDI
 1 NAME Mary /Reeves/
 2 TYPE birth
 2 GIVN Mary
-2 SPFX Reeves
+2 SURN Reeves
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -1047,97 +1048,97 @@
 2 PLAC England
 1 FAMS @F0022@
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:26:39
+2 DATE 23 NOV 2026
+3 TIME 19:12:40
 0 @I0055@ INDI
 1 NAME Stephen Charles /Ash/
 2 TYPE birth
 2 GIVN Stephen Charles
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0021@
 2 PEDI birth
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:18:26
 0 @I0056@ INDI
 1 NAME Percival Henry /Ash/
 2 TYPE birth
 2 GIVN Percival Henry
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0021@
 2 PEDI birth
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:18:57
 0 @I0057@ INDI
 1 NAME Ruth Maud Louisa /Ash/
 2 TYPE birth
 2 GIVN Ruth Maud Louisa
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mrs
 1 SEX F
 1 FAMC @F0021@
 2 PEDI birth
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:18:49
 0 @I0058@ INDI
 1 NAME George Charles /Ash/
 2 TYPE birth
 2 GIVN George Charles
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0021@
 2 PEDI birth
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:19:17
 0 @I0059@ INDI
 1 NAME Stanley Ambrose /Ash/
 2 TYPE birth
 2 GIVN Stanley Ambrose
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0021@
 2 PEDI birth
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:18:37
 0 @I0060@ INDI
 1 NAME Charles Smith /Ash/
 2 TYPE birth
 2 GIVN Charles Smith
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0021@
 2 PEDI birth
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:19:54
 0 @I0061@ INDI
 1 NAME Douglas Haig /Ash/
 2 TYPE birth
 2 GIVN Douglas Haig
-2 SPFX Ash
+2 SURN Ash
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0021@
 2 PEDI birth
 1 CHAN
-2 DATE 30 MAY 2026
-3 TIME 22:35:10
+2 DATE 23 NOV 2026
+3 TIME 19:19:44
 0 @I0062@ INDI
 1 NAME Lilian /Bradley/
 2 TYPE birth
 2 GIVN Lilian
-2 SPFX Bradley
+2 SURN Bradley
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -1146,39 +1147,39 @@
 1 FAMC @F0020@
 2 PEDI birth
 1 CHAN
-2 DATE 31 MAY 2026
-3 TIME 12:21:00
+2 DATE 23 NOV 2026
+3 TIME 19:17:27
 0 @I0063@ INDI
 1 NAME Robert /Bradley/
 2 TYPE birth
 2 GIVN Robert
-2 SPFX Bradley
+2 SURN Bradley
 2 NPFX Mr
 1 SEX M
 1 BIRT
 2 TYPE Robert Bradley BD
-2 DATE 1909?
+2 DATE ABT 1909
 1 FAMC @F0020@
 2 PEDI birth
 1 CHAN
-2 DATE 31 MAY 2026
-3 TIME 12:21:00
+2 DATE 23 NOV 2026
+3 TIME 19:17:18
 0 @I0064@ INDI
 1 NAME Robert /?/
 2 TYPE birth
 2 GIVN Robert
-2 SPFX ?
+2 SURN ?
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0023@
 1 CHAN
-2 DATE 31 MAY 2026
-3 TIME 18:26:48
+2 DATE 23 NOV 2026
+3 TIME 19:23:00
 0 @I0065@ INDI
 1 NAME Fernanda Consuela? /Contreras?/
 2 TYPE birth
 2 GIVN Fernanda Consuela?
-2 SPFX Contreras?
+2 SURN Contreras?
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -1189,28 +1190,28 @@
 2 PEDI birth
 1 FAMS @F0034@
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 21:29:50
+2 DATE 23 NOV 2026
+3 TIME 19:16:56
 0 @I0066@ INDI
 1 NAME Tina /?/
 2 TYPE birth
 2 GIVN Tina
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 BIRT
 2 TYPE Mother of Fernanda BD
-2 DATE 1935?
+2 DATE ABT 1935
 2 PLAC Chile
 1 FAMS @F0024@
 1 CHAN
-2 DATE 13 JUN 2026
-3 TIME 17:04:38
+2 DATE 23 NOV 2026
+3 TIME 19:21:31
 0 @I0067@ INDI
 1 NAME Margarita /V/
 2 TYPE birth
 2 GIVN Margarita
-2 SPFX V
+2 SURN V
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -1218,13 +1219,13 @@
 2 PLAC El Salvador
 1 FAMS @F0025@
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 11:00:53
+2 DATE 23 NOV 2026
+3 TIME 19:08:43
 0 @I0068@ INDI
 1 NAME ? daughter of margarita v /?/
 2 TYPE birth
 2 GIVN ? daughter of margarita v
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 BIRT
@@ -1233,149 +1234,150 @@
 1 FAMC @F0025@
 2 PEDI birth
 1 CHAN
-2 DATE 1 JUN 2026
-3 TIME 11:00:05
+2 DATE 23 NOV 2026
+3 TIME 19:24:14
 0 @I0069@ INDI
 1 NAME Victor /?/
 2 TYPE birth
 2 GIVN Victor
-2 SPFX ?
+2 SURN ?
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0027@
 1 CHAN
-2 DATE 2 JUN 2026
-3 TIME 11:47:00
+2 DATE 23 NOV 2026
+3 TIME 19:21:00
 0 @I0070@ INDI
 1 NAME Geoff? /?/
 2 TYPE birth
 2 GIVN Geoff?
-2 SPFX ?
+2 SURN ?
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0030@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 13:23:36
+2 DATE 23 NOV 2026
+3 TIME 19:23:58
 0 @I0071@ INDI
 1 NAME Father of Mahendra /Sicka/
 2 TYPE birth
 2 GIVN Father of Mahendra
-2 SPFX Sicka
+2 SURN Sicka
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0031@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 14:05:34
+2 DATE 23 NOV 2026
+3 TIME 19:11:42
 0 @I0072@ INDI
 1 NAME Mother of Mahendra /?/
 2 TYPE birth
 2 GIVN Mother of Mahendra
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 FAMS @F0031@
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 14:05:34
+2 DATE 23 NOV 2026
+3 TIME 19:23:12
 0 @I0073@ INDI
 1 NAME Arun? /Sicka/
 2 TYPE birth
 2 GIVN Arun?
-2 SPFX Sicka
+2 SURN Sicka
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0031@
 2 PEDI birth
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 14:07:40
+2 DATE 23 NOV 2026
+3 TIME 19:12:02
 0 @I0074@ INDI
 1 NAME Vijay /Sicka/
 2 TYPE birth
 2 GIVN Vijay
-2 SPFX Sicka
+2 SURN Sicka
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0031@
 2 PEDI birth
 1 CHAN
-2 DATE 3 JUN 2026
-3 TIME 14:07:40
+2 DATE 23 NOV 2026
+3 TIME 19:10:26
 0 @I0075@ INDI
 1 NAME N? /Sicka/
 2 TYPE birth
 2 GIVN N?
-2 SPFX Sicka
+2 SURN Sicka
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0031@
 2 PEDI birth
 1 CHAN
-2 DATE 5 JUN 2026
-3 TIME 06:58:41
+2 DATE 23 NOV 2026
+3 TIME 19:10:50
 0 @I0076@ INDI
 1 NAME Simon /?/
 2 TYPE birth
 2 GIVN Simon
-2 SPFX ?
+2 SURN ?
 2 NPFX Mr
 1 SEX M
 1 DEAT
+2 TYPE Simon DD
 2 DATE MAY 2026
 2 PLAC Australia
 1 FAMS @F0032@
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:22:48
+2 DATE 23 NOV 2026
+3 TIME 19:22:02
 0 @I0077@ INDI
 1 NAME ? /?/
 2 TYPE birth
 2 GIVN ?
-2 SPFX ?
+2 SURN ?
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0032@
 2 PEDI birth
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:22:48
+2 DATE 23 NOV 2026
+3 TIME 19:24:25
 0 @I0078@ INDI
 1 NAME ? /?/
 2 TYPE birth
 2 GIVN ?
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 FAMS @F0033@
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:24:09
+2 DATE 23 NOV 2026
+3 TIME 19:08:15
 0 @I0079@ INDI
 1 NAME Joel /Sicka/
 2 TYPE birth
 2 GIVN Joel
-2 SPFX Sicka
+2 SURN Sicka
 2 NPFX Mr
 1 SEX M
 1 FAMC @F0033@
 2 PEDI birth
 1 CHAN
-2 DATE 4 JUN 2026
-3 TIME 07:26:17
+2 DATE 23 NOV 2026
+3 TIME 19:11:29
 0 @I0080@ INDI
 1 NAME Chris Eric? /Horn?/
 2 TYPE birth
 2 GIVN Chris Eric?
-2 SPFX Horn?
+2 SURN Horn?
 2 NPFX Mr
 1 SEX M
 1 OCCU Semper fidelis?
 1 FAMS @F0034@
 1 CHAN
-2 DATE 13 JUN 2026
-3 TIME 17:03:28
+2 DATE 23 NOV 2026
+3 TIME 19:14:30
 0 @F0002@ FAM
 1 HUSB @I0002@
 1 WIFE @I0001@
@@ -1833,4 +1835,24 @@
 3 TIME 21:29:50
 0 @N0000@ NOTE Somewhere on Earth someone starts to make an ontological commitmen
 1 CONC t to material reality
+0 @N0001@ NOTE https://www.freebmd2.org.uk/6afffc49b18f7cc81424e709/entry-informat
+1 CONC ion/173469880/francis-j-earwaker-birth-essex-romford-v4a-p752?record_has
+1 CONC h=2yLgQG49P26o6NcXrfsslA
+1 CONT 
+1 CONT      
+1 CONT 
+1 CONT Francis J EARWAKER's birth record
+1 CONT Entry Information about Francis J EARWAKER
+1 CONT Surname 	EARWAKER
+1 CONT Given Name 	Francis J
+1 CONT Record Type 	Birth
+1 CONT Registration Date 	Jul to Sep 1936
+1 CONT Mother's Maiden Name 	Featherstone
+1 CONT District 	Romford
+1 CONT Volume 	4a
+1 CONT Page 	
+1 CONT 752
+1 CONT (View other entries on this page.)
+1 CONT Transcriber 	Valde
+1 CONT 
 0 TRLR
