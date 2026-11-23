@@ -2,8 +2,8 @@
 1 SOUR Gramps
 2 VERS 6.0.8
 2 NAME Gramps
-1 DATE 28 MAY 2026
-2 TIME 02:12:53
+1 DATE 23 NOV 2026
+2 TIME 19:01:06
 1 SUBM @SUBM@
 1 FILE /home/york-earwaker/Documents/family/family-tree/earwaker_ms_data.ged
 1 COPR Copyright (c) 2026 .
@@ -18,7 +18,7 @@
 1 NAME Samuel David /Earwaker/
 2 TYPE birth
 2 GIVN Samuel David
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -50,13 +50,13 @@
 1 FAMS @F0002@
 1 NOTE @N0000@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 10:15:14
+2 DATE 23 NOV 2026
+3 TIME 18:33:05
 0 @I0001@ INDI
 1 NAME George Herbert /Earwaker/
 2 TYPE birth
 2 GIVN George Herbert
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -72,13 +72,13 @@
 2 PEDI birth
 1 NOTE @N0001@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:58:15
+2 DATE 23 NOV 2026
+3 TIME 18:39:20
 0 @I0002@ INDI
 1 NAME Edgar Charles /Earwaker/
 2 TYPE birth
 2 GIVN Edgar Charles
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -95,13 +95,13 @@
 1 FAMC @F0001@
 2 PEDI birth
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 11:16:49
+2 DATE 23 NOV 2026
+3 TIME 18:42:18
 0 @I0003@ INDI
 1 NAME George /Earwaker/
 2 TYPE birth
 2 GIVN George
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -110,13 +110,13 @@
 2 NOTE @N0007@
 1 FAMS @F0000@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:23:32
+2 DATE 23 NOV 2026
+3 TIME 18:39:38
 0 @I0004@ INDI
 1 NAME E /Earwaker/
 2 TYPE birth
 2 GIVN E
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -124,13 +124,13 @@
 2 PLAC Christchurch, Canterbury, New Zealand
 1 FAMS @F0001@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:22:05
+2 DATE 23 NOV 2026
+3 TIME 18:42:34
 0 @I0005@ INDI
 1 NAME P. S. /Spence/
 2 TYPE birth
 2 GIVN P. S.
-2 SPFX Spence
+2 SURN Spence
 2 NPFX Mrs
 1 NAME P. S. Earwaker //
 2 TYPE married
@@ -142,13 +142,13 @@
 2 NOTE @N0008@
 1 FAMS @F0002@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:18:13
+2 DATE 23 NOV 2026
+3 TIME 18:28:11
 0 @I0006@ INDI
 1 NAME Lily Harris /?/
 2 TYPE birth
 2 GIVN Lily Harris
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME ? Earwaker //
 2 TYPE married
@@ -156,25 +156,25 @@
 1 SEX F
 1 FAMS @F0003@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:46:50
 0 @I0007@ INDI
 1 NAME William Samuel /Earwaker/
 2 TYPE birth
 2 GIVN William Samuel
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0003@
 1 NOTE @N0009@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:17:48
+2 DATE 23 NOV 2026
+3 TIME 18:28:21
 0 @I0008@ INDI
 1 NAME David Sams /Earwaker/
 2 TYPE birth
 2 GIVN David Sams
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -188,13 +188,13 @@
 1 FAMC @F0004@
 2 PEDI birth
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 13:38:00
+2 DATE 23 NOV 2026
+3 TIME 18:42:43
 0 @I0009@ INDI
 1 NAME S.E. /?/
 2 TYPE birth
 2 GIVN S.E.
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME S. E. Earwaker //
 2 TYPE married
@@ -206,13 +206,13 @@
 2 NOTE @N0010@
 1 FAMS @F0004@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:45:52
 0 @I0010@ INDI
 1 NAME Charles /Earwaker/
 2 TYPE birth
 2 GIVN Charles
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -230,13 +230,13 @@
 2 PLAC United Kingdom
 2 NOTE @N0012@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 23:14:29
+2 DATE 23 NOV 2026
+3 TIME 18:43:00
 0 @I0011@ INDI
 1 NAME John Bennison /Earwaker/
 2 TYPE birth
 2 GIVN John Bennison
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -258,13 +258,13 @@
 1 FAMC @F0005@
 2 PEDI birth
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 00:55:55
+2 DATE 23 NOV 2026
+3 TIME 18:37:30
 0 @I0012@ INDI
 1 NAME William /Earwaker/
 2 TYPE birth
 2 GIVN William
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -272,13 +272,13 @@
 2 PLAC Ellisfield, Basingstoke, Hampshire, England
 1 FAMS @F0005@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:17:11
+2 DATE 23 NOV 2026
+3 TIME 18:30:56
 0 @I0013@ INDI
 1 NAME Ethel /?/
 2 TYPE birth
 2 GIVN Ethel
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Ethel Earwaker //
 2 TYPE married
@@ -289,13 +289,13 @@
 2 PLAC Ellisfield, Basingstoke, Hampshire, England
 1 FAMS @F0005@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:47:19
 0 @I0016@ INDI
 1 NAME Henry Gordon /Earwaker/
 2 TYPE birth
 2 GIVN Henry Gordon
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -320,13 +320,13 @@
 1 FAMC @F0007@
 2 PEDI birth
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 11:04:07
+2 DATE 23 NOV 2026
+3 TIME 18:38:07
 0 @I0017@ INDI
 1 NAME William Henry /Earwaker/
 2 TYPE birth
 2 GIVN William Henry
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -335,13 +335,13 @@
 2 NOTE @N0016@
 1 FAMS @F0007@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:16:52
+2 DATE 23 NOV 2026
+3 TIME 18:28:46
 0 @I0018@ INDI
 1 NAME Emily Kate /?/
 2 TYPE birth
 2 GIVN Emily Kate
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Emily Kate Earwaker //
 2 TYPE married
@@ -353,13 +353,13 @@
 2 NOTE @N0016@
 1 FAMS @F0007@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:47:38
 0 @I0019@ INDI
 1 NAME William /Earwaker/
 2 TYPE birth
 2 GIVN William
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -371,49 +371,52 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:01:09
+2 DATE 23 NOV 2026
+3 TIME 18:30:47
 0 @I0020@ INDI
 1 NAME Thomas /Earwaker/
 2 TYPE birth
 2 GIVN Thomas
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
 2 TYPE T Earwaker MS
 2 PLAC United Kingdom
 2 NOTE @N0018@
+2 NOTE @WO 372/6/144810@
 1 _MILT
 2 TYPE Con, World War I
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:55:16
+2 DATE 23 NOV 2026
+3 TIME 18:32:05
 0 @I0021@ INDI
 1 NAME Robert Thomas /Earwaker/
 2 TYPE birth
 2 GIVN Robert Thomas
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
 2 TYPE Robert Thomas Earwaker MS
 2 PLAC United Kingdom
+2 AGNC Royal Army Service Corps attached Field Ambulance
 2 NOTE @N0019@
+2 NOTE @WO 372/24/88623@
 1 _MILT
 2 TYPE Con, World War I
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 23:59:47
+2 DATE 23 NOV 2026
+3 TIME 18:33:14
 0 @I0022@ INDI
 1 NAME G. /Earwaker/
 2 TYPE birth
 2 GIVN G.
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -425,13 +428,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 23:59:18
+2 DATE 23 NOV 2026
+3 TIME 18:39:49
 0 @I0023@ INDI
 1 NAME George W /Earwaker/
 2 TYPE birth
 2 GIVN George W
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -443,13 +446,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 23:58:15
+2 DATE 23 NOV 2026
+3 TIME 18:39:11
 0 @I0024@ INDI
 1 NAME Graham Parsons /Earwaker/
 2 TYPE birth
 2 GIVN Graham Parsons
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -461,13 +464,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 23 MAY 2026
-3 TIME 23:57:20
+2 DATE 23 NOV 2026
+3 TIME 18:39:03
 0 @I0025@ INDI
 1 NAME Joseph /Earwaker/
 2 TYPE birth
 2 GIVN Joseph
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -479,13 +482,13 @@
 2 PLAC United Kingdom
 2 NOTE @N0024@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:05:50
+2 DATE 23 NOV 2026
+3 TIME 18:36:34
 0 @I0026@ INDI
 1 NAME R N D'o /Earwaker/
 2 TYPE birth
 2 GIVN R N D'o
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -498,13 +501,13 @@
 2 NOTE @N0023@
 1 NOTE @N0076@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 23:16:29
+2 DATE 23 NOV 2026
+3 TIME 18:35:17
 0 @I0027@ INDI
 1 NAME Frederick Richard /Earwaker/
 2 TYPE birth
 2 GIVN Frederick Richard
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -516,13 +519,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:13:21
+2 DATE 23 NOV 2026
+3 TIME 18:39:59
 0 @I0028@ INDI
 1 NAME Walter S /Earwaker/
 2 TYPE birth
 2 GIVN Walter S
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -534,13 +537,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:22:02
+2 DATE 23 NOV 2026
+3 TIME 18:31:28
 0 @I0029@ INDI
 1 NAME Henry J /Earwaker/
 2 TYPE birth
 2 GIVN Henry J
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -552,13 +555,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:30:59
+2 DATE 23 NOV 2026
+3 TIME 18:37:56
 0 @I0030@ INDI
 1 NAME William /Earwaker/
 2 TYPE birth
 2 GIVN William
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -570,13 +573,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:36:37
+2 DATE 23 NOV 2026
+3 TIME 18:30:36
 0 @I0031@ INDI
 1 NAME Harry /Earwaker/
 2 TYPE birth
 2 GIVN Harry
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -588,13 +591,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:41:19
+2 DATE 23 NOV 2026
+3 TIME 18:38:39
 0 @I0032@ INDI
 1 NAME Walter W /Earwaker/
 2 TYPE birth
 2 GIVN Walter W
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -606,13 +609,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:48:59
+2 DATE 23 NOV 2026
+3 TIME 18:31:17
 0 @I0033@ INDI
 1 NAME Oliver Charles /Earwaker/
 2 TYPE birth
 2 GIVN Oliver Charles
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -624,13 +627,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:52:55
+2 DATE 23 NOV 2026
+3 TIME 18:35:37
 0 @I0034@ INDI
 1 NAME William /Earwaker/
 2 TYPE birth
 2 GIVN William
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -642,13 +645,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 00:57:22
+2 DATE 23 NOV 2026
+3 TIME 18:30:22
 0 @I0035@ INDI
 1 NAME James /Earwaker/
 2 TYPE birth
 2 GIVN James
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -660,13 +663,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 01:00:11
+2 DATE 23 NOV 2026
+3 TIME 18:37:22
 0 @I0036@ INDI
 1 NAME Frederick /Earwaker/
 2 TYPE birth
 2 GIVN Frederick
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -678,13 +681,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 11:07:32
+2 DATE 23 NOV 2026
+3 TIME 18:40:40
 0 @I0037@ INDI
 1 NAME William H /Earwaker/
 2 TYPE birth
 2 GIVN William H
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -696,13 +699,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 11:11:56
+2 DATE 23 NOV 2026
+3 TIME 18:29:43
 0 @I0038@ INDI
 1 NAME Charles /Earwaker/
 2 TYPE birth
 2 GIVN Charles
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -714,13 +717,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 11:20:29
+2 DATE 23 NOV 2026
+3 TIME 18:42:51
 0 @I0039@ INDI
 1 NAME Richard T /Earwaker/
 2 TYPE birth
 2 GIVN Richard T
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -732,13 +735,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 13:23:05
+2 DATE 23 NOV 2026
+3 TIME 18:34:17
 0 @I0040@ INDI
 1 NAME William H /Earwaker/
 2 TYPE birth
 2 GIVN William H
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -750,13 +753,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 13:31:59
+2 DATE 23 NOV 2026
+3 TIME 18:29:30
 0 @I0041@ INDI
 1 NAME George D /Earwaker/
 2 TYPE birth
 2 GIVN George D
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -768,49 +771,55 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 13:35:57
+2 DATE 23 NOV 2026
+3 TIME 18:39:28
 0 @I0042@ INDI
 1 NAME Alfred /Earwaker/
 2 TYPE birth
 2 GIVN Alfred
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
 2 TYPE Alfred Earwaker MS
 2 PLAC United Kingdom
+2 AGNC Hampshire Regiment
 2 NOTE @N0042@
+2 NOTE @WO 372/6/144771@
 1 _MILT
 2 TYPE Con, World War I
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 13:42:25
+2 DATE 23 NOV 2026
+3 TIME 18:44:13
 0 @I0043@ INDI
 1 NAME Thomas J /Earwaker/
 2 TYPE birth
 2 GIVN Thomas J
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
 2 TYPE Thomas J Earwaker MS
 2 PLAC United Kingdom
+2 AGNC Royal Warwickshire Regiment
+2 AGNC Worcestershire Regiment
+2 AGNC Gloucestershire Regiment
 2 NOTE @N0043@
+2 NOTE @WO 372/6/144811@
 1 _MILT
 2 TYPE Con, World War I
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 14:00:45
+2 DATE 23 NOV 2026
+3 TIME 18:31:46
 0 @I0044@ INDI
 1 NAME Juliet /Earwaker/
 2 TYPE birth
 2 GIVN Juliet
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mrs
 1 SEX F
 1 _MILT
@@ -822,13 +831,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 14:06:50
+2 DATE 23 NOV 2026
+3 TIME 18:36:22
 0 @I0045@ INDI
 1 NAME John W /Earwaker/
 2 TYPE birth
 2 GIVN John W
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -840,13 +849,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 14:10:59
+2 DATE 23 NOV 2026
+3 TIME 18:36:43
 0 @I0046@ INDI
 1 NAME Frederick G /Earwaker/
 2 TYPE birth
 2 GIVN Frederick G
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -858,13 +867,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 14:14:47
+2 DATE 23 NOV 2026
+3 TIME 18:40:18
 0 @I0047@ INDI
 1 NAME Harry George /Earwaker/
 2 TYPE birth
 2 GIVN Harry George
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -890,31 +899,33 @@
 2 PEDI birth
 1 FAMS @F0013@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 08:25:22
+2 DATE 23 NOV 2026
+3 TIME 18:38:27
 0 @I0048@ INDI
 1 NAME Alfred H /Earwaker/
 2 TYPE birth
 2 GIVN Alfred H
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
 2 TYPE Alfred H Earwaker
 2 PLAC United Kingdom
+2 AGNC North Staffordshire Regiment
 2 NOTE @N0048@
+2 NOTE @WO 372/6/144774@
 1 _MILT
 2 TYPE Con, World War I
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:14:40
+2 DATE 23 NOV 2026
+3 TIME 18:43:56
 0 @I0049@ INDI
 1 NAME Ralph Parsons /Earwaker/
 2 TYPE birth
 2 GIVN Ralph Parsons
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -926,13 +937,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:20:23
+2 DATE 23 NOV 2026
+3 TIME 18:34:38
 0 @I0050@ INDI
 1 NAME Edmond Charles /Earwaker/
 2 TYPE birth
 2 GIVN Edmond Charles
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -944,13 +955,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:25:33
+2 DATE 23 NOV 2026
+3 TIME 18:41:55
 0 @I0051@ INDI
 1 NAME Robert /Earwaker/
 2 TYPE birth
 2 GIVN Robert
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -962,13 +973,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:29:11
+2 DATE 23 NOV 2026
+3 TIME 18:33:54
 0 @I0052@ INDI
 1 NAME Frederick /Earwaker/
 2 TYPE birth
 2 GIVN Frederick
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -980,13 +991,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:37:45
+2 DATE 23 NOV 2026
+3 TIME 18:40:29
 0 @I0053@ INDI
 1 NAME Albert E /Earwaker/
 2 TYPE birth
 2 GIVN Albert E
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -998,13 +1009,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:42:51
+2 DATE 23 NOV 2026
+3 TIME 18:44:55
 0 @I0054@ INDI
 1 NAME Frank /Earwaker/
 2 TYPE birth
 2 GIVN Frank
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -1016,13 +1027,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 15:45:35
+2 DATE 23 NOV 2026
+3 TIME 18:41:01
 0 @I0055@ INDI
 1 NAME Edward Reginald /Earwaker/
 2 TYPE birth
 2 GIVN Edward Reginald
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -1034,13 +1045,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 16:02:55
+2 DATE 23 NOV 2026
+3 TIME 18:41:46
 0 @I0056@ INDI
 1 NAME Frederick H /Earwaker/
 2 TYPE birth
 2 GIVN Frederick H
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -1052,31 +1063,34 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 16:06:45
+2 DATE 23 NOV 2026
+3 TIME 18:40:07
 0 @I0057@ INDI
 1 NAME A /Earwaker/
 2 TYPE birth
 2 GIVN A
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
 2 TYPE A Earwaker MS
 2 PLAC United Kingdom
+2 AGNC Lancers
+2 AGNC British Army
 2 NOTE @N0057@
+2 NOTE @WO 372/24/88622@
 1 _MILT
 2 TYPE Con, World War I
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 16:10:28
+2 DATE 23 NOV 2026
+3 TIME 18:45:13
 0 @I0058@ INDI
 1 NAME Arthur G /Earwaker/
 2 TYPE birth
 2 GIVN Arthur G
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -1088,13 +1102,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 16:13:24
+2 DATE 23 NOV 2026
+3 TIME 18:43:47
 0 @I0059@ INDI
 1 NAME Robert Norman Doyly /Earwaker/
 2 TYPE birth
 2 GIVN Robert Norman Doyly
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -1109,13 +1123,13 @@
 2 DATE FROM 1914 TO 1918
 2 NOTE @N0023@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 16:27:43
+2 DATE 23 NOV 2026
+3 TIME 18:33:36
 0 @I0060@ INDI
 1 NAME John Henry /Earwaker/
 2 TYPE birth
 2 GIVN John Henry
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -1135,13 +1149,13 @@
 1 NOTE @N0082@
 1 NOTE @N0060@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 04:55:06
+2 DATE 23 NOV 2026
+3 TIME 18:36:54
 0 @I0061@ INDI
 1 NAME Cecil /Earwaker/
 2 TYPE birth
 2 GIVN Cecil
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -1166,35 +1180,35 @@
 1 FAMC @F0008@
 2 PEDI birth
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 22:55:55
+2 DATE 23 NOV 2026
+3 TIME 18:43:08
 0 @I0062@ INDI
 1 NAME Richard /Earwaker/
 2 TYPE birth
 2 GIVN Richard
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0008@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:16:36
+2 DATE 23 NOV 2026
+3 TIME 18:34:27
 0 @I0063@ INDI
 1 NAME Henrietta Sophie /?/
 2 TYPE birth
 2 GIVN Henrietta Sophie
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 FAMS @F0008@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:47:09
 0 @I0064@ INDI
 1 NAME Albert George /Earwaker/
 2 TYPE birth
 2 GIVN Albert George
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -1219,13 +1233,13 @@
 2 NOTE @N0063@
 1 FAMS @F0009@
 1 CHAN
-2 DATE 24 MAY 2026
-3 TIME 23:52:57
+2 DATE 23 NOV 2026
+3 TIME 18:44:45
 0 @I0065@ INDI
 1 NAME Winifred Dorothy /?/
 2 TYPE birth
 2 GIVN Winifred Dorothy
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Winifred Dorothy Earwaker //
 2 TYPE married
@@ -1236,13 +1250,13 @@
 2 PLAC Redhill, Surrey, England, United Kingdom
 1 FAMS @F0009@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:45:36
 0 @I0066@ INDI
 1 NAME F C /Earwaker/
 2 TYPE birth
 2 GIVN F C
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -1268,24 +1282,24 @@
 1 FAMC @F0010@
 2 PEDI birth
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 00:21:15
+2 DATE 23 NOV 2026
+3 TIME 18:41:09
 0 @I0067@ INDI
 1 NAME Robert /Earwaker/
 2 TYPE birth
 2 GIVN Robert
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0010@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:14:14
+2 DATE 23 NOV 2026
+3 TIME 18:33:45
 0 @I0068@ INDI
 1 NAME Mary Ann /?/
 2 TYPE birth
 2 GIVN Mary Ann
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Mary Ann Earwaker //
 2 TYPE married
@@ -1293,13 +1307,13 @@
 1 SEX F
 1 FAMS @F0010@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:46:18
 0 @I0069@ INDI
 1 NAME Henry Charles /Earwaker/
 2 TYPE birth
 2 GIVN Henry Charles
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -1320,13 +1334,13 @@
 2 NOTE @N0067@
 1 FAMS @F0011@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 00:47:40
+2 DATE 23 NOV 2026
+3 TIME 18:38:19
 0 @I0070@ INDI
 1 NAME Annie Jane /?/
 2 TYPE birth
 2 GIVN Annie Jane
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Annie Jame Earwaker //
 2 TYPE birth
@@ -1338,13 +1352,13 @@
 2 NOTE @N0067@
 1 FAMS @F0011@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:27:57
 0 @I0071@ INDI
 1 NAME Benjamin /Earwaker/
 2 TYPE birth
 2 GIVN Benjamin
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -1352,13 +1366,13 @@
 2 PLAC Hambledon, Hampshire, England, United Kingdom
 1 FAMS @F0012@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:13:42
+2 DATE 23 NOV 2026
+3 TIME 18:43:18
 0 @I0072@ INDI
 1 NAME Esther /?/
 2 TYPE birth
 2 GIVN Esther
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Esther Earwaker //
 2 TYPE married
@@ -1369,13 +1383,13 @@
 2 PLAC Hambledon, Hampshire, England, United Kingdom
 1 FAMS @F0012@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:47:29
 0 @I0073@ INDI
 1 NAME Eleanor Marie /?/
 2 TYPE birth
 2 GIVN Eleanor Marie
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Eleanor Marie Earwaker //
 2 TYPE married
@@ -1386,13 +1400,13 @@
 2 PLAC Godstone, Surrey, England, United Kingdom
 1 FAMS @F0013@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:48:01
 0 @I0074@ INDI
 1 NAME William James /Earwaker/
 2 TYPE birth
 2 GIVN William James
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -1417,13 +1431,13 @@
 1 FAMC @F0014@
 2 PEDI birth
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 09:33:19
+2 DATE 23 NOV 2026
+3 TIME 18:28:33
 0 @I0075@ INDI
 1 NAME William /Earwaker/
 2 TYPE birth
 2 GIVN William
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -1432,13 +1446,13 @@
 2 NOTE @N0071@
 1 FAMS @F0014@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:12:20
+2 DATE 23 NOV 2026
+3 TIME 18:30:05
 0 @I0076@ INDI
 1 NAME Ellen /?/
 2 TYPE birth
 2 GIVN Ellen
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Ellen Earwaker //
 2 TYPE birth
@@ -1450,13 +1464,13 @@
 2 NOTE @N0071@
 1 FAMS @F0014@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:47:48
 0 @I0077@ INDI
 1 NAME Robert Roy /Earwaker/
 2 TYPE birth
 2 GIVN Robert Roy
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -1478,13 +1492,13 @@
 2 PEDI birth
 1 FAMS @F0016@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 10:46:38
+2 DATE 23 NOV 2026
+3 TIME 18:33:23
 0 @I0078@ INDI
 1 NAME Robert /Earwaker/
 2 TYPE birth
 2 GIVN Robert
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -1493,13 +1507,13 @@
 2 NOTE @N0072@
 1 FAMS @F0015@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:11:26
+2 DATE 23 NOV 2026
+3 TIME 18:34:08
 0 @I0079@ INDI
 1 NAME Edith /?/
 2 TYPE birth
 2 GIVN Edith
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Edith Earwaker //
 2 TYPE married
@@ -1511,13 +1525,13 @@
 2 NOTE @N0072@
 1 FAMS @F0015@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:48:11
 0 @I0080@ INDI
 1 NAME May B. /?/
 2 TYPE birth
 2 GIVN May B.
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME May B. Earwaker //
 2 TYPE married
@@ -1530,13 +1544,13 @@
 1 FAMS @F0016@
 1 NOTE @N0072@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:46:05
 0 @I0081@ INDI
 1 NAME Ernest Robert Henry /Earwaker/
 2 TYPE birth
 2 GIVN Ernest Robert Henry
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -1559,13 +1573,13 @@
 2 PEDI birth
 1 NOTE @N0074@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 23:12:24
+2 DATE 23 NOV 2026
+3 TIME 18:41:17
 0 @I0082@ INDI
 1 NAME R. T. /Earwaker/
 2 TYPE birth
 2 GIVN R. T.
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 RESI
@@ -1575,13 +1589,13 @@
 1 FAMS @F0017@
 1 NOTE @N0074@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:10:40
+2 DATE 23 NOV 2026
+3 TIME 18:34:56
 0 @I0083@ INDI
 1 NAME Jane /?/
 2 TYPE birth
 2 GIVN Jane
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 SEX F
 1 RESI
@@ -1591,13 +1605,13 @@
 1 FAMS @F0017@
 1 NOTE @N0074@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:06:08
+2 DATE 23 NOV 2026
+3 TIME 18:47:00
 0 @I0084@ INDI
 1 NAME Alec Edmund Green /Earwaker/
 2 TYPE birth
 2 GIVN Alec Edmund Green
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 DEAT
@@ -1611,6 +1625,7 @@
 1 _MILT
 2 TYPE Alec Edmund Green Earwaker MS
 2 PLAC United Kingdom
+2 AGNC Royal Navy
 2 NOTE @N0077@
 1 BURI
 2 TYPE Alec Edumund Green Earwaker BrlD
@@ -1620,48 +1635,66 @@
 4 LONG W4.14223
 3 NOTE @N0078@
 2 NOTE @N0077@
+1 _MILT
+2 TYPE H.M. Submarine Narwhal
+2 NOTE @N0077@
 1 FAMC @F0018@
 2 PEDI birth
 1 NOTE @N0077@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 23:35:53
+2 DATE 23 NOV 2026
+3 TIME 18:44:35
 0 @I0085@ INDI
 1 NAME William Henry /Earwaker/
 2 TYPE birth
 2 GIVN William Henry
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
+2 NICK Billy
 1 SEX M
+1 BIRT
+2 TYPE William Henry Earwaker BD
+2 DATE 1884
+2 PLAC Kent, England, United Kingdom
+2 NOTE @N0100@
 1 RESI
 2 TYPE Res, NOK-Brl, Eawaker, William Henry and Rachel
 2 PLAC Plymouth, Devon, England
 1 FAMS @F0018@
+1 FAMS @F0023@
+1 NOTE @J 77/1566/8537@
+1 NOTE @N0100@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:28:54
+2 DATE 23 NOV 2026
+3 TIME 18:28:57
 0 @I0086@ INDI
-1 NAME Rachel /?/
+1 NAME Rachel /Green/
 2 TYPE birth
 2 GIVN Rachel
-2 SPFX ?
+2 SURN Green
 2 NPFX Mrs
 1 NAME Rachel Earwaker //
 2 TYPE married
 2 GIVN Rachel Earwaker
 1 SEX F
+1 BIRT
+2 TYPE Rachel Green BD
+2 DATE 1886
 1 RESI
 2 TYPE Res, NOK-Brl, Eawaker, William Henry and Rachel
 2 PLAC Plymouth, Devon, England
+1 DSCR Rachel Green/Earwaker/Lock
 1 FAMS @F0018@
+1 NOTE @N0100@
+1 NOTE @J 77/1566/8537@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:29:19
+2 DATE 23 NOV 2026
+3 TIME 18:27:18
 0 @I0087@ INDI
 1 NAME Albert /Earwaker/
 2 TYPE birth
 2 GIVN Albert
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -1676,13 +1709,13 @@
 1 OCCU Baker
 1 NOTE @N0079@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 01:52:01
+2 DATE 23 NOV 2026
+3 TIME 18:45:05
 0 @I0088@ INDI
 1 NAME Frank Edward /Earwaker/
 2 TYPE birth
 2 GIVN Frank Edward
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -1723,13 +1756,13 @@
 3 CTRY Canada
 1 NOTE @N0080@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 01:21:40
+2 DATE 23 NOV 2026
+3 TIME 18:40:53
 0 @I0090@ INDI
 1 NAME Augustis /Earwaker/
 2 TYPE birth
 2 GIVN Augustis
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 2 NICK Gus
 1 SEX M
@@ -1768,13 +1801,13 @@
 3 CTRY Australia
 1 NOTE @N0083@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 19:57:44
+2 DATE 23 NOV 2026
+3 TIME 18:43:38
 0 @I0091@ INDI
 1 NAME Augustus /Earwaker/
 2 TYPE birth
 2 GIVN Augustus
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0019@
@@ -1791,13 +1824,13 @@
 3 CTRY Australia
 1 NOTE @N0083@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 09:08:51
+2 DATE 23 NOV 2026
+3 TIME 18:43:27
 0 @I0092@ INDI
 1 NAME William Henry /Earwaker/
 2 TYPE birth
 2 GIVN William Henry
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 2 NICK Willie
 1 SEX M
@@ -1837,13 +1870,13 @@
 3 CTRY Australia
 1 NOTE @N0084@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 19:57:44
+2 DATE 23 NOV 2026
+3 TIME 18:29:14
 0 @I0093@ INDI
 1 NAME John George /Earwaker/
 2 TYPE birth
 2 GIVN John George
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 2 NICK Jack
 1 NAME EARWAKER J G //
@@ -1883,13 +1916,13 @@
 3 CTRY Australia
 1 NOTE @N0085@
 1 CHAN
-2 DATE 27 MAY 2026
-3 TIME 07:54:25
+2 DATE 23 NOV 2026
+3 TIME 18:37:02
 0 @I0094@ INDI
 1 NAME John Ewen /Earwaker/
 2 TYPE birth
 2 GIVN John Ewen
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 NATI Australia
@@ -1907,13 +1940,13 @@
 3 CTRY Australia
 1 NOTE @N0085@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 12:19:17
+2 DATE 23 NOV 2026
+3 TIME 18:37:10
 0 @I0095@ INDI
 1 NAME W /Earwaker/
 2 TYPE birth
 2 GIVN W
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -1934,13 +1967,13 @@
 2 NOTE @N0086@
 1 NOTE @N0086@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 13:29:50
+2 DATE 23 NOV 2026
+3 TIME 18:31:37
 0 @I0096@ INDI
 1 NAME Elizabeth /Earwaker/
 2 TYPE birth
 2 GIVN Elizabeth
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mrs
 1 SEX F
 1 _MILT
@@ -1958,13 +1991,13 @@
 3 CTRY Australia
 1 NOTE @N0087@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 14:03:07
+2 DATE 23 NOV 2026
+3 TIME 18:41:28
 0 @I0097@ INDI
-1 NAME Wlliam /Earwaker/
+1 NAME William /Earwaker/
 2 TYPE birth
-2 GIVN Wlliam
-2 SPFX Earwaker
+2 GIVN William
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 _MILT
@@ -1977,13 +2010,13 @@
 2 NOTE @N0077@
 1 NOTE @N0088@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 13:56:03
+2 DATE 23 NOV 2026
+3 TIME 18:31:06
 0 @I0098@ INDI
 1 NAME R William /Earwaker/
 2 TYPE birth
 2 GIVN R William
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 NAME R W Earwaker //
 2 TYPE birth
@@ -2016,13 +2049,13 @@
 3 POST 4817
 3 CTRY Australia
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 19:16:02
+2 DATE 23 NOV 2026
+3 TIME 18:35:07
 0 @I0099@ INDI
 1 NAME Marjorie /Earwaker/
 2 TYPE birth
 2 GIVN Marjorie
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mrs
 1 SEX F
 1 DSCR female relative, of QX22335 William Henry Earwaker & QX22334 Augustis Ea
@@ -2032,13 +2065,13 @@
 2 CONC 2 . R/8725  .
 1 DSCR M E relative also? of R William Earwaker, nephew to WHE AE?
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 19:15:27
+2 DATE 23 NOV 2026
+3 TIME 18:35:57
 0 @I0100@ INDI
 1 NAME Leslie Thomas /Earwaker/
 2 TYPE birth
 2 GIVN Leslie Thomas
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 BIRT
@@ -2063,13 +2096,13 @@
 2 PEDI birth
 1 NOTE @N0089@
 1 CHAN
-2 DATE 26 MAY 2026
-3 TIME 19:57:44
+2 DATE 23 NOV 2026
+3 TIME 18:36:06
 0 @I0101@ INDI
 1 NAME P H /Earwaker/
 2 TYPE birth
 2 GIVN P H
-2 SPFX Earwaker
+2 SURN Earwaker
 1 SEX M
 1 _MILT
 2 TYPE P H Earwaker MS
@@ -2080,13 +2113,13 @@
 2 NOTE @N0077@
 1 NOTE @N0093@
 1 CHAN
-2 DATE 27 MAY 2026
-3 TIME 08:51:07
+2 DATE 23 NOV 2026
+3 TIME 18:35:26
 0 @I0102@ INDI
 1 NAME Louise /?/
 2 TYPE birth
 2 GIVN Louise
-2 SPFX ?
+2 SURN ?
 2 NPFX Mrs
 1 NAME Louise Earwaker //
 2 TYPE married
@@ -2136,13 +2169,13 @@
 2 NOTE @N0080@
 1 NOTE @N0080@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 01:28:10
+2 DATE 23 NOV 2026
+3 TIME 18:46:40
 0 @I0103@ INDI
 1 NAME Henry James /Earwaker/
 2 TYPE birth
 2 GIVN Henry James
-2 SPFX Earwaker
+2 SURN Earwaker
 2 NPFX Mr
 1 SEX M
 1 FAMS @F0021@
@@ -2178,8 +2211,265 @@
 2 NOTE @N0080@
 1 NOTE @N0080@
 1 CHAN
-2 DATE 28 MAY 2026
-3 TIME 00:57:33
+2 DATE 23 NOV 2026
+3 TIME 18:37:47
+0 @I0104@ INDI
+1 NAME Thomas /Earwaker/
+2 TYPE birth
+2 GIVN Thomas
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE Thomas Earwaker BD
+2 DATE ABT 1789
+2 NOTE @ADM 27/49/8B@
+1 _MILT
+2 TYPE HMS Bellerophon 1786
+2 DATE FROM 11 JAN 1782 TO 1836
+2 NOTE @ADM 27/49/8B@
+2 SOUR @S0000@
+3 QUAY 3
+2 SOUR @S0001@
+3 QUAY 3
+1 _MILT
+2 TYPE Thomas Earwaker MS
+2 NOTE @ADM 27/49/8B@
+2 NOTE @N0094@
+1 FAMC @F0022@
+2 PEDI birth
+1 NOTE @ADM 27/49/8B@
+1 NOTE @N0094@
+1 NOTE @ADM 29/44/285@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:32:56
+0 @I0105@ INDI
+1 NAME Martha /?/
+2 TYPE birth
+2 GIVN Martha
+2 SURN ?
+1 SEX F
+1 FAMS @F0022@
+1 NOTE @ADM 27/49/8B@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:46:27
+0 @I0106@ INDI
+1 NAME Thomas /Earwaker/
+2 TYPE birth
+2 GIVN Thomas
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE Thomas Earwaker BD
+2 DATE 15 JUL 1845
+2 PLAC Bethnal Green, Middlesex, England
+1 _MILT
+2 TYPE Thomas Earwaker MS
+2 DATE 15 JUL 1863
+2 NOTE @ADM 139/551/15052@
+1 NOTE @ADM 139/551/15052@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:32:46
+0 @I0107@ INDI
+1 NAME Thomas /Earwaker/
+2 TYPE birth
+2 GIVN Thomas
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE Thomas Earwaker BD
+2 DATE ABT 1821
+2 PLAC Hampshire
+2 NOTE @ADM 157/357/269@
+1 _MILT
+2 TYPE Thomas Earwaker MS
+2 DATE 1841
+2 NOTE @ADM 157/357/269@
+2 NOTE @N0096@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:32:37
+0 @I0108@ INDI
+1 NAME James /Earwaker/
+2 TYPE birth
+2 GIVN James
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE James Earwaker BD
+2 DATE 1843
+2 PLAC Salbourne, Alton, Hampshire, England, Hampshire
+2 NOTE @ADM 158/120/1@
+2 NOTE @ADM 158/118/2@
+2 NOTE @N0099@
+1 _MILT
+2 TYPE James Earwaker MS
+2 PLAC Portsmouth, Hampshire
+2 NOTE @ADM 158/120/1@
+2 NOTE @ADM 158/118/2@
+2 NOTE @N0096@
+1 CENS
+2 DATE 1861
+2 PLAC Alton, Hampshire, Hampshire
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:37:39
+0 @I0109@ INDI
+1 NAME Nicholas /Earwaker/
+2 TYPE birth
+2 GIVN Nicholas
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE Nicholas Earwaker BD
+2 DATE 1826
+2 NOTE @N0097@
+2 NOTE @N0098@
+1 _MILT
+2 TYPE Nicholas Earwaker MS
+2 DATE ABT 1840
+2 PLAC Portsmouth, Hampshire
+2 NOTE @ADM 158/118/2@
+2 NOTE @ADM 158/120/1@
+2 NOTE @N0096@
+1 CENS
+2 DATE 1861
+2 PLAC Alverstoke, Hampshire, Hampshire
+3 NOTE @N0097@
+2 NOTE @N0097@
+1 NOTE @ADM 158/120/1@
+1 NOTE @ADM 158/118/2@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:35:46
+0 @I0110@ INDI
+1 NAME Thomas Henry /Earwaker/
+2 TYPE birth
+2 GIVN Thomas Henry
+2 SURN Earwaker
+1 SEX M
+1 _MILT
+2 TYPE Thomas Henry James MS
+2 NOTE @AIR 79/2417/277736@
+1 NOTE @AIR 79/2417/277736@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:31:55
+0 @I0111@ INDI
+1 NAME Thomas /Earwaker/
+2 TYPE birth
+2 GIVN Thomas
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE Thomas Earwaker BD
+2 DATE 28 SEP 1877
+2 PLAC Swanmore, Hampshire, England, Hampshire
+1 _MILT
+2 TYPE Thomas Earwaker MS
+1 NOTE @ADM 188/456/284741@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:32:26
+0 @I0112@ INDI
+1 NAME Thomas /Earwaker/
+2 TYPE birth
+2 GIVN Thomas
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE Thomas Earwaker BD
+2 DATE ABT 1854
+2 PLAC Selbourne, Hampshire, England, Hampshire
+1 _MILT
+2 TYPE Thomas Earwaker MS
+2 DATE 1873
+2 NOTE @N0095@
+2 NOTE @WO 69/79/9813@
+1 NOTE @WO 69/79/9813@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:32:15
+0 @I0113@ INDI
+1 NAME ? /Earwaker/
+2 TYPE birth
+2 GIVN ?
+2 SURN Earwaker
+1 SEX M
+1 NOTE @NNA/0513/2@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:45:23
+0 @I0114@ INDI
+1 NAME William Alfred /Earwaker/
+2 TYPE birth
+2 GIVN William Alfred
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE William Alfred Earwaker BD
+2 DATE 26 FEB 1894
+2 PLAC Poplar, London, England, United Kingdom
+1 _MILT
+2 TYPE William Alfred Earwaker MS
+2 AGNC Royal Naval Air Service RNAS
+2 NOTE @ADM 188/582/11252@
+2 NOTE @AIR 79/1898/211252@
+1 _MILT
+2 TYPE Con, World War I
+2 DATE FROM 1914 TO 1918
+2 NOTE @N0023@
+1 NOTE @ADM 188/582/11252@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:29:54
+0 @I0115@ INDI
+1 NAME Alfred George /Earwaker/
+2 TYPE birth
+2 GIVN Alfred George
+2 SURN Earwaker
+1 SEX M
+1 BIRT
+2 TYPE Alfred George Earwaker BD
+2 DATE 22 MAR 1871
+2 PLAC Portsmouth, Hampshire
+2 NOTE @ADM 188/224/154747@
+1 _MILT
+2 TYPE Alfred George Earwaker MS
+2 AGNC Royal Navy
+1 NOTE @ADM 188/224/154747@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:44:05
+0 @I0116@ INDI
+1 NAME Alfred /Earwaker/
+2 TYPE birth
+2 GIVN Alfred
+2 SURN Earwaker
+1 SEX M
+1 _MILT
+2 TYPE Alfred Earwaker MS
+2 AGNC Royal Air Force
+2 NOTE @AIR 79/1019/113723@
+1 NOTE @AIR 79/1019/113723@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:44:22
+0 @I0117@ INDI
+1 NAME Alice Eliza /Browning/
+2 TYPE birth
+2 GIVN Alice Eliza
+2 SURN Browning
+1 SEX F
+1 BIRT
+2 TYPE Alice Eliza Browning BD
+2 DATE 1886
+1 FAMS @F0023@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:26:41
 0 @F0000@ FAM
 1 HUSB @I0003@
 1 CHIL @I0001@
@@ -2315,10 +2605,19 @@
 0 @F0018@ FAM
 1 HUSB @I0085@
 1 WIFE @I0086@
+1 MARR
+2 TYPE William Henry Earwaker Rachel Green Mrg
+1 DIV
+2 TYPE William Henry Earwaker Rachel Green (nee Earwaker) Dvrc
+2 DATE 1919
+2 NOTE @J 77/1566/8537@
 1 CHIL @I0084@
+1 NOTE @N0077@
+1 NOTE @J 77/1566/8537@
+1 NOTE @N0100@
 1 CHAN
-2 DATE 25 MAY 2026
-3 TIME 23:35:53
+2 DATE 23 NOV 2026
+3 TIME 18:22:16
 0 @F0019@ FAM
 1 HUSB @I0091@
 1 CHIL @I0090@
@@ -2341,6 +2640,159 @@
 1 CHAN
 2 DATE 28 MAY 2026
 3 TIME 01:21:40
+0 @F0022@ FAM
+1 WIFE @I0105@
+1 CHIL @I0104@
+1 NOTE @ADM 27/49/8B@
+1 CHAN
+2 DATE 19 NOV 2026
+3 TIME 10:25:37
+0 @F0023@ FAM
+1 HUSB @I0085@
+1 WIFE @I0117@
+1 NOTE @N0100@
+1 CHAN
+2 DATE 23 NOV 2026
+3 TIME 18:26:41
+0 @S0000@ SOUR
+1 TITL https://en.wikipedia.org/wiki/HMS_Bellerophon_(1786)https://en.wikipedia
+2 CONC .org/wiki/HMS_Bellerophon_(1786)
+1 CHAN
+2 DATE 19 NOV 2026
+3 TIME 11:57:54
+0 @S0001@ SOUR
+1 TITL https://snr.org.uk/the-mariners-mirror-podcast/iconic-ships-7-the-billy-
+2 CONC ruffian-hms-bellerophon/
+1 CHAN
+2 DATE 19 NOV 2026
+3 TIME 12:42:47
+0 @ADM 139/551/15052@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D7903600
+1 CONT Name Earwaker, Thomas Place of Birth: Bethnal Green, Middlesex Continuou
+1 CONC s...
+1 CONT ADM 139/551/15052 
+1 CONT 
+1 CONT Description: 	
+1 CONT Name 	Earwaker, Thomas
+1 CONT Place of Birth: 	Bethnal Green, Middlesex
+1 CONT Continuous Service Number: 	15052A
+1 CONT Date of Volunteering: 	15 July 1863
+1 CONT Date of Birth: 	15 July 1845
+0 @ADM 157/357/269@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C10093666
+1 CONT Folios 269-270. Thomas Earwaker, born Hampshire. Attestation papers to s
+1 CONC erve in the...
+1 CONT Reference: 	ADM 157/357/269
+1 CONT 
+1 CONT Folios 269-270. Thomas Earwaker, born Hampshire.
+1 CONT Attestation papers to serve in the Royal Marines at Portsmouth 1841 (whe
+1 CONC n aged 20).
+1 CONT Discharged [discharge date not given] as [discharge reason not given].
+0 @ADM 158/118/2@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C17054782
+1 CONT Page 2: Name: John Eames. Age: 23 years. Place of birth: Trotton, Midhur
+1 CONC st, Sussex. ... 
+1 CONT Reference: 	ADM 158/118/2
+1 CONT Date: 	[1816-1860]
+1 CONT 
+1 CONT Name: Nicholas Earwaker. Age: 23 years, 4 months. Place of birth: Ropley
+1 CONC , Alresford, Hampshire.
+1 CONT Name: James Earwaker. Age: 20 years, 6 months. Place of birth: Selborne
+1 CONC , Alton, Hampshire
+0 @ADM 158/120/1@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C17054926
+1 CONT Page 1: Name: John Earl. Age: 22 years, 7 months. Place of birth: Cove
+1 CONC , Cork, Cork. ...
+1 CONT Reference: 	ADM 158/120/1 
+1 CONT Date: 	[1837-1888] 
+1 CONT 
+1 CONT Name: Nicholas Earwacker. Age: 23 years, 4 months. Place of birth: Rople
+1 CONC y, Alresford, Hampshire. 
+1 CONT Name: James Earwaker. Age: 20 years, 6 months. Place of birth: Salbourne
+1 CONC , Alton, Hampshire. 
+0 @ADM 188/224/154747@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D6676541
+1 CONT Name Earwaker, Alfred George Official Number: 154747 Place of Birth: ...
+1 CONT Reference: 	ADM 188/224/154747
+1 CONT Description: 	
+1 CONT Name 	Earwaker, Alfred George
+1 CONT Official Number: 	154747
+1 CONT Place of Birth: 	Portsmouth, Hampshire
+1 CONT Date of Birth: 	22 March 1871
+1 CONT Date: 	[1890] 
+0 @ADM 188/456/284741@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D6751996
+1 CONT Reference: 	ADM 188/456/284741
+1 CONT Description: 	
+1 CONT Name 	Earwaker, Thomas
+1 CONT Official Number: 	284741
+1 CONT Place of Birth: 	Swanmore, Hampshire
+1 CONT Date of Birth: 	28 September 1877
+1 CONT Date: 	[1897] 
+0 @ADM 188/582/11252@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D6809428
+1 CONT Name Earwaker, William Alfred Official Number: F11252 Place of Birth: ..
+1 CONC .
+1 CONT Reference: 	ADM 188/582/11252
+1 CONT Description: 	
+1 CONT Name 	Earwaker, William Alfred
+1 CONT Official Number: 	F11252
+1 CONT Place of Birth: 	Poplar, London
+1 CONT Date of Birth: 	26 February 1894
+1 CONT Date: 	[1916] 
+0 @ADM 27/49/8B@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C15259538
+1 CONT Folios 27-34: HMS Bellerophon allotment numbers 26977-27042, year of all
+1 CONC otment 1836....  
+1 CONT Reference: 	ADM 27/49/8B
+1 CONT 
+1 CONT Folios 31-32: Thomas Earwaker; Ship’s name; HMS Bellerophon; Pay book nu
+1 CONC mber: SB 330; Rank; Carpenter’s Crew; Relation; Mother Martha.
+1 CONT 
+0 @ADM 29/44/285@ NOTE Don't know if this is correct for this thomas earwaker it may wel
+1 CONC l be another
+1 CONT 
+1 CONT https://discovery.nationalarchives.gov.uk/details/r/C8983382
+1 CONT Original page number: 285 Thomas EARWAKE?; Rating; Born: [Not Given]; Ag
+1 CONC e on entry: 13;...
+1 CONT Reference: 	ADM 29/44/285 
+1 CONT 
+1 CONT Description: 	
+1 CONT 
+1 CONT Original page number: 285
+1 CONT 
+1 CONT Thomas EARWAKE?; Rating; Born: [Not Given]; Age on entry: 13; Dates serv
+1 CONC ed: 18 June 1802-15 September 1815; Date and Type of Application: Admira
+1 CONC lty 6 February 1850
+1 CONT Date: 	1849 Sept.-1850 June 
+1 CONT 
+1 CONT https://www.ancestry.co.uk/search/collections/9050
+1 CONT 
+1 CONT https://www.ancestry.co.uk/search/collections/9050?name=Thomas_Earwaker&
+1 CONC birth=1789&birth_x=0-0-0&e-Self-Military1=1815-9-15&e-Self-Military1_x=0
+1 CONC -0-0&gender=m&military=1802-6-18&military_x=0-0-0&name_x=1_1
+1 CONT 
+0 @AIR 79/1019/113723@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C11664381
+1 CONT Alfred Earwaker.
+1 CONT Reference: 	AIR 79/1019/113723
+1 CONT Description: 	
+1 CONT 
+1 CONT Alfred Earwaker.
+1 CONT Date: 	[1918-1928] 
+0 @AIR 79/1898/211252@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C12254010
+1 CONT Name: William Alfred Earwaker.
+1 CONT 
+1 CONT Reference: 	AIR 79/1898/211252
+1 CONT Description: 	
+1 CONT Name: William Alfred Earwaker.
+1 CONT Date: 	[1918-1928] 
+0 @AIR 79/2417/277736@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C12557153
+1 CONT Reference: 	AIR 79/2417/277736
+1 CONT Description: 	
+1 CONT 
+1 CONT Name: Thomas Henry Earwaker.
+1 CONT Date: 	[1918-1928] 
+0 @J 77/1566/8537@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C8021797
+1 CONT Divorce Court File: 8537. Appellant: William Henry Earwaker. Respondent
+1 CONC : Rachel...
+1 CONT Reference: 	J 77/1566/8537
+1 CONT Description: 	
+1 CONT 
+1 CONT Divorce Court File: 8537. Appellant: William Henry Earwaker. Respondent
+1 CONC : Rachel Earwaker. Type: Husband's petition for divorce [hd].
+1 CONT Date: 	1919 
 0 @N0000@ NOTE https://www.cwgc.org/our-work/blog/local-history-with-a-global-focu
 1 CONC s-the-war-graves-of-hornchurch/
 0 @N0001@ NOTE https://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/
@@ -2516,4 +2968,158 @@
 0 @N0091@ NOTE 
 0 @N0092@ NOTE NAA, Item ID, 1073809
 0 @N0093@ NOTE NAA, Item ID, 1073809
+0 @N0094@ NOTE During service on HMS Bellerophon (see Military Service event HMS B
+1 CONC llerophon 1786)
+0 @N0095@ NOTE Royal Artillery
+0 @N0096@ NOTE Royal Marines, Portsmouth
+0 @N0097@ NOTE 
+1 CONT https://www.freecen.org.uk/search_queries/6aff646d446a1c33bed9dc93
+1 CONT Nicholas EARWAKER 	Hampshire 	Ropley 	1826 	1861 	Hampshire 	Alverstoke
+1 CONT 
+1 CONT https://www.freecen.org.uk/search_records/590328dce9379091b1cb1d61/nicho
+1 CONC las-earwaker-1861-hampshire-alverstoke-1826-
+1 CONT Census 	County 	District 	Civil Parish 	Ecclesiastical Parish 	Piece 	En
+1 CONC umeration District 	Folio 	Page 	Schedule 	House Number 	House or Stree
+1 CONC t Name
+1 CONT 1861 	Hampshire (HAM) 	Alverstoke 	Alverstoke 	St Johns Forton 	64
+1 CONC 6 	8 	75 	29 	148 	2 	Lees Land Place Lees Land Lane 
+1 CONT 
+1 CONT Surname 	Forenames 	Relationship 	Marital Status 	Sex 	Age 	Occupatio
+1 CONC n 	Birth County 	Birth Place 	Disability 	Notes
+1 CONT the person found in your search 
+1 CONT EARWAKER 	Nicholas 	Head 	W 	M 	35 	Private Royal Marines 	Hampshire 	Ro
+1 CONC pley 		
+1 CONT FURNELL 	Edward 	Boardr 	U 	M 	18 	Bricklayer 	Wiltshire 	Barford St Mar
+1 CONC tin (or Burfort) 		
+1 CONT HAWKINS 	James 	Boardr 	U 	M 	20 	Bricklayer 	Hampshire 	Waterloo 		
+1 CONT SUTTON 	William 	Boardr 	U 	M 	20 	Bricklayer 	Hampshire 	Froyle 		
+1 CONT SHEARGOLD 	Isac 	Boardr 	U 	M 	28 	Excavator 	Wiltshire 	Wishford 
+0 @N0098@ NOTE https://www.ancestry.co.uk/search?name=Nicholas_Earwaker&birth=1826
+1 CONC _ropley-hampshire-england-united+kingdom_84139&death=1865&birth_x=0-0-0&
+1 CONC death_x=0-0-0&father=_Earwaker&gender=m&name_x=1_1
+1 CONT 
+1 CONT 
+0 @N0099@ NOTE https://www.freecen.org.uk/search_queries/6aff646d446a1c33bed9dc93
+1 CONT James EARWAKER 	Hampshire 	Selborne (or Selbourne) 	1843 	1861 	Hampshir
+1 CONC e 	Alton 
+1 CONT 
+1 CONT https://www.freecen.org.uk/search_records/59032e28e9379091b1dd87b0/james
+1 CONC -earwaker-1861-hampshire-alton-1843-
+1 CONT Census 	County 	District 	Civil Parish 	Ecclesiastical Parish 	Piece 	En
+1 CONC umeration District 	Folio 	Page 	Schedule 	House Number 	House or Stree
+1 CONC t Name
+1 CONT 1861 	Hampshire (HAM) 	Alton 	Newton Valence 	Newton Valance 	704 	12 	1
+1 CONC 85 	5 	24 		Shotters Farm 
+1 CONT 
+1 CONT  Surname 	Forenames 	Relationship 	Marital Status 	Sex 	Age 	Occupatio
+1 CONC n 	Birth County 	Birth Place 	Disability 	Notes
+1 CONT TURVILL 	Eli 	Head 	U 	M 	58 	Farmer 200ac 4 Lab 3 Boys 	Hampshire 	Hart
+1 CONC ley 		
+1 CONT SCHACHLIFON 	Mary 	Hskpr 	U 	F 	60 	Housekeeper 	Hampshire 	Wincheste
+1 CONC r 		
+1 CONT DIGWEED 	Lucy 	Serv 	U 	M 	15 	House Servant 	Hampshire 	Colemore 		
+1 CONT the person found in your search 
+1 CONT EARWAKER 	James 	Serv 	U 	M 	18 	Under Carter 	Hampshire 	Selborne (or S
+1 CONC elbourne) 		
+1 CONT PHILIPS 	Thomas 	Serv 	U 	M 	14 	Under Carter 	Hampshire 	Selborne (or S
+1 CONC elbourne) 		
+1 CONT PHILIPS 	George 	Serv 	U 	M 	14 	Under Shepherd 	Hampshire 	Selborne (o
+1 CONC r Selbourne) 		
+0 @N0100@ NOTE https://www.ancestry.co.uk/search?name=William+Henry_Earwaker&event
+1 CONC =_kent-england-united+kingdom_5270&birth=1884_kent-england-united+kingdo
+1 CONC m_5270&birth_x=0-0-0_1-0&child=Alec+Edmund+Green_Earwaker&event_x=_1-0&g
+1 CONC ender=m&location=3257.3250&name_x=1_1&priority=united-kingdom&residence=
+1 CONC _plymouth-devon-england-united+kingdom_83196&spouse=Rachel_Green&spouse2
+1 CONC =Alice+Eliza_Browning&spouse2_x=1_1&spouse_x=1_1
+0 @NNA/0513/2@ NOTE https://discovery.nationalarchives.gov.uk/details/r/72847971-246d-4
+1 CONC da6-8131-c5577530b6f5
+1 CONT 65 Training Squadron, RCT
+1 CONT Reference: 	NNA/0513/2
+1 CONT Title: 	65 Training Squadron, RCT
+1 CONT Description: 	
+1 CONT 
+1 CONT The permanent staff with recruit intakes 248-253 - Gloucester Troop.
+1 CONT  
+1 CONT Fifth row: Drivers Terry, Carter, Segon, Green, Simcock, Phillips, Ratcl
+1 CONC iffe, Legge, Jones, Clark, Pearson, Humphrey, Harper, Bassingdale, Oatri
+1 CONC dge, Ley, Earwaker, Francis, Lees, Gale, Williams, Hamilton, Nash, Astil
+1 CONC l, Robertson, Gow, Brown, Fraser, Crompton, Dymond, Brook, Young, Brace
+1 CONC , Johnstone, Young, Black, Blower, Dinsdale, McVicker, Warren, Southern
+1 CONC , Fraser, Burge and Murphy.
+1 CONT 
+1 CONT Date: 	May 1990 
+0 @WO 372/24/88622@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D6328506
+1 CONT Medal card of Earwaker, A Corps: Lancers Rank: Squadron Serjeant Major
+1 CONT Reference:	WO 372/24/88622
+1 CONT Description:	
+1 CONT Medal card of Earwaker, A
+1 CONT Corps	Regiment No	Rank
+1 CONT Lancers		Squadron Serjeant Major
+1 CONT Date:	1908-1924
+0 @WO 372/24/88623@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D6328507
+1 CONT Medal card of Earwaker, Robert Thomas Corps: Royal Army Service Corps at
+1 CONC tached...
+1 CONT Reference: 	WO 372/24/88623
+1 CONT Description: 	
+1 CONT Medal card of Earwaker, Robert Thomas
+1 CONT Corps 	Regiment No 	Rank
+1 CONT Royal Army Service Corps attached Field Ambulance 	T/12151 	Serjeant
+1 CONT Date: 	1908-1924 
+0 @WO 372/6/144771@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D3432407
+1 CONT Medal card of Earwaker, Alfred Corps: Hampshire Regiment Regiment No: 3/
+1 CONC 4536...
+1 CONT Reference: 	WO 372/6/144771
+1 CONT Description: 	
+1 CONT Medal card of Earwaker, Alfred
+1 CONT Corps 	Regiment No 	Rank
+1 CONT Hampshire Regiment 	3/4536 	Private
+1 CONT Date: 	1914-1920 
+0 @WO 372/6/144774@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D3432410
+1 CONT Medal card of Earwaker, Alfred H Corps: North Staffordshire Regiment Reg
+1 CONC iment... 
+1 CONT Reference: 	WO 372/6/144774
+1 CONT Description: 	
+1 CONT Medal card of Earwaker, Alfred H
+1 CONT Corps 	Regiment No 	Rank
+1 CONT North Staffordshire Regiment 	52988 	Private
+1 CONT Date: 	1914-1920 
+0 @WO 372/6/144810@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D3432446
+1 CONT Medal card of Earwaker, Thomas Corps: Royal Engineers Regiment No: 1485
+1 CONC 9 ... 
+1 CONT Reference: 	WO 372/6/144810
+1 CONT Description: 	
+1 CONT Medal card of Earwaker, Thomas
+1 CONT Corps 	Regiment No 	Rank
+1 CONT Royal Engineers 	14859 	Staff Serjeant
+1 CONT Royal Engineers 	14859 	Quarter Master Serjeant
+1 CONT Royal Corps of Signals 	1851911 	Quarter Master Serjeant
+1 CONT Indian Unattached List 	1118 	Quarter Master Serjeant
+1 CONT Date: 	1914-1920 
+0 @WO 372/6/144811@ NOTE https://discovery.nationalarchives.gov.uk/details/r/D3432447
+1 CONT Medal card of Earwaker, Thomas J Corps: Royal Warwickshire Regiment Regi
+1 CONC ment...
+1 CONT Reference: 	WO 372/6/144811
+1 CONT Description: 	
+1 CONT Medal card of Earwaker, Thomas J
+1 CONT Corps 	Regiment No 	Rank
+1 CONT Royal Warwickshire Regiment 	40492 	Private
+1 CONT Worcestershire Regiment 	43714 	Private
+1 CONT Gloucestershire Regiment 	50067 	Private
+1 CONT Date: 	1914-1920 
+0 @WO 69/79/9813@ NOTE https://discovery.nationalarchives.gov.uk/details/r/C14408779
+1 CONT Description of Recruits Enlisted for the Royal Artillery. This entry app
+1 CONC ears on page... 
+1 CONT Reference: 	WO 69/79/9813
+1 CONT Description: 	
+1 CONT 
+1 CONT Description of Recruits Enlisted for the Royal Artillery.
+1 CONT 
+1 CONT This entry appears on page 205; this number is imprinted at the top oute
+1 CONC r corner page.
+1 CONT 
+1 CONT Soldier's number 38011: Thomas EARWAKER. Born Selbourne, Hants. Enliste
+1 CONC d 1873 aged 19 years.
+1 CONT 
+1 CONT Covering dates indicate enlistment year.
+1 CONT Date: 	1873
 0 TRLR
